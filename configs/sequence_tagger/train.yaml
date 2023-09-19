@@ -1,0 +1,16 @@
+model:
+  model_name: dbmdz/bert-base-turkish-cased
+  tokenizer: dbmdz/bert-base-turkish-cased
+  num_labels: 26
+
+train:
+  batch_size: 16
+  num_of_epochs: 3
+  weight_decay: 0.01
+  learning_rate: 0.00002
+  seed: 35
+
+train_dataset_dir: datasets/gec_tr/gec_tr_source_annot_train.txt
+val_dataset_dir: datasets/gec_tr/gec_tr_source_annot_val.txt
+test_dataset_dir: datasets/gec_tr/gec_tr_source_annot_test.txt
+save_dir: "output"

@@ -1,0 +1,10 @@
+test_dataset_dir: datasets/gec_tr/gec_tr_source_annot_val.txt
+experiment_name: "experiments"
+
+model:
+  model_name: weights/sequence-tagger
+  tokenizer: dbmdz/bert-base-turkish-cased
+  num_labels: 26
+
+test:
+  batch_size: 32

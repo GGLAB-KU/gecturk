@@ -1,0 +1,22 @@
+model:
+  n_encoding_layers: 6
+  n_decoding_layers: 6
+  n_heads: 8
+  emb_size: 512
+  ffn_hid_dim: 512
+
+train:
+  batch_size: 16
+  lr: 1e-4
+  epochs: 2
+  optimizer: "adam"
+  weight_decay: 0
+  eps: 1e-9
+  beta1: 0.9
+  beta2: 0.98
+  scheduler: False
+  seed: 10 
+
+save_dir: "experiments"
+experiment_name: ""
+

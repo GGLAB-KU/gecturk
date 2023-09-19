@@ -1,0 +1,12 @@
+model: #will use default model configs if using our pre-trained checkpoints, otherwise, 
+# the config in the args.json file under {experiment_name} folder will be used.
+  n_encoding_layers: 6
+  n_decoding_layers: 6
+  n_heads: 8
+  emb_size: 512
+  ffn_hid_dim: 512
+  
+experiment_name: '' #must provide the path to the saved nmt folder. if empty, default weights under the {weights} folder will be used.
+ckpt_name: '' #must provide checkpoint to the trained nmt
+
+
