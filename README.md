@@ -145,9 +145,19 @@ You should begin by curating a list of sentences that are grammatically correct.
 
 ## Citing
 
-TBA
+```bibtex
+@misc{kara2023gecturk,
+      title={GECTurk: Grammatical Error Correction and Detection Dataset for Turkish}, 
+      author={Atakan Kara and Farrin Marouf Sofian and Andrew Bond and Gözde Gül Şahin},
+      year={2023},
+      eprint={2309.11346},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
+## Contact
+For any questions or inquiries, please contact [Atakan Kara](mailto:akara18@ku.edu.tr).
 
-Contact: Atakan Kara, akara18@ku.edu.tr
 
 Please send us an e-mail or report an issue, if something is broken or if you have further questions.
