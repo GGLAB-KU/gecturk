@@ -51,7 +51,7 @@ GECTurk consists of 138K sentences, consisting of 25 different rules, with varyi
 
     Hiçbir haber hiçbir gazeteciye gökten inmez.
 
-To further evaluate, we manually annotate a dataset of movie reviews which is also provided in [here](https://drive.google.com/drive/folders/1Ip4vO9Qdl-Bm1mdNwMDjmL9lbTn3xbeP?usp=sharing).
+To further evaluate, we manually annotate a dataset of movie reviews which is also provided in [here](https://drive.google.com/file/d/17il4h-QOQyeCaeYYS3Zz3Uxk_R1F1hf0/view?usp=drive_link) and at huggingface [repository](https://huggingface.co/datasets/GGLab/GECTurk).
 ## Tasks & Models
 
 In our work, we focus on two tasks: *Grammatical Error Correction* (GEC) and *Grammatical Error Detection* (GED). 
@@ -65,7 +65,9 @@ Here are the necessary instructions to download and use the datasets, reproduce 
 
 > Datasets
 
-The datasets can be downloaded from [here](https://drive.google.com/drive/folders/1Ip4vO9Qdl-Bm1mdNwMDjmL9lbTn3xbeP?usp=sharing). After downloading the dataset, move it to the corresponding dataset directory.
+The datasets can be downloaded from [here](https://drive.google.com/drive/folders/121DNJ65WiCl3LvgDc9Cb9EXtNRk6XThR?usp=sharing) or from huggingface [repository](https://huggingface.co/datasets/GGLab/GECTurk). After downloading the dataset, move it to the corresponding dataset directory. 
+
+We also provide preprocessed version of the "de/da clitic errors" dataset proposed by [Arikan et. al.](https://www.cmpe.boun.edu.tr/~onurgu/publication/arikan-2019-detecting/) in the datasets/boun directory. They follow the M2 format and annotated with the error classes proposed by the GECTurk paper.
 
 ```bash
 mkdir datasets
@@ -75,7 +77,7 @@ Where dataset_name is either gec_tr or boun.
 
 > Weights
 
-We provide the weights trained on all data for the NMT, mGPT and sequence tagger in [here](https://drive.google.com/drive/folders/10emM6QxiEidvCtxCdh_MyQ4UD82ay0Wy?usp=sharing). After obtaining the weights, move it to the corresponding folder in the weights directory under the model name.
+We provide the weights trained on all data for the NMT, mGPT and sequence-tagger in [here](https://drive.google.com/drive/folders/10E7aMgKJ0w4STSyrloTD6z1xVmk0IEW9?usp=drive_link). Our best performing model, sequence-tagger can also be accessed from [here](https://huggingface.co/GGLab/gec-tr-seq-tagger). After obtaining the weights, move it to the corresponding folder in the weights directory under the model name.
 
 ```bash
 mkdir weights weights/<model_name>
@@ -87,7 +89,7 @@ For each model, a default configuration file is provided in the configs director
 
 > NMT Training and Validation
 
-To train or validate the models, after downloading the [dataset](https://drive.google.com/drive/folders/1Ip4vO9Qdl-Bm1mdNwMDjmL9lbTn3xbeP?usp=sharing) and the weights (for validation) you can use the following commands:
+To train or validate the models, after downloading the [dataset](https://drive.google.com/drive/folders/121DNJ65WiCl3LvgDc9Cb9EXtNRk6XThR?usp=drive_link) and the weights (for validation) you can use the following commands:
 
 ```bash
 # an example for training NMT
