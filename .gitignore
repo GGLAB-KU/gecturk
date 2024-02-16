@@ -135,11 +135,9 @@ experiments
 weights
 *.pt
 *.pth
-datasets
 experiments
 *.json
 *.zip
 
 weights/*
 wandb/*
-dataset/*
