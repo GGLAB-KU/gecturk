@@ -1,0 +1,2671 @@
+S Guingamp, maça 8. dakikada attığı golle 1-0 önde başlasa da, arka arkaya gelen gollere engel olamadı.
+
+S Guingamp, maça 8. dakikada attığı golle 1-0 önde başlasada, arka arkaya gelen gollere engel olamadı.
+A 8 9|||rule_1|||başlasa da,|||REQUIRED|||-NONE-|||0
+
+S Dünyanın birçok ekonomisi, gelişmiş ülkeler, Avrupa ekonomisi, Avrupa Birliği ekonomide daralırken ya da çok cüzi büyümeler kaydederken biz yüzde 2,2 büyüme oranıyla çok farklı bir yerde duruyoruz.
+
+S Dünyanın birçok ekonomisi, gelişmiş ülkeler, Avrupa ekonomisi, Avrupa Birliği ekonomide daralırken yada çok cüzi büyümeler kaydederken biz yüzde 2,2 büyüme oranıyla çok farklı bir yerde duruyoruz.
+A 11 12|||rule_1|||ya da|||REQUIRED|||-NONE-|||0
+
+S Kapanış konuşmasında bu tür toplantıların çok verimli olduğu vurgusunu yapan Kooperatif Başkanı Ömer Ohan da Permakültür ile ilgili bilgilendirmesinden dolayı Tuğrul Kınıkoğlu'na teşekkür etti.
+
+S Kapanış konuşmasında bu tür toplantıların çok verimli olduğu vurgusunu yapan Kooperatif Başkanı Ömer Ohanda Permakültür ile ilgili bilgilendirmesinden dolayı Tuğrul Kınıkoğlu'na teşekkür etti.
+A 13 14|||rule_1|||Ohan da|||REQUIRED|||-NONE-|||0
+
+S Şeker Fabrikası Müdürü Ali Uslu da Vanlı ailelerin en iyi şekilde misafir edildiğini söyledi.
+
+S Şeker Fabrikası Müdürü Ali Usluda Vanlı ailelerin en iyi şekilde misafir edildiğini söyledi.
+A 4 5|||rule_1|||Uslu da|||REQUIRED|||-NONE-|||0
+
+S Buna bir de 'muhacir' eklenmesi kabul edilebilir olmadığı gibi, ayrımcı bir zihniyetin dışa vurumu olarak da görüyoruz.
+
+S Buna bir de 'muhacir' eklenmesi kabul edilebilir olmadığı gibi, ayrımcı bir zihniyetin dışa vurumu olarakda görüyoruz.
+A 14 15|||rule_1|||olarak da|||REQUIRED|||-NONE-|||0
+
+S Türkiye'nin yeniden Ortadoğu'ya `` sürülmesi '' için İkinci Dünya Savaşı'nın bitmesi ve ABD önderliğinde Batı'nın Soğuk Savaş saldırısının başlaması beklenecektir İkinci Dünya Savaşı sonrasında, iki yükselen güç, bütün birikimsizliğiyle artık uygun iç ve dış koşullarda politik iktidarı da ele geçirmeye yönelen ve dış hamiye ihtiyaç duyan Türk burjuvazisiyle, bir elinde silah, ötekinde dolar, tetikçi arayışındaki ABD, Soğuk Savaş'ın istikrarsızlık, çatışma, tedhiş piyasasında buluştular Biri müflis tüccardı ve elinde pazarlayabileceği şey çocuklarının kanıydı.
+
+S Türkiye'nin yeniden Ortadoğu'ya `` sürülmesi '' için İkinci Dünya Savaşı'nın bitmesi ve ABD önderliğinde Batı'nın Soğuk Savaş saldırısının başlaması beklenecektir İkinci Dünya Savaşı sonrasında, iki yükselen güç, bütün birikimsizliğiyle artık uygun iç ve dış koşullarda politik iktidarıda ele geçirmeye yönelen ve dış hamiye ihtiyaç duyan Türk burjuvazisiyle, bir elinde silah, ötekinde dolar, tetikçi arayışındaki ABD, Soğuk Savaş'ın istikrarsızlık, çatışma, tedhiş piyasasında buluştular Biri müflis tüccardı ve elinde pazarlayabileceği şey çocuklarının kanıydı.
+A 36 37|||rule_1|||iktidarı da|||REQUIRED|||-NONE-|||0
+
+S Zamanİn seçkin kadİlarİndan ve limlerinden, şer'i ve akl'i ilimlerde bilgin biri olan, i halin süluk yollarİnİ ve makamlarİnİ da elde etmişti... kazaskerlik ve sadret mansİbİna memur ve mecbur etmişti... Bôrklüce Mustafa'nİn dinden sorguya çekilme kuşkusu ġeyhi, bu sonuçla karşİ karşİya bİraktİ.
+
+S Zamanİn seçkin kadİlarİndan ve limlerinden, şer'i ve akl'i ilimlerde bilgin biri olan, i halin süluk yollarİnİ ve makamlarİnİda elde etmişti... kazaskerlik ve sadret mansİbİna memur ve mecbur etmişti... Bôrklüce Mustafa'nİn dinden sorguya çekilme kuşkusu ġeyhi, bu sonuçla karşİ karşİya bİraktİ.
+A 17 18|||rule_1|||makamlarİnİ da|||REQUIRED|||-NONE-|||0
+
+S Rengin kırmızılığı ya da yeşilliği, boyutsuz:
+
+S Rengin kırmızılığı yada yeşilliği, boyutsuz:
+A 2 3|||rule_1|||ya da|||REQUIRED|||-NONE-|||0
+
+S Evin arkasında da orman başlıyordu, önce Hayvan Mezarlığına, sonra da daha öteki Micmac mezarlığına giden orman «Uçumpa uçuyor, baba!
+
+S Evin arkasındada orman başlıyordu, önce Hayvan Mezarlığına, sonrada daha öteki Micmac mezarlığına giden orman «Uçumpa uçuyor, baba!
+A 1 2|||rule_1|||arkasında da|||REQUIRED|||-NONE-|||0
+A 7 8|||rule_1|||sonra da|||REQUIRED|||-NONE-|||0
+
+S Hani bir at, yahut başka bir hayvan, tuzlaya düşüp tuz olsa onda attıktan addan başka birşey kalmaz; o da tuz denizi olurgider; işte de tesirde de o adın ne ziyanı dokunur ona?
+
+S Hani bir at, yahut başka bir hayvan, tuzlaya düşüp tuz olsa onda attıktan addan başka birşey kalmaz; oda tuz denizi olurgider; işte de tesirde de o adın ne ziyanı dokunur ona?
+A 17 18|||rule_1|||o da|||REQUIRED|||-NONE-|||0
+
+S Nitekim tarihçi, Otman Baba velâyetnâmesine dayanarak, şeyhin daha II.Mehmed Manisa'dayken, o çevreyi dolaşıp Manisa'da da bulunduğunu aktarmakta ve onunla orada kurulduğu düşünülen bu ilişkinin daha sonra da devam ettiğini vurgulamaktadır.
+
+S Nitekim tarihçi, Otman Baba velâyetnâmesine dayanarak, şeyhin daha II.Mehmed Manisa'dayken, o çevreyi dolaşıp Manisa'dada bulunduğunu aktarmakta ve onunla orada kurulduğu düşünülen bu ilişkinin daha sonrada devam ettiğini vurgulamaktadır.
+A 13 14|||rule_1|||Manisa'da da|||REQUIRED|||-NONE-|||0
+A 24 25|||rule_1|||sonra da|||REQUIRED|||-NONE-|||0
+
+S Bu nedenle, dolaşımda HBcAg tespit edilemediği için tanı amacıyla da kullanılamaz Okuma Pre-C '' den başladığı zaman hem pre-C hem de C bölgesi okunur ve HBeAg sentezlenir.
+
+S Bu nedenle, dolaşımda HBcAg tespit edilemediği için tanı amacıylada kullanılamaz Okuma Pre-C '' den başladığı zaman hem pre-C hem de C bölgesi okunur ve HBeAg sentezlenir.
+A 8 9|||rule_1|||amacıyla da|||REQUIRED|||-NONE-|||0
+
+S Yapılacak kompozit malzemenin tam karakterize edilebilmesi için tabakanın çekme dayanımlarının da anlaşılması gerekir Kompozit sistemlerin çekme ve basma dayanımlarında farklılıklar olabilir ve kırılma karakteristikleri kullanılan bileşen malzemelere oldukça fazla bağımlıdır.
+
+S Yapılacak kompozit malzemenin tam karakterize edilebilmesi için tabakanın çekme dayanımlarınında anlaşılması gerekir Kompozit sistemlerin çekme ve basma dayanımlarında farklılıklar olabilir ve kırılma karakteristikleri kullanılan bileşen malzemelere oldukça fazla bağımlıdır.
+A 9 10|||rule_1|||dayanımlarının da|||REQUIRED|||-NONE-|||0
+
+S Ayrıca, terk etme sonucu mağdur yaralanmış ya da ölmüş ise ya da terk edilen çocuk evlilik dışı doğmuş ise cezai indirimler öngörülüyordu.Bildirmeyen de suçluKomisyon, tasarının 'yardım veya bildirim yükümlülüğünü yerine getirmeyenlere' yalnızca para cezası öngören maddesine, hapis cezasını da ekledi.
+
+S Ayrıca, terk etme sonucu mağdur yaralanmış yada ölmüş ise yada terk edilen çocuk evlilik dışı doğmuş ise cezai indirimler öngörülüyordu.Bildirmeyen de suçluKomisyon, tasarının 'yardım veya bildirim yükümlülüğünü yerine getirmeyenlere' yalnızca para cezası öngören maddesine, hapis cezasınıda ekledi.
+A 6 7|||rule_1|||ya da|||REQUIRED|||-NONE-|||0
+A 9 10|||rule_1|||ya da|||REQUIRED|||-NONE-|||0
+A 35 36|||rule_1|||cezasını da|||REQUIRED|||-NONE-|||0
+
+S Örneğin, buhar banyoları... Bir litre suyu kaynattıktan sonra, çadır oluşturacak şekilde başa örtülen havluyla, 20-25 dakika süreyle yüzün buhara tutulması da, cildi temizliyor ve rahatlatıyor.
+
+S Örneğin, buhar banyoları... Bir litre suyu kaynattıktan sonra, çadır oluşturacak şekilde başa örtülen havluyla, 20-25 dakika süreyle yüzün buhara tutulmasıda, cildi temizliyor ve rahatlatıyor.
+A 19 20|||rule_1|||tutulması da,|||REQUIRED|||-NONE-|||0
+
+S Karaman'da da bu şartların kaldırılması, borçlanma imkanının getirilmesi gerekiyor.
+
+S Karaman'dada bu şartların kaldırılması, borçlanma imkanının getirilmesi gerekiyor.
+A 0 1|||rule_1|||Karaman'da da|||REQUIRED|||-NONE-|||0
+
+S Geçtiğimiz aylarda evlendiği Kerimcan Kamal'ın doğum gününde yaptığı sürprizlerle mutluluk sarhoşu olan Rutkay'ı, oyuncu birçok arkadaşı da bu özel gecede yalnız bırakmadı.
+
+S Geçtiğimiz aylarda evlendiği Kerimcan Kamal'ın doğum gününde yaptığı sürprizlerle mutluluk sarhoşu olan Rutkay'ı, oyuncu birçok arkadaşıda bu özel gecede yalnız bırakmadı.
+A 15 16|||rule_1|||arkadaşı da|||REQUIRED|||-NONE-|||0
+
+S Bu telefon çaldığı ya da mesaj işareti geldiği zaman burada bir isim yazmıyorsa açılmaz ve okunmaz.
+
+S Bu telefon çaldığı yada mesaj işareti geldiği zaman burada bir isim yazmıyorsa açılmaz ve okunmaz.
+A 3 4|||rule_1|||ya da|||REQUIRED|||-NONE-|||0
+
+S Sizin simsiyah saçlar nasıl oldu da böyle kısa sürede beyazladı?-
+
+S Sizin simsiyah saçlar nasıl olduda böyle kısa sürede beyazladı?-
+A 4 5|||rule_1|||oldu da|||REQUIRED|||-NONE-|||0
+
+S Üstelik bilene ve anlatana da kızıyor.'
+
+S Üstelik bilene ve anlatanada kızıyor.'
+A 3 4|||rule_1|||anlatana da|||REQUIRED|||-NONE-|||0
+
+S Ya da en iyisi Marmaray kapatılsın.
+
+S Yada en iyisi Marmaray kapatılsın.
+A 0 1|||rule_1|||Ya da|||REQUIRED|||-NONE-|||0
+
+S Üstelik sadece yeni kitlelerle değil, kendi tabanıyla da buluşmakta sıkıntı çekiyor.
+
+S Üstelik sadece yeni kitlelerle değil, kendi tabanıylada buluşmakta sıkıntı çekiyor.
+A 6 7|||rule_1|||tabanıyla da|||REQUIRED|||-NONE-|||0
+
+S Gürcistan' da istikrara katkıda bulunma amaçlı bir AB misyonu, 27 ulustan oluşan bloğa bağlı silahsız gözlemcilerin ülkenin bu yaz Rusya ile girdiği beş günlük çatışmaya son veren ateşkesi izlemeye başlamasıyla 1 Ekim Çarşamba günü faaliyetlerine başladı.
+
+S Gürcistan 'da istikrara katkıda bulunma amaçlı bir AB misyonu, 27 ulustan oluşan bloğa bağlı silahsız gözlemcilerin ülkenin bu yaz Rusya ile girdiği beş günlük çatışmaya son veren ateşkesi izlemeye başlamasıyla 1 Ekim Çarşamba günü faaliyetlerine başladı.
+A 0 2|||rule_6|||Gürcistan'da|||REQUIRED|||-NONE-|||0
+
+S Evans' a göre Makedon yargı sistemiyle ilgili pek çok soru var ve yaklaşan parlamento seçimleri öncesinde davaların iade edilmesi işleri daha da kızıştırabilir.
+
+S Evans' a göre Makedon yargı sistemiyle ilgili pek çok soru var ve yaklaşan parlamento seçimleri öncesinde davaların iade edilmesi işleri dahada kızıştırabilir.
+A 20 21|||rule_1|||daha da|||REQUIRED|||-NONE-|||0
+
+S Bunu yapan da penguen medyası filan değil, direkt hükümetin kendisi oldu.
+
+S Bunu yapanda penguen medyası filan değil, direkt hükümetin kendisi oldu.
+A 1 2|||rule_1|||yapan da|||REQUIRED|||-NONE-|||0
+
+S Bu çalıştay umarım yeni ekonomi programının oluşmasında da etkili olacaktır.
+
+S Bu çalıştay umarım yeni ekonomi programının oluşmasındada etkili olacaktır.
+A 6 7|||rule_1|||oluşmasında da|||REQUIRED|||-NONE-|||0
+
+S Ahmet Hakan'a göre Erdoğan `` Yolsuzluk yapan bakan oğlu da olsa hapse girer.
+
+S Ahmet Hakan'a göre Erdoğan `` Yolsuzluk yapan bakan oğluda olsa hapse girer.
+A 8 9|||rule_1|||oğlu da|||REQUIRED|||-NONE-|||0
+
+S Elbette sanayi üretimi, cari işlemler dengesi, istihdam, tüketim malları satışları gibi reel ya da enflasyon, döviz kuru, faiz gibi nominal göstergeler de yararlıdır.
+
+S Elbette sanayi üretimi, cari işlemler dengesi, istihdam, tüketim malları satışları gibi reel yada enflasyon, döviz kuru, faiz gibi nominal göstergeler de yararlıdır.
+A 12 13|||rule_1|||ya da|||REQUIRED|||-NONE-|||0
+
+S Görüntülerde zaman zaman meydana gelen şiddetli patlamalar da dikkat çekiyor.
+
+S Görüntülerde zaman zaman meydana gelen şiddetli patlamalarda dikkat çekiyor.
+A 6 7|||rule_1|||patlamalar da|||REQUIRED|||-NONE-|||0
+
+S Kimse Yok mu Derneği tarafından başlatılan `` Bir Yetim Başı da Siz Okşayın '' isimli harekete destek her geçen gün artıyor.
+
+S Kimse Yok mu Derneği tarafından başlatılan `` Bir Yetim Başıda Siz Okşayın '' isimli harekete destek her geçen gün artıyor.
+A 9 10|||rule_1|||Başı da|||REQUIRED|||-NONE-|||0
+
+S Romario kariyeri boyunca Vasco da Gama, PSV Eindhoven, Barcelona, Flamengo, Valencia, Fluminense, Al Saad( Katar ), Miami FC ve Adelaide United takımlarının formalarını giydi.
+
+S Romario kariyeri boyunca Vascoda Gama, PSV Eindhoven, Barcelona, Flamengo, Valencia, Fluminense, Al Saad( Katar ), Miami FC ve Adelaide United takımlarının formalarını giydi.
+A 3 4|||rule_1|||Vasco da|||REQUIRED|||-NONE-|||0
+
+S Seçimde kime oy vereceğimi açıklamayı da yorumculuğun bir gereği sayıyorum.
+
+S Seçimde kime oy vereceğimi açıklamayıda yorumculuğun bir gereği sayıyorum.
+A 4 5|||rule_1|||açıklamayı da|||REQUIRED|||-NONE-|||0
+
+S Dev maça 1-0'lık skor dezavantajıyla başlayacak olan Sarı-Lacivertliler, ezeli rakipleri karşısında Kadıköy'de 6 yılı aşkın süredir maç kazanamazken, Türkiye Kupası maçlarında da 24 yıla yayılan son 13 maçta galibiyet elde edemedi.
+
+S Dev maça 1-0'lık skor dezavantajıyla başlayacak olan Sarı-Lacivertliler, ezeli rakipleri karşısında Kadıköy'de 6 yılı aşkın süredir maç kazanamazken, Türkiye Kupası maçlarındada 24 yıla yayılan son 13 maçta galibiyet elde edemedi.
+A 20 21|||rule_1|||maçlarında da|||REQUIRED|||-NONE-|||0
+
+S Haberal da 'neyse olur böyle şeyler' dedi.
+
+S Haberalda 'neyse olur böyle şeyler' dedi.
+A 0 1|||rule_1|||Haberal da|||REQUIRED|||-NONE-|||0
+
+S Gençlik ve Spor Bakanlığı da yazıyla bilgilendirildi.
+
+S Gençlik ve Spor Bakanlığıda yazıyla bilgilendirildi.
+A 3 4|||rule_1|||Bakanlığı da|||REQUIRED|||-NONE-|||0
+
+S Döşemealtı Kaymakamı İbrahim Hayrullah Sun'un da hazır bulunduğu törenin ardından satranç takımı dağıtımına geçildi.
+
+S Döşemealtı Kaymakamı İbrahim Hayrullah Sun'unda hazır bulunduğu törenin ardından satranç takımı dağıtımına geçildi.
+A 4 5|||rule_1|||Sun'un da|||REQUIRED|||-NONE-|||0
+
+S Hiçbir ülkenin ilaç ve serum bulamadığı hastalık sebebiyle dünyada da yüzlerce kişi hayatını kaybetti.
+
+S Hiçbir ülkenin ilaç ve serum bulamadığı hastalık sebebiyle dünyadada yüzlerce kişi hayatını kaybetti.
+A 8 9|||rule_1|||dünyada da|||REQUIRED|||-NONE-|||0
+
+S Ancak bu tarihi başarı aynı zamanda geçmişi yüzyılların tarihsel birikimine dayanan Galatasaray'ın kurumsallığını ve sahip olduğu kültürel altyapıyı göstermesi açısından da ayrıca önemliydi.
+
+S Ancak bu tarihi başarı aynı zamanda geçmişi yüzyılların tarihsel birikimine dayanan Galatasaray'ın kurumsallığını ve sahip olduğu kültürel altyapıyı göstermesi açısındanda ayrıca önemliydi.
+A 19 20|||rule_1|||açısından da|||REQUIRED|||-NONE-|||0
+
+S Fondoten ya da pudra kullanımı sivilceyi sadece kapatır.
+
+S Fondoten yada pudra kullanımı sivilceyi sadece kapatır.
+A 1 2|||rule_1|||ya da|||REQUIRED|||-NONE-|||0
+
+S Eseriniz soyut da olabilir somut da.
+
+S Eseriniz soyutda olabilir somutda.
+A 1 2|||rule_1|||soyut da|||REQUIRED|||-NONE-|||0
+A 3 4|||rule_1|||somut da.|||REQUIRED|||-NONE-|||0
+
+S Kalan dakikalarda da gol olmayınca mücadele golsüz sona erdi.
+
+S Kalan dakikalardada gol olmayınca mücadele golsüz sona erdi.
+A 1 2|||rule_1|||dakikalarda da|||REQUIRED|||-NONE-|||0
+
+S Gümüşhane'den gelen kafilenin başkanı Mehmet Çiftçi de `` Malatya'da 23 Nisan bayramı etkinliklerini izleyerek gezimize başladık.
+
+S Gümüşhane'den gelen kafilenin başkanı Mehmet Çiftçide `` Malatya'da 23 Nisan bayramı etkinliklerini izleyerek gezimize başladık.
+A 5 6|||rule_1|||Çiftçi de|||REQUIRED|||-NONE-|||0
+
+S Bayramın ilk gününden itibaren Konya'da ilçe ilçe gezen Dışişleri Bakanı Ahmet Davutoğlu bugün de Beyşehir ilçesinde çeşitli ziyaretlerde bulundu.
+
+S Bayramın ilk gününden itibaren Konya'da ilçe ilçe gezen Dışişleri Bakanı Ahmet Davutoğlu bugünde Beyşehir ilçesinde çeşitli ziyaretlerde bulundu.
+A 12 13|||rule_1|||bugün de|||REQUIRED|||-NONE-|||0
+
+S Batılı liderler Ortadoğu'ya yönelik de mesaj verdi.
+
+S Batılı liderler Ortadoğu'ya yönelikde mesaj verdi.
+A 3 4|||rule_1|||yönelik de|||REQUIRED|||-NONE-|||0
+
+S de bisikletle çıkan prens ve Prenses habercilerin yoğun ilgisi ile Balyoz Sokağı'nı takiben, Pera Palas Otel'e kadar pedal çevirdi.
+
+S de bisikletle çıkan prens ve Prenses habercilerin yoğun ilgisi ile Balyoz Sokağı'nı takiben, Pera Palas Otel'e kadar pedal çevirdi.
+A -1 1|||rule_6|||çevirdi.de|||REQUIRED|||-NONE-|||0
+
+S Bundan sonraki süreçte de milletimize her gittiğimiz yerde yapılacak olan bu milli değerleri koru ve yaşat mitinglerinde milletimize şikayette bulunacağız.
+
+S Bundan sonraki süreçtede milletimize her gittiğimiz yerde yapılacak olan bu milli değerleri koru ve yaşat mitinglerinde milletimize şikayette bulunacağız.
+A 2 3|||rule_1|||süreçte de|||REQUIRED|||-NONE-|||0
+
+S Sonradan, bu adamın Murat'ın babası olduğunu öğrendik- Müsaade ederseniz, ben de konuşmak istiyorum... dedi Okul Aile Birliği Başkanı olan hanım,- Buyurun efendim, sizi dinliyoruz... dedi Bunun üzerine adam,- Ben mi?
+
+S Sonradan, bu adamın Murat'ın babası olduğunu öğrendik- Müsaade ederseniz, bende konuşmak istiyorum... dedi Okul Aile Birliği Başkanı olan hanım,- Buyurun efendim, sizi dinliyoruz... dedi Bunun üzerine adam,- Ben mi?
+A 9 10|||rule_1|||ben de|||REQUIRED|||-NONE-|||0
+
+S Bu mertebe ilgi, atıfet ve süreklilik mertebesidir Sevgi olmasaydı el-Vedûd bilinmezdi Fakirlik olmasaydı el-'evâd'a ibadet edilmezdi Biz O'nunla varız, O'na aidiz hepimiz Kim bedel öderse O'na itimat eder İlah bir şeyin varlığını dilerse Meşiyeti ona ilişmiştir, karşı konulamaz ona Gecikme olmaksızın onların nezdinde bulunuruz Âlemin kazanılmış niteliğidir bu Bilin ki âlemin kaynağı sevgidir el-Vedâd izhar etmiş onu Allah sürekli seven olduğu için el-Vedûd iken bizim içinde sü296 Yazılar rekli yaratan ve `` Her gün bir işte '' olan diye nitelenendir.
+A 65 66|||rule_1|||için de|||REQUIRED|||-NONE-|||0
+
+S Bo­ raks da dahil olmak üzere maden sektörün­ de yabancı sermayenin dağılışına bir göz atalım:
+
+S Bo­ raks da dahil olmak üzere maden sektörün­de yabancı sermayenin dağılışına bir göz atalım:
+A 7 8|||rule_1|||sektörün­ de|||REQUIRED|||-NONE-|||0
+
+S Ancak gençlik çağlarını Herat'da geçirmiş, esas tahsilini de Mısır'da yapmış, manevi tahsilini ise Buhara'da tamamlamıştır.
+
+S Ancak gençlik çağlarını Herat'da geçirmiş, esas tahsilinide Mısır'da yapmış, manevi tahsilini ise Buhara'da tamamlamıştır.
+A 6 7|||rule_1|||tahsilini de|||REQUIRED|||-NONE-|||0
+
+S Bunun dışında ikili arasında 18 yaş fark vardı Başka bir deyişle damat ve kayınpeder yaşıttı Tüm bunlar yetmezmiş gibi Mustafa Kemal'in asker geçmişi de Muammer Bey'i düşündürmektedir.
+
+S Bunun dışında ikili arasında 18 yaş fark vardı Başka bir deyişle damat ve kayınpeder yaşıttı Tüm bunlar yetmezmiş gibi Mustafa Kemal'in asker geçmişide Muammer Bey'i düşündürmektedir.
+A 22 23|||rule_1|||geçmişi de|||REQUIRED|||-NONE-|||0
+
+S Benzer durumlar Tanzanya'da, Avualya'da, Yeni Gine'de, Kazakistan'da, Kırım'da ve bilig, Güz/ 2005, sayı pek çok yerde de meydana gelmiştir.
+
+S Benzer durumlar Tanzanya'da, Avualya'da, Yeni Gine'de, Kazakistan'da, Kırım'da ve bilig, Güz/ 2005, sayı pek çok yerdede meydana gelmiştir.
+A 15 16|||rule_1|||yerde de|||REQUIRED|||-NONE-|||0
+
+S Revue canadienne de sante publique Continues the Canadian public health journal Can J Radiogr Radiother Nucl Med s) The Canadian journal of radiography, radiotherapy, nuclear medicine Continues The Canadian journal of radiography, radiotherapy, nucleography Continued by:
+
+S Revue canadiennede sante publique Continues the Canadian public health journal Can J Radiogr Radiother Nucl Med s) The Canadian journal of radiography, radiotherapy, nuclear medicine Continues The Canadian journal of radiography, radiotherapy, nucleography Continued by:
+A 1 2|||rule_1|||canadienne de|||REQUIRED|||-NONE-|||0
+
+S Solungaç dokusu Mg düzeyi kurşunun etkisinde değişmediği, bakırın etkisinde ise 20. günde tüm derişimlerde arttığı saptanmıştır O. niloticus'da serum Mg düzeyleri denenen her iki metalin etkisinde de azalırken, C. carpio'da serum Mg düzeyleri denenen her iki metalin etkisinde de artış gösterdiği belirlenmiştir Magnezyum canlılar için gerekli bir mineral olup, kemik dokusundaki işlevine ek olarak, karbonhidrat metabolizması ve protein sentezi gibi fizyolojik işlevlerde önemli görevleri bulunan bir iyondur.
+
+S Solungaç dokusu Mg düzeyi kurşunun etkisinde değişmediği, bakırın etkisinde ise 20. günde tüm derişimlerde arttığı saptanmıştır O. niloticus'da serum Mg düzeyleri denenen her iki metalin etkisindede azalırken, C. carpio'da serum Mg düzeyleri denenen her iki metalin etkisindede artış gösterdiği belirlenmiştir Magnezyum canlılar için gerekli bir mineral olup, kemik dokusundaki işlevine ek olarak, karbonhidrat metabolizması ve protein sentezi gibi fizyolojik işlevlerde önemli görevleri bulunan bir iyondur.
+A 25 26|||rule_1|||etkisinde de|||REQUIRED|||-NONE-|||0
+A 36 37|||rule_1|||etkisinde de|||REQUIRED|||-NONE-|||0
+
+S Akdeniz iklim özellikleri gösteren bölge Akdeniz bitki örtüsü karakterini de yansıtır.
+
+S Akdeniz iklim özellikleri gösteren bölge Akdeniz bitki örtüsü karakterinide yansıtır.
+A 8 9|||rule_1|||karakterini de|||REQUIRED|||-NONE-|||0
+
+S Deniz Baykal, mitinglere itibar etmediği gibi, anketlere de itibar etmiyor.
+
+S Deniz Baykal, mitinglere itibar etmediği gibi, anketlerede itibar etmiyor.
+A 6 7|||rule_1|||anketlere de|||REQUIRED|||-NONE-|||0
+
+S Mont, kaban, palto veya trençkot seçimi de bir diğer düşündürücü unsurdur.
+
+S Mont, kaban, palto veya trençkot seçimide bir diğer düşündürücü unsurdur.
+A 5 6|||rule_1|||seçimi de|||REQUIRED|||-NONE-|||0
+
+S Tedavi alanında bir problem olmasa da; toplulukları, özellikle de gençleri eğitmek ve bilgilendirmek konusunda yetersiz kalınıyordu.
+
+S Tedavi alanında bir problem olmasa da; toplulukları, özelliklede gençleri eğitmek ve bilgilendirmek konusunda yetersiz kalınıyordu.
+A 7 8|||rule_1|||özellikle de|||REQUIRED|||-NONE-|||0
+
+S Ne de olsa 75. doğum günüydü.
+
+S Nede olsa 75. doğum günüydü.
+A 0 1|||rule_1|||Ne de|||REQUIRED|||-NONE-|||0
+
+S Yüksek Temsilci Paddy Ashdown 16 Eylül' de basına verdiği demeçte, `` Bu yasanın geçirilmesiyle BH temsilcileri, vatandaşlarına komünist gizli servisinin ansızın kapılarını çaldığı günlerin geride kaldığını gösterecekler, `` dedi.
+
+S Yüksek Temsilci Paddy Ashdown 16 Eylül 'de basına verdiği demeçte, `` Bu yasanın geçirilmesiyle BH temsilcileri, vatandaşlarına komünist gizli servisinin ansızın kapılarını çaldığı günlerin geride kaldığını gösterecekler, `` dedi.
+A 5 7|||rule_6|||Eylül'de|||REQUIRED|||-NONE-|||0
+
+S SERDA teknik danışmanı Fuad Curcic, diğer ajans projeleri arasında orta ve küçük çaplı işletmelere ücretsiz portal sağlayan bir web sitesinin de bulunduğunu belirtiyor.
+
+S SERDA teknik danışmanı Fuad Curcic, diğer ajans projeleri arasında orta ve küçük çaplı işletmelere ücretsiz portal sağlayan bir web sitesininde bulunduğunu belirtiyor.
+A 19 20|||rule_1|||sitesinin de|||REQUIRED|||-NONE-|||0
+
+S Yeni Kosova’ da azınlık partilerinin hem hükümetin kurulmasında hem de hükümet politikalarının belirlenmesinde kritik rol oynayacağı kesin.
+
+S Yeni Kosova’ da azınlık partilerinin hem hükümetin kurulmasında hemde hükümet politikalarının belirlenmesinde kritik rol oynayacağı kesin.
+A 8 9|||rule_1|||hem de|||REQUIRED|||-NONE-|||0
+
+S Sadece Demokratlar değil, Cumhuriyetçiler de bölünmüş durumda.
+
+S Sadece Demokratlar değil, Cumhuriyetçilerde bölünmüş durumda.
+A 3 4|||rule_1|||Cumhuriyetçiler de|||REQUIRED|||-NONE-|||0
+
+S Tabii zalimlikte eski 28 Şubatçılara şimdiden fark atan hükümet, bu ‘şeref’e de nail olmak isterse, o başka.
+
+S Tabii zalimlikte eski 28 Şubatçılara şimdiden fark atan hükümet, bu ‘şeref’ede nail olmak isterse, o başka.
+A 10 11|||rule_1|||‘şeref’e de|||REQUIRED|||-NONE-|||0
+
+S Sonuçta 1 polis öldü ve 2 de yaralandı.2 ABD askeri de intihar saldırısı sonucunda yaralandı '' dedi.
+
+S Sonuçta 1 polis öldü ve 2de yaralandı.2 ABD askeride intihar saldırısı sonucunda yaralandı '' dedi.
+A 5 6|||rule_1|||2 de|||REQUIRED|||-NONE-|||0
+A 8 9|||rule_1|||askeri de|||REQUIRED|||-NONE-|||0
+
+S Sorgulamaları süren nakliyeci ve kooperatif yetkililerinin de aralarında bulunduğu 28 zanlının bugün adliyeye sevk edilmesi bekleniyor.
+
+S Sorgulamaları süren nakliyeci ve kooperatif yetkililerininde aralarında bulunduğu 28 zanlının bugün adliyeye sevk edilmesi bekleniyor.
+A 5 6|||rule_1|||yetkililerinin de|||REQUIRED|||-NONE-|||0
+
+S Anıtkabir’de 1 milyon ziyaretçinin bana başka düşündürdükleri de var.
+
+S Anıtkabir’de 1 milyon ziyaretçinin bana başka düşündürdükleride var.
+A 6 7|||rule_1|||düşündürdükleri de|||REQUIRED|||-NONE-|||0
+
+S Zira iki krem de içerik olarak birbirinden farklılık gösteriyor.
+
+S Zira iki kremde içerik olarak birbirinden farklılık gösteriyor.
+A 2 3|||rule_1|||krem de|||REQUIRED|||-NONE-|||0
+
+S Türkiye'deki üniversitelerden gelen okutmanlarla yüksek kalitede dil eğitimi veren merkez, öğrencilerinin Türk kültürünü yakından tanımasına yönelik etkinliklere de önem veriyor.
+
+S Türkiye'deki üniversitelerden gelen okutmanlarla yüksek kalitede dil eğitimi veren merkez, öğrencilerinin Türk kültürünü yakından tanımasına yönelik etkinliklerede önem veriyor.
+A 16 17|||rule_1|||etkinliklere de|||REQUIRED|||-NONE-|||0
+
+S Üretilen bu işleri de geriye kalan yüzde 40’lık grup izliyor.
+
+S Üretilen bu işleride geriye kalan yüzde 40’lık grup izliyor.
+A 2 3|||rule_1|||işleri de|||REQUIRED|||-NONE-|||0
+
+S Telefon dinlemelerine de takılan çete üyelerinden bazılarının, sahte dolar basmaktan memnun olmadığı iddia edildi.
+
+S Telefon dinlemelerinede takılan çete üyelerinden bazılarının, sahte dolar basmaktan memnun olmadığı iddia edildi.
+A 1 2|||rule_1|||dinlemelerine de|||REQUIRED|||-NONE-|||0
+
+S ŞİÖ'ye 6 üyesi var, bir de gözlemci üye ve diyalog ortakları var.
+
+S ŞİÖ'ye 6 üyesi var, birde gözlemci üye ve diyalog ortakları var.
+A 4 5|||rule_1|||bir de|||REQUIRED|||-NONE-|||0
+
+S Bilmem Ahsen'in emsalleri de adaletli buldu mu bizim bu farklı harçlık gerekçemizi?
+
+S Bilmem Ahsen'in emsalleride adaletli buldu mu bizim bu farklı harçlık gerekçemizi?
+A 2 3|||rule_1|||emsalleri de|||REQUIRED|||-NONE-|||0
+
+S Derviş Eroğlu'nun dün gerçekleştirdiği basın toplantısının ardından İrsen Küçük de bugün Başbakanlık'ta gazetecilerle bir araya geldi.
+
+S Derviş Eroğlu'nun dün gerçekleştirdiği basın toplantısının ardından İrsen Küçükde bugün Başbakanlık'ta gazetecilerle bir araya geldi.
+A 8 9|||rule_1|||Küçük de|||REQUIRED|||-NONE-|||0
+
+S Birçok açıdan hem olumlu ve hem de olumsuz yönleri olan ciddi bir gelişme ve sonrasını takip etmek gerekiyor.
+
+S Birçok açıdan hem olumlu ve hemde olumsuz yönleri olan ciddi bir gelişme ve sonrasını takip etmek gerekiyor.
+A 5 6|||rule_1|||hem de|||REQUIRED|||-NONE-|||0
+
+S Alana giremeyen binlerce kişi de bayram ruhuna uygun olarak dışarıda eğlendi.
+
+S Alana giremeyen binlerce kişide bayram ruhuna uygun olarak dışarıda eğlendi.
+A 3 4|||rule_1|||kişi de|||REQUIRED|||-NONE-|||0
+
+S Sanayi üretimi verisi de Haziran’da yıllık bazda% 9,2 yükselişle Aralık’tan bu yana en güçlü artışı kaydetti.
+
+S Sanayi üretimi veriside Haziran’da yıllık bazda% 9,2 yükselişle Aralık’tan bu yana en güçlü artışı kaydetti.
+A 2 3|||rule_1|||verisi de|||REQUIRED|||-NONE-|||0
+
+S Ve o zaman aklıma şöyle bir soru geliyor: `` İyi, güzel de hangi kaynaktan aldın? ''
+
+S Ve o zaman aklıma şöyle bir soru geliyor: `` İyi, güzelde hangi kaynaktan aldın? ''
+A 10 11|||rule_1|||güzel de|||REQUIRED|||-NONE-|||0
+
+S Böylece filmin hayata geçirilme süreci de hızlandı.
+
+S Böylece filmin hayata geçirilme sürecide hızlandı.
+A 4 5|||rule_1|||süreci de|||REQUIRED|||-NONE-|||0
+
+S Şirket 27 Ocak' ta yaptığı duyuruda, öğrenci yurtlarını bilgisayarla donatıp İnternet sağlayacağını açıkladı.
+
+S Şirket 27 Ocak 'ta yaptığı duyuruda, öğrenci yurtlarını bilgisayarla donatıp İnternet sağlayacağını açıkladı.
+A 2 4|||rule_6|||Ocak'ta|||REQUIRED|||-NONE-|||0
+
+S Yerel Medya Eğitim Semineri'ni Erzurum'da düzenliyor.
+
+S Yerel Medya Eğitim Semineri'ni Erzurum' da düzenliyor.
+A 4 6|||rule_6|||Erzurum'da|||REQUIRED|||-NONE-|||0
+
+S Ev sahibi takımdaki sakat oyuncular Sulayman Marreh, Luis Martins, Piti ve Darwin Machis ve sarı kart cezalısı Fran Rico, Real Madrid karşısında forma giyemeyecek.
+
+S Ev sahibi takımdaki sakat oyuncular Sulayman Marreh, Luis Martins, Piti ve Darwin Machis ve sarı kart cezalısı Fran Rico, Real Madrid karşısın da forma giyemeyecek.
+A 21 23|||rule_6|||karşısında|||REQUIRED|||-NONE-|||0
+
+S Çok sayıda davetlenin katıldığı resmi tören Tuğgeneral Uğur Tarçın'ın denetlemeleri ve İstiklal Marşı'nın okunmasıyla devam etti.
+
+S Çok sayı da davetlenin katıldığı resmi tören Tuğgeneral Uğur Tarçın'ın denetlemeleri ve İstiklal Marşı'nın okunmasıyla devam etti.
+A 1 3|||rule_6|||sayıda|||REQUIRED|||-NONE-|||0
+
+S Bayraktutar, yaptığı açıklamada, bin yıldır ülkede farklı kültür ve inançtaki insanların bir arada yaşadığına ve birbirinin inancına saygı duyduğuna dikkati çekerek, `` Müslüman olmayan birisi bile camiye ayakkabıyla girilmeyeceğini ve dinimizin yasakladığı içkinin camide içilmeyeceğini bilirken, büyük çoğunluğu Müslüman olan bir ülkede yaşayan birisinin camiye ayakkabı ile girmesi ve caminin içinde içki içmesinin saygısızlığın ötesinde tahrike yönelik davranışlar olduğu açıktır.
+
+S Bayraktutar, yaptığı açıklama da, bin yıldır ülkede farklı kültür ve inançtaki insanların bir ara da yaşadığına ve birbirinin inancına saygı duyduğuna dikkati çekerek, `` Müslüman olmayan birisi bile camiye ayakkabıyla girilmeyeceğini ve dinimizin yasakladığı içkinin camide içilmeyeceğini bilirken, büyük çoğunluğu Müslüman olan bir ülkede yaşayan birisinin camiye ayakkabı ile girmesi ve caminin içinde içki içmesinin saygısızlığın ötesinde tahrike yönelik davranışlar olduğu açıktır.
+A 2 4|||rule_6|||açıklamada,|||REQUIRED|||-NONE-|||0
+A 13 15|||rule_6|||arada|||REQUIRED|||-NONE-|||0
+
+S Ağrı gerçek anlamda gelişiyor ve kalkınıyor.
+
+S Ağrı gerçek anlam da gelişiyor ve kalkınıyor.
+A 2 4|||rule_6|||anlamda|||REQUIRED|||-NONE-|||0
+
+S 05'te Siirt'e gelen Cumhurbaşkanı Gül'ü, havaalanında Siirt Valisi Musa Çolak ile öteki yetkililer, karşıladı.
+
+S 05'te Siirt'e gelen Cumhurbaşkanı Gül'ü, havaalanın da Siirt Valisi Musa Çolak ile öteki yetkililer, karşıladı.
+A 5 7|||rule_6|||havaalanında|||REQUIRED|||-NONE-|||0
+
+S Savunma Sanayii İcra Komitesi toplantısında alınan karara göre Uzun Menzilli Bölge Hava ve Füze Savunma Sistemi Projesi kapsamında müsteşarlık tarafından adaylarla görüşmelere devam edilecek.
+
+S Savunma Sanayii İcra Komitesi toplantısın da alınan karara göre Uzun Menzilli Bölge Hava ve Füze Savunma Sistemi Projesi kapsamın da müsteşarlık tarafından adaylarla görüşmelere devam edilecek.
+A 4 6|||rule_6|||toplantısında|||REQUIRED|||-NONE-|||0
+A 18 20|||rule_6|||kapsamında|||REQUIRED|||-NONE-|||0
+
+S Selendi Trafik Tescil ve Denetleme ekipleri ana cadde ve bulvarlarda denetimlerine devam ediyor.
+
+S Selendi Trafik Tescil ve Denetleme ekipleri ana cadde ve bulvarlar da denetimlerine devam ediyor.
+A 9 11|||rule_6|||bulvarlarda|||REQUIRED|||-NONE-|||0
+
+S Kampanyaya ilk olarak bir kamyon su gönderen Zirveliler, tüm hafta topladıkları battaniye, ısıtıcı, kışlık kıyafet ve gıda malzemelerini Kimse Yok mu Derneği yetkililerine teslim etti.
+
+S Kampanyaya ilk olarak bir kamyon su gönderen Zirveliler, tüm hafta topladıkları battaniye, ısıtıcı, kışlık kıyafet ve gı da malzemelerini Kimse Yok mu Derneği yetkililerine teslim etti.
+A 16 18|||rule_6|||gıda|||REQUIRED|||-NONE-|||0
+
+S Malatya Bayanlar Spor Kulübü, golden sonrada ataklarını sıklaştırırken, yine Demet sahneye çıktı ve dakika 58'de takımının 4'ncü golüne imza attı.
+
+S Malatya Bayanlar Spor Kulübü, golden sonra da ataklarını sıklaştırırken, yine Demet sahneye çıktı ve dakika 58'de takımının 4'ncü golüne imza attı.
+A 5 7|||rule_6|||sonrada|||REQUIRED|||-NONE-|||0
+
+S Hayranlar, sınır tanımayan fedakarlıklarda bulunabiliyor.
+
+S Hayranlar, sınır tanımayan fedakarlıklar da bulunabiliyor.
+A 3 5|||rule_6|||fedakarlıklarda|||REQUIRED|||-NONE-|||0
+
+S 75 milyonluk Türkiye, 242 milyonluk Endonezya ve 875 milyonluk Sahra Altı Afrikasına göre avantajlı durumda.
+
+S 75 milyonluk Türkiye, 242 milyonluk Endonezya ve 875 milyonluk Sahra Altı Afrikasına göre avantajlı durum da.
+A 14 16|||rule_6|||durumda.|||REQUIRED|||-NONE-|||0
+
+S Münih Teknik Üniversitesi( TUM ), Şangay Jiao Tong Üniversitesi tarafından yapılan dünyanın en iyi üniversiteleri sıralamasında Almanya'daki kurumlar arasında birinci sırada yer aldı.
+
+S Münih Teknik Üniversitesi( TUM ), Şangay Jiao Tong Üniversitesi tarafından yapılan dünyanın en iyi üniversiteleri sıralamasın da Almanya'daki kurumlar arasın da birinci sıra da yer aldı.
+A 15 17|||rule_6|||sıralamasında|||REQUIRED|||-NONE-|||0
+A 19 21|||rule_6|||arasında|||REQUIRED|||-NONE-|||0
+A 22 24|||rule_6|||sırada|||REQUIRED|||-NONE-|||0
+
+S Yeni cezaevlerine ilişkin inşaatların ve planlananların sadece kapasite sorununun aşılması için olmadığını aynı zamanda kurumların modernizasyonunun tamamlanması gerektiğini ifade etti.
+
+S Yeni cezaevlerine ilişkin inşaatların ve planlananların sadece kapasite sorununun aşılması için olmadığını aynı zaman da kurumların modernizasyonunun tamamlanması gerektiğini ifade etti.
+A 13 15|||rule_6|||zamanda|||REQUIRED|||-NONE-|||0
+
+S Mahkemeye başkanı, salonda alkışlayanların tespit edilip salondan çıkarılmasını istediği anlarda sanıklar da ayağa kalkarak alkışlamaya başladı.
+
+S Mahkemeye başkanı, salon da alkışlayanların tespit edilip salondan çıkarılmasını istediği anlar da sanıklar da ayağa kalkarak alkışlamaya başladı.
+A 2 4|||rule_6|||salonda|||REQUIRED|||-NONE-|||0
+A 10 12|||rule_6|||anlarda|||REQUIRED|||-NONE-|||0
+A 12 14|||rule_6|||sanıklarda|||REQUIRED|||-NONE-|||0
+
+S Tutuklu sanık Ergün Poyraz'ın reddihakim talebinde bulunduğunu belirten Başkan Özese, bu talebin duruşmayı uzatmaya yönelik olduğunu ve yasada belirtilen hakimin veya heyetin reddine ilişkin konulardan olmadığını belirterek talebin reddine karar verdiklerini açıkladı.
+
+S Tutuklu sanık Ergün Poyraz'ın reddihakim talebinde bulunduğunu belirten Başkan Özese, bu talebin duruşmayı uzatmaya yönelik olduğunu ve yasa da belirtilen hakimin veya heyetin reddine ilişkin konulardan olmadığını belirterek talebin reddine karar verdiklerini açıkladı.
+A 17 19|||rule_6|||yasada|||REQUIRED|||-NONE-|||0
+
+S Dünyanın önde gelen takımlarında oynamak herkesin hayalidir.
+
+S Dünyanın önde gelen takımların da oynamak herkesin hayalidir.
+A 3 5|||rule_6|||takımlarında|||REQUIRED|||-NONE-|||0
+
+S Bu şartlar altında çiftçilerimizin nasıl bir Çiftçiler Günü kutlayacağını da üzülerek t6ahmin etmekteyim.
+
+S Bu şartlar altın da çiftçilerimizin nasıl bir Çiftçiler Günü kutlayacağını da üzülerek t6ahmin etmekteyim.
+A 2 4|||rule_6|||altında|||REQUIRED|||-NONE-|||0
+A 9 11|||rule_6|||kutlayacağınıda|||REQUIRED|||-NONE-|||0
+
+S Akçay, maçın ardından düzenlenen basın toplantısında, oyunu ilk ve ikinci yarı olarak iki bölümde tanımlayabileceğini belirterek, `` Golden sonra 25 dakikalık bölüm bizim için kaos bölümü.
+
+S Akçay, maçın ardından düzenlenen basın toplantısın da, oyunu ilk ve ikinci yarı olarak iki bölümde tanımlayabileceğini belirterek, `` Golden sonra 25 dakikalık bölüm bizim için kaos bölümü.
+A 5 7|||rule_6|||toplantısında,|||REQUIRED|||-NONE-|||0
+
+S Yargı paketi '' olarak bilinen İnsan Hakları ve İfade Özgürlüğü Bağlamında Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Tasarısı'nın görüşmeleri sürüyor.
+
+S Yargı paketi '' olarak bilinen İnsan Hakları ve İfade Özgürlüğü Bağlamın da Bazı Kanunlar da Değişiklik Yapılmasına Dair Kanun Tasarısı'nın görüşmeleri sürüyor.
+A 10 12|||rule_6|||Bağlamında|||REQUIRED|||-NONE-|||0
+A 13 15|||rule_6|||Kanunlarda|||REQUIRED|||-NONE-|||0
+
+S Güven, yazılı açıklamasında, Türkiye'nin hedeflediği toplumsal barış ve refah hedefine ulaşması için çalışma hayatının daha da iyileştirilmesi gerektiğini ifade etti.
+
+S Güven, yazılı açıklamasın da, Türkiye'nin hedeflediği toplumsal barış ve refah hedefine ulaşması için çalışma hayatının daha da iyileştirilmesi gerektiğini ifade etti.
+A 2 4|||rule_6|||açıklamasında,|||REQUIRED|||-NONE-|||0
+A 15 17|||rule_6|||dahada|||REQUIRED|||-NONE-|||0
+
+S Babasıyla bu sözlerin ardından düşüncelere daldıklarını da belirten Neymar, `` Bu sözler bizi düşündürdü.
+
+S Babasıyla bu sözlerin ardından düşüncelere daldıklarını da belirten Neymar, `` Bu sözler bizi düşündürdü.
+A 5 7|||rule_6|||daldıklarınıda|||REQUIRED|||-NONE-|||0
+
+S Şimdi geliyorlar işte burada Bayır mahallede, Yenimahalle de oturan kardeşlerimizin yanına bu Devlet Hastanesi kapanacak, bana oy verin.
+
+S Şimdi geliyorlar işte bura da Bayır mahallede, Yenimahalle de oturan kardeşlerimizin yanına bu Devlet Hastanesi kapanacak, bana oy verin.
+A 3 5|||rule_6|||burada|||REQUIRED|||-NONE-|||0
+
+S Görevleri arasında `` Yönetim, üretim, tanıtım, pazarlama, teknoloji, finansman, örgütlenme ve işgücü eğitimi gibi konularda, ilgili kuruluşlarla işbirliği sağlayarak küçük ve orta ölçekli işletmelerle yeni girişimcileri desteklemek '' bulunan BAKA'nın güneş gibi yenilenebilir enerjinin stratejik sektör olarak belirlediğini vurgulayan Özyürek, sektörün gelişmesi için büyük çaba sarf ettiklerini kaydetti.
+
+S Görevleri arasın da `` Yönetim, üretim, tanıtım, pazarlama, teknoloji, finansman, örgütlenme ve işgücü eğitimi gibi konular da, ilgili kuruluşlarla işbirliği sağlayarak küçük ve orta ölçekli işletmelerle yeni girişimcileri desteklemek '' bulunan BAKA'nın güneş gibi yenilenebilir enerjinin stratejik sektör olarak belirlediğini vurgulayan Özyürek, sektörün gelişmesi için büyük çaba sarf ettiklerini kaydetti.
+A 1 3|||rule_6|||arasında|||REQUIRED|||-NONE-|||0
+A 15 17|||rule_6|||konularda,|||REQUIRED|||-NONE-|||0
+
+S 39. dakikada Uğur Boral'ın soldan cezaalanına yaptığı ortada Mustafa Pektemek'in sert şutu yan ağlarda kaldı.
+
+S 39. dakika da Uğur Boral'ın soldan cezaalanına yaptığı orta da Mustafa Pektemek'in sert şutu yan ağlar da kaldı.
+A 1 3|||rule_6|||dakikada|||REQUIRED|||-NONE-|||0
+A 8 10|||rule_6|||ortada|||REQUIRED|||-NONE-|||0
+A 15 17|||rule_6|||ağlarda|||REQUIRED|||-NONE-|||0
+
+S Fenerbahçe'nin sorunu da sadece kulübün değil, Türk sporunun, Türk insanının ve Türkiye'nin sorunudur '' dedi.
+
+S Fenerbahçe'nin sorunu da sadece kulübün değil, Türk sporunun, Türk insanının ve Türkiye'nin sorunudur '' dedi.
+A 1 3|||rule_6|||sorunuda|||REQUIRED|||-NONE-|||0
+
+S Mersin Marina'daki yarışların üçüncü gününde erkeklerde 470 ve Laser Standart, kadınlarda da 470 ve Laser Radial sınıflarında ikişer yarış daha yapıldı.
+
+S Mersin Marina'daki yarışların üçüncü gününde erkeklerde 470 ve Laser Standart, kadınlar da da 470 ve Laser Radial sınıfların da ikişer yarış daha yapıldı.
+A 10 12|||rule_6|||kadınlarda|||REQUIRED|||-NONE-|||0
+A 11 13|||rule_6|||da|||REQUIRED|||-NONE-|||0
+A 17 19|||rule_6|||sınıflarında|||REQUIRED|||-NONE-|||0
+
+S Kayseri 12'nci Bölge Eczacı Odası'nın davetlisi olarak kente gelen ve eczacılara, eczacılıkla ilgili güncel konularda bilgilendirmede bulunan Teb Başkanı Erdoğan Çolak, eczacıların zihninin yeterince berrak olmadığını, eczacılıkla ilgili nelerin olup nelerin geliştiğini ve kendilerine nasıl yansıyacağı konusunda net bilgiye sahip olmadıkları için komplikasyonlar yaşadıklarını söyledi.
+
+S Kayseri 12'nci Bölge Eczacı Odası'nın davetlisi olarak kente gelen ve eczacılara, eczacılıkla ilgili güncel konular da bilgilendirmede bulunan Teb Başkanı Erdoğan Çolak, eczacıların zihninin yeterince berrak olmadığını, eczacılıkla ilgili nelerin olup nelerin geliştiğini ve kendilerine nasıl yansıyacağı konusun da net bilgiye sahip olmadıkları için komplikasyonlar yaşadıklarını söyledi.
+A 14 16|||rule_6|||konularda|||REQUIRED|||-NONE-|||0
+A 37 39|||rule_6|||konusunda|||REQUIRED|||-NONE-|||0
+
+S Adana merkezli 5 ilde terör örgütü PKK'nın gizli şehir yapılanması KCK'ya yönelik operasyonda gözaltına alınarak adliyeye sevk edilen 41 kişiden 22'si, tutuklandı.
+
+S Adana merkezli 5 ilde terör örgütü PKK'nın gizli şehir yapılanması KCK'ya yönelik operasyon da gözaltına alınarak adliyeye sevk edilen 41 kişiden 22'si, tutuklandı.
+A 12 14|||rule_6|||operasyonda|||REQUIRED|||-NONE-|||0
+
+S Biz meydanlarda böyle yapmayacağız.
+
+S Biz meydanlar da böyle yapmayacağız.
+A 1 3|||rule_6|||meydanlarda|||REQUIRED|||-NONE-|||0
+
+S Bodrum'da piyasaya sahte para sürdükleri iddia edilen 3 kişi ile fuhuş yaptıkları öne sürülen yabancı uyruklu 2 kadın yakalandı.
+
+S Bodrum' da piyasaya sahte para sürdükleri iddia edilen 3 kişi ile fuhuş yaptıkları öne sürülen yabancı uyruklu 2 kadın yakalandı.
+A 0 2|||rule_6|||Bodrum'da|||REQUIRED|||-NONE-|||0
+
+S Kursiyerlerimiz burada eğitim gördüğü bu atölye ve rehabilitasyon merkezimize gece görevli bırakamıyoruz.
+
+S Kursiyerlerimiz bura da eğitim gördüğü bu atölye ve rehabilitasyon merkezimize gece görevli bırakamıyoruz.
+A 1 3|||rule_6|||burada|||REQUIRED|||-NONE-|||0
+
+S Adıyaman Üniversitesi'nde Yüksek Lisans yapacak öğrencilerin başvurularının 15- 26 Ağustos tarihleri arasında yapılacağı bildirildi.
+
+S Adıyaman Üniversitesi'nde Yüksek Lisans yapacak öğrencilerin başvurularının 15- 26 Ağustos tarihleri arasın da yapılacağı bildirildi.
+A 11 13|||rule_6|||arasında|||REQUIRED|||-NONE-|||0
+
+S Matbaada arama yapılırken, matbaa çalışanları görüntü almak isteyen basın mensuplarına tepki gösterdi.
+
+S Matbaa da arama yapılırken, matbaa çalışanları görüntü almak isteyen basın mensuplarına tepki gösterdi.
+A 0 2|||rule_6|||Matbaada|||REQUIRED|||-NONE-|||0
+
+S Sizden şu anda beklediğim, Esenler'de 5 bin metrekareden az olmamak kaydıyla inşaat alanları belirlemeniz.
+
+S Sizden şu an da beklediğim, Esenler'de 5 bin metrekareden az olmamak kaydıyla inşaat alanları belirlemeniz.
+A 2 4|||rule_6|||anda|||REQUIRED|||-NONE-|||0
+
+S Geçen haftalarda Avrupa'da maç yaptık.
+
+S Geçen haftalar da Avrupa' da maç yaptık.
+A 1 3|||rule_6|||haftalarda|||REQUIRED|||-NONE-|||0
+A 3 5|||rule_6|||Avrupa'da|||REQUIRED|||-NONE-|||0
+
+S Yapılan yazılı açıklamada, Van'daki depremden sonra Kuzey Ege Bölge Afet Yönetim Müdürlüğü'nde kriz masası oluşturulduğu, 6 personelin çalışmalara başladığı bildirildi.
+
+S Yapılan yazılı açıklama da, Van'daki depremden sonra Kuzey Ege Bölge Afet Yönetim Müdürlüğü'nde kriz masası oluşturulduğu, 6 personelin çalışmalara başladığı bildirildi.
+A 2 4|||rule_6|||açıklamada,|||REQUIRED|||-NONE-|||0
+
+S Saldırının Türklerle Suriyelilerin arasını bozmak amacıyla tasarlandığı belirtilen açıklamada, “Koalisyon bu hunharca terör saldırılarını Türk halkından intikam almak ve Suriye halkına verdikleri onurlu destek için onları cezalandırmak adına bir girişim olarak görmektedir” denildi.
+
+S Saldırının Türklerle Suriyelilerin arasını bozmak amacıyla tasarlandığı belirtilen açıklama da, “Koalisyon bu hunharca terör saldırılarını Türk halkından intikam almak ve Suriye halkına verdikleri onurlu destek için onları cezalandırmak adına bir girişim olarak görmektedir” denildi.
+A 8 10|||rule_6|||açıklamada,|||REQUIRED|||-NONE-|||0
+
+S Ancak mahkeme sanığın sosyal ve ekonomik durumunu da dikkate alarak cezayı 500 TL adli para cezasına çevirdi.
+
+S Ancak mahkeme sanığın sosyal ve ekonomik durumunu da dikkate alarak cezayı 500 TL adli para cezasına çevirdi.
+A 6 8|||rule_6|||durumunuda|||REQUIRED|||-NONE-|||0
+
+S Oymak beyinin bir civan oğlu varmış ki gören kız olsun da hele dayansın!
+
+S Oymak beyinin bir civan oğlu varmış ki gören kız olsun da hele dayansın!
+A 9 11|||rule_6|||olsunda|||REQUIRED|||-NONE-|||0
+
+S O yüzden gerek kıyım öncesi, gerekse kıyım anında tütünün mutlak nemine çok dikkat edilir.
+
+S O yüzden gerek kıyım öncesi, gerekse kıyım anın da tütünün mutlak nemine çok dikkat edilir.
+A 7 9|||rule_6|||anında|||REQUIRED|||-NONE-|||0
+
+S AyaÄŸÄ±n belli yerlerine elle yumuÅŸak bastÄ±rma yoluyla masaj yaptÄ±ÄŸÄ±nda vÃ¼cudun belli baÅŸlÄ± bÃ¶lgelerinde rahatlama ve gevÅŸeme olduÄŸunu fark eder.
+
+S AyaÄŸÄ±n belli yerlerine elle yumuÅŸak bastÄ±rma yoluyla masaj yaptÄ±ÄŸÄ±n da vÃ¼cudun belli baÅŸlÄ± bÃ¶lgelerinde rahatlama ve gevÅŸeme olduÄŸunu fark eder.
+A 8 10|||rule_6|||yaptÄ±ÄŸÄ±nda|||REQUIRED|||-NONE-|||0
+
+S Bu yüzyıllık kullanım sürecinde BUNGEE'ye olan talep artınca doğal olarak bu işin de sektörü oluştu ve malzemeler, günümüz teknolojisinin tüm imkanları doğrultusunda gerekli uluslararası standartlara ulaştı.
+
+S Bu yüzyıllık kullanım sürecinde BUNGEE'ye olan talep artınca doğal olarak bu işin de sektörü oluştu ve malzemeler, günümüz teknolojisinin tüm imkanları doğrultusun da gerekli uluslararası standartlara ulaştı.
+A 21 23|||rule_6|||doğrultusunda|||REQUIRED|||-NONE-|||0
+
+S Başka renklerden, gölgelerden, kalabalıktan ya da yalnızlıktan korkmam.
+
+S Başka renklerden, gölgelerden, kalabalıktan ya da yalnızlıktan korkmam.
+A 4 6|||rule_6|||yada|||REQUIRED|||-NONE-|||0
+
+S Bilinenlerden çok daha fazla sayıda kurban Son kavanoz boştu, ama üzerindeki etikete çoktan bir isim yazılmıştı, kavanoz ödülünü bekliyordu.
+
+S Bilinenlerden çok daha fazla sayı da kurban Son kavanoz boştu, ama üzerindeki etikete çoktan bir isim yazılmıştı, kavanoz ödülünü bekliyordu.
+A 4 6|||rule_6|||sayıda|||REQUIRED|||-NONE-|||0
+
+S şlediği günahla artık insanlığın ve gerçeğin bilgisiyle karşı karşıya kalmıştır Aydınlığın bilgi ve mutluluğun işareti olması arketipine Sümer miti Gılgamış'da rastlanmaktadır.
+
+S şlediği günahla artık insanlığın ve gerçeğin bilgisiyle karşı karşıya kalmıştır Aydınlığın bilgi ve mutluluğun işareti olması arketipine Sümer miti Gılgamış' da rastlanmaktadır.
+A 19 21|||rule_6|||Gılgamış'da|||REQUIRED|||-NONE-|||0
+
+S Daha sonra anketin değerlendirilmesi, düzenlenen cetveller üzerine dökümleri yapılarak sonuçlar çizelgelere geçirilmiştir 7) Toplanan Bilgilerin Tahlili ve Yorumlanması Bilgi toplama amacıyla elde edilen bilgilerin tahlili programında yapılmıştır.
+
+S Daha sonra anketin değerlendirilmesi, düzenlenen cetveller üzerine dökümleri yapılarak sonuçlar çizelgelere geçirilmiştir 7) Toplanan Bilgilerin Tahlili ve Yorumlanması Bilgi toplama amacıyla elde edilen bilgilerin tahlili programın da yapılmıştır.
+A 25 27|||rule_6|||programında|||REQUIRED|||-NONE-|||0
+
+S Ara sınavlar dışında öğretim elamanları tarafından süresi bir ders saatini geçmeyen yoklamalar niteliğinde küçük sınavlar `` quiz '' ler de yapılır Yukarıda verdiğimiz müfredat programında yer alan derslere ve derslerin içeriklerine baktığımızda; dil öğretimi adına verilmesi gerekenlerin uygulamalı olarak Gazi Üniversitesi Yabancı Diller Öğretimi Uygulama ve Araştırma Merkezi Eğitim-Öğretim ve Sınav Yönergesi 18.
+
+S Ara sınavlar dışın da öğretim elamanları tarafından süresi bir ders saatini geçmeyen yoklamalar niteliğinde küçük sınavlar `` quiz '' ler de yapılır Yukarı da verdiğimiz müfredat programın da yer alan derslere ve derslerin içeriklerine baktığımız da; dil öğretimi adına verilmesi gerekenlerin uygulamalı olarak Gazi Üniversitesi Yabancı Diller Öğretimi Uygulama ve Araştırma Merkezi Eğitim-Öğretim ve Sınav Yönergesi 18.
+A 2 4|||rule_6|||dışında|||REQUIRED|||-NONE-|||0
+A 22 24|||rule_6|||Yukarıda|||REQUIRED|||-NONE-|||0
+A 26 28|||rule_6|||programında|||REQUIRED|||-NONE-|||0
+A 34 36|||rule_6|||baktığımızda;|||REQUIRED|||-NONE-|||0
+
+S 2010 Yılına Doğru Türkiye'nin Potansiyeli 2000'li yılların başından itibaren tüm dünyada, ulusal ve uluslararası ölçekte bilgi toplumuna yönelik girişimlerin yoğunlaşarak arttığı gözlenmektedir.
+
+S 2010 Yılına Doğru Türkiye'nin Potansiyeli 2000'li yılların başından itibaren tüm dünya da, ulusal ve uluslararası ölçekte bilgi toplumuna yönelik girişimlerin yoğunlaşarak arttığı gözlenmektedir.
+A 10 12|||rule_6|||dünyada,|||REQUIRED|||-NONE-|||0
+
+S Emperyalistlerin gururunu kıracağına ve Sultanı da yaranı ile birlikte alt edeceğine inanıyorum.
+
+S Emperyalistlerin gururunu kıracağına ve Sultanı da yaranı ile birlikte alt edeceğine inanıyorum.
+A 4 6|||rule_6|||Sultanıda|||REQUIRED|||-NONE-|||0
+
+S P-2 çıkıntısı sivri uçlu iki yanında biri ince diğeri kalın olmak üzere iki kıl bulunur.
+
+S P-2 çıkıntısı sivri uçlu iki yanın da biri ince diğeri kalın olmak üzere iki kıl bulunur.
+A 5 7|||rule_6|||yanında|||REQUIRED|||-NONE-|||0
+
+S Yönetim Kurulu Başkan Yardımcısı Ömer Sabancı başkanlık görevini üstlenirken, YöDernek Organlarının Çalışmaları TÜSiAD'ın Genel Kurul toplantısı 22 Ocak tarihinde istanbul'da yapıldı netim Kurulu Üyesi Pekin Baran başkan yardımcısı, yedek üye Ayça Dinçkök yönetim kurulu üyesi oldu Başkan Ömer Sabancı bir konuşma yaparak Tuncay Özilhan'a teşekkür ederken önümüzde dikkatle izlenmesi gereken bir ekonomi olduğunun ve siyasi istikrarın taşıdığı önemin altını çizdi Toplantıdan sonra düzenlenen öğle yemeğine onur konuğu olarak Adalet Bakanı Cemil Çiçek katıldı.
+
+S Yönetim Kurulu Başkan Yardımcısı Ömer Sabancı başkanlık görevini üstlenirken, YöDernek Organlarının Çalışmaları TÜSiAD'ın Genel Kurul toplantısı 22 Ocak tarihinde istanbul' da yapıldı netim Kurulu Üyesi Pekin Baran başkan yardımcısı, yedek üye Ayça Dinçkök yönetim kurulu üyesi oldu Başkan Ömer Sabancı bir konuşma yaparak Tuncay Özilhan'a teşekkür ederken önümüzde dikkatle izlenmesi gereken bir ekonomi olduğunun ve siyasi istikrarın taşıdığı önemin altını çizdi Toplantıdan sonra düzenlenen öğle yemeğine onur konuğu olarak Adalet Bakanı Cemil Çiçek katıldı.
+A 19 21|||rule_6|||istanbul'da|||REQUIRED|||-NONE-|||0
+
+S Onlar için en fazla kültürel kırıntılar ile devletten daha fazla ayrıcalık kapma sorunları vardır Bu kesimin Kürdistan'daki dinamikleri ve değerleri arkasına alarak politikada güç sahibi olmak istedikleri de bir olgudur.
+
+S Onlar için en fazla kültürel kırıntılar ile devletten daha fazla ayrıcalık kapma sorunları vardır Bu kesimin Kürdistan'daki dinamikleri ve değerleri arkasına alarak politika da güç sahibi olmak istedikleri de bir olgudur.
+A 22 24|||rule_6|||politikada|||REQUIRED|||-NONE-|||0
+
+S Birleşik hallerde, bordür, alınlık, şemse ve panolarda, belirli kalıpların sınırlandırdığı çeşitli ortamlarda, görülürler Halı, çini, kâğıt, demir, taş, tahta, sedef vs. gibi değişik maddeler üzerinde gerek işçilik gerek desen bakımından farklı görünümlere sahiptirler.
+
+S Birleşik hallerde, bordür, alınlık, şemse ve panolar da, belirli kalıpların sınırlandırdığı çeşitli ortamlar da, görülürler Halı, çini, kâğıt, demir, taş, tahta, sedef vs. gibi değişik maddeler üzerinde gerek işçilik gerek desen bakımından farklı görünümlere sahiptirler.
+A 6 8|||rule_6|||panolarda,|||REQUIRED|||-NONE-|||0
+A 12 14|||rule_6|||ortamlarda,|||REQUIRED|||-NONE-|||0
+
+S Babam ve Oğlum'da devrimci Sadık, sonunda baba evine geri dönüyordu.
+
+S Babam ve Oğlum' da devrimci Sadık, sonun da baba evine geri dönüyordu.
+A 2 4|||rule_6|||Oğlum'da|||REQUIRED|||-NONE-|||0
+A 6 8|||rule_6|||sonunda|||REQUIRED|||-NONE-|||0
+
+S Zira bn Hacer'in sayısı 280'e ulaşan eserlerinin büyük bir kısmı ya derleme ya da daha önce yazılmış olan bazı kitapların ihtisar edilmesi şeklindeki eserlerden oluşmaktadır Muhammed Ebu Zehv, el-Hadis ve'l-Muhaddisûn, Daru'l-Kutubi'lArabî, Beyrut, 1984, s. 439-440; Abdu'l-Munim, Şakir Mahmud, bn Hacer el-Askalânî Musannefâtuhu ve Dirasetun fî Menhecihi ve Mevaridihi fi Kitabihi'lsâbe, Muessesetu'r-Risâle, Beyrut, 1997, I, 35Şakir Mahmud, a.g.e.
+
+S Zira bn Hacer'in sayısı 280'e ulaşan eserlerinin büyük bir kısmı ya derleme ya da daha önce yazılmış olan bazı kitapların ihtisar edilmesi şeklindeki eserlerden oluşmaktadır Muhammed Ebu Zehv, el-Hadis ve'l-Muhaddisûn, Daru'l-Kutubi'lArabî, Beyrut, 1984, s. 439-440; Abdu'l-Munim, Şakir Mahmud, bn Hacer el-Askalânî Musannefâtuhu ve Dirasetun fî Menhecihi ve Mevaridihi fi Kitabihi'lsâbe, Muessesetu'r-Risâle, Beyrut, 1997, I, 35Şakir Mahmud, a.g.e.
+A 12 14|||rule_6|||yada|||REQUIRED|||-NONE-|||0
+
+S Ben aslında memur olmak istemiyordum, özel sektör ya da öğretmenlik düşünüyordum.
+
+S Ben aslın da memur olmak istemiyordum, özel sektör ya da öğretmenlik düşünüyordum.
+A 1 3|||rule_6|||aslında|||REQUIRED|||-NONE-|||0
+A 8 10|||rule_6|||yada|||REQUIRED|||-NONE-|||0
+
+S Bölgeye gelen ve sayıları yüzlerle ifade edilen bu grupların müteferrik Yaklaşık olarak M.1520-1535 yılları arasında Anadolu nüfusunun neredeyse% 15'ni konargöçerlerin oluşturduğunu ifade eden araştırmacılar, aynı yüzyılın ikinci yarısında yani M.1570-1580 yılları arasında ise Anadolu'daki konargöçer.
+
+S Bölgeye gelen ve sayıları yüzlerle ifade edilen bu grupların müteferrik Yaklaşık olarak M.1520-1535 yılları arasın da Anadolu nüfusunun neredeyse% 15'ni konargöçerlerin oluşturduğunu ifade eden araştırmacılar, aynı yüzyılın ikinci yarısın da yani M.1570-1580 yılları arasın da ise Anadolu'daki konargöçer.
+A 14 16|||rule_6|||arasında|||REQUIRED|||-NONE-|||0
+A 28 30|||rule_6|||yarısında|||REQUIRED|||-NONE-|||0
+A 33 35|||rule_6|||arasında|||REQUIRED|||-NONE-|||0
+
+S Kuşkusuz, toplumsal hayatın sürebilmesi için zaruri olan üretim araçlarını özel mülkiyetleri altında toplamakla, egemen sınıflar, toplumsal hayatı düzenleyen kurum ve kuralları da tayin etme; dini, ahlâkî, felsefî ve sanatsal şekillenmelere kendi ideolojilerinin damgasını vurma olanağına kavuşmuşlar, omları kendi sınıf egemenliklerini sürdürmenin birer aracı haline getirmişlerdir.
+
+S Kuşkusuz, toplumsal hayatın sürebilmesi için zaruri olan üretim araçlarını özel mülkiyetleri altın da toplamakla, egemen sınıflar, toplumsal hayatı düzenleyen kurum ve kuralları da tayin etme; dini, ahlâkî, felsefî ve sanatsal şekillenmelere kendi ideolojilerinin damgasını vurma olanağına kavuşmuşlar, omları kendi sınıf egemenliklerini sürdürmenin birer aracı haline getirmişlerdir.
+A 11 13|||rule_6|||altında|||REQUIRED|||-NONE-|||0
+A 21 23|||rule_6|||kurallarıda|||REQUIRED|||-NONE-|||0
+
+S sloganını atanların bir kısmı, Dink cinayetinde ortaya koydukları duyarlılığa rağmen Kürtçe slogan duyduklarında tüyleri ürperiyor ve `` Hepimiz Kürdüz! ''
+
+S sloganını atanların bir kısmı, Dink cinayetinde ortaya koydukları duyarlılığa rağmen Kürtçe slogan duydukların da tüyleri ürperiyor ve `` Hepimiz Kürdüz! ''
+A 12 14|||rule_6|||duyduklarında|||REQUIRED|||-NONE-|||0
+
+S Peygamberin ifadesiyle: `` Dua 'üşn- `` Allah'a inandım '' diyen her 'üşn fitne ortamında yaşadığımızı bilerek; fitne konusu olmamalı, fitnenin üzerine gitmeli, eğer fitne onun üzerine gelirse fitneden uzaklaşmalıdır.
+
+S Peygamberin ifadesiyle: `` Dua 'üşn- `` Allah'a inandım '' diyen her 'üşn fitne ortamın da yaşadığımızı bilerek; fitne konusu olmamalı, fitnenin üzerine gitmeli, eğer fitne onun üzerine gelirse fitneden uzaklaşmalıdır.
+A 13 15|||rule_6|||ortamında|||REQUIRED|||-NONE-|||0
+
+S Kanuna aykırı hazırlanmakta olan eylemi men edebilir, işlenmiş eylem nedeniyle suç tutanağı düzenlerler Yine O.K.nun 78.maddesinde, Orman memurlarının Türk Ceza Kanununda düzenlenen hakkın kullanılması, meşru savunma veya zorunluluk hallerinde yani kanunun A-B-C şıklarındaki hususlarla karşılaştıklarında silah kullanma yetkisinin olduğunu söylemektedir 6831 Sayılı Orman Kanununda aramanın düzenlendiği madde 88. maddedir O.K.MADDE.88.- Bu kanunda tanımlanan tanımlanan suçlardan dolayı arama, Ceza Muhakemesi Kanunu hükümlerine göre yapılır.
+
+S Kanuna aykırı hazırlanmakta olan eylemi men edebilir, işlenmiş eylem nedeniyle suç tutanağı düzenlerler Yine O.K.nun 78.maddesinde, Orman memurlarının Türk Ceza Kanunun da düzenlenen hakkın kullanılması, meşru savunma veya zorunluluk hallerinde yani kanunun A-B-C şıklarındaki hususlarla karşılaştıkların da silah kullanma yetkisinin olduğunu söylemektedir 6831 Sayılı Orman Kanunun da aramanın düzenlendiği madde 88. maddedir O.K.MADDE.88.- Bu kanun da tanımlanan tanımlanan suçlardan dolayı arama, Ceza Muhakemesi Kanunu hükümlerine göre yapılır.
+A 20 22|||rule_6|||Kanununda|||REQUIRED|||-NONE-|||0
+A 35 37|||rule_6|||karşılaştıklarında|||REQUIRED|||-NONE-|||0
+A 45 47|||rule_6|||Kanununda|||REQUIRED|||-NONE-|||0
+A 54 56|||rule_6|||kanunda|||REQUIRED|||-NONE-|||0
+
+S Futbol Yetilerine İlişkin Dereceleme Ölçeğini oluşturan maddelere ait dört farklı puanlayıcının aynı koşullar altında bir kişiyi puanlamaları sonucunda dört farklı puanlayıcı arasındaki uyumun, Top sürme ve Şut yetisi dışındaki yetilerde 0,80 genel kabulüne göre düşük olduğu belirlenmiştir 2.
+
+S Futbol Yetilerine İlişkin Dereceleme Ölçeğini oluşturan maddelere ait dört farklı puanlayıcının aynı koşullar altın da bir kişiyi puanlamaları sonucun da dört farklı puanlayıcı arasındaki uyumun, Top sürme ve Şut yetisi dışındaki yetilerde 0,80 genel kabulüne göre düşük olduğu belirlenmiştir 2.
+A 13 15|||rule_6|||altında|||REQUIRED|||-NONE-|||0
+A 18 20|||rule_6|||sonucunda|||REQUIRED|||-NONE-|||0
+
+S Dışarı çıktılar İKİ İNGİLİZ NÖBETÇİ, büyük ambarın yanındaki binada, depo komutanının odasında hazırlanmış olan zengince sofrada yiyip içiyordu.
+
+S Dışarı çıktılar İKİ İNGİLİZ NÖBETÇİ, büyük ambarın yanındaki bina da, depo komutanının odasın da hazırlanmış olan zengince sofra da yiyip içiyordu.
+A 8 10|||rule_6|||binada,|||REQUIRED|||-NONE-|||0
+A 12 14|||rule_6|||odasında|||REQUIRED|||-NONE-|||0
+A 17 19|||rule_6|||sofrada|||REQUIRED|||-NONE-|||0
+
+S Büyük salonda oturuyorlardı.
+
+S Büyük salon da oturuyorlardı.
+A 1 3|||rule_6|||salonda|||REQUIRED|||-NONE-|||0
+
+S Yanında bulunanlar dedi ki :- Efendim neden pâdişâhı kabûl etmediniz?
+
+S Yanın da bulunanlar dedi ki :- Efendim neden pâdişâhı kabûl etmediniz?
+A 0 2|||rule_6|||Yanında|||REQUIRED|||-NONE-|||0
+
+S Patrick er resimden Susannah'nın yarasını silebildiyse bu resimden de Kızıl Kral'ı bir balkon ve arkasında kapalı bir kapı bırakabilmeliydi mutlaka.
+
+S Patrick er resimden Susannah'nın yarasını silebildiyse bu resimden de Kızıl Kral'ı bir balkon ve arkasın da kapalı bir kapı bırakabilmeliydi mutlaka.
+A 14 16|||rule_6|||arkasında|||REQUIRED|||-NONE-|||0
+
+S Bu pir Efendimiz hakkında `` Bizim sohbet şeyhimiz '' buyurulardı.
+
+S Bu pir Efendimiz hakkın da `` Bizim sohbet şeyhimiz '' buyurulardı.
+A 3 5|||rule_6|||hakkında|||REQUIRED|||-NONE-|||0
+
+S Gıdalara gıda veren O'dur.
+
+S Gıdalara gı da veren O'dur.
+A 1 3|||rule_6|||gıda|||REQUIRED|||-NONE-|||0
+
+S Gerçekten internet yolu ile işlenen kişilik haklarına saldırı sonucu eğer İSS içerik sağlayan konumunda ise yahut durumdan haberdar edilmesine rağmen hiçbir girişimde bulunmamış ise Medeni Kanun'un 23, 24 ve 25. maddeleri gereğince sorumluluğu gündeme gelebilecektir.
+
+S Gerçekten internet yolu ile işlenen kişilik haklarına saldırı sonucu eğer İSS içerik sağlayan konumun da ise yahut durumdan haberdar edilmesine rağmen hiçbir girişimde bulunmamış ise Medeni Kanun'un 23, 24 ve 25. maddeleri gereğince sorumluluğu gündeme gelebilecektir.
+A 13 15|||rule_6|||konumunda|||REQUIRED|||-NONE-|||0
+
+S Zaman zaman da kafamda soru işaretleri oluşuyor.
+
+S Zaman zaman da kafam da soru işaretleri oluşuyor.
+A 1 3|||rule_6|||zamanda|||REQUIRED|||-NONE-|||0
+A 3 5|||rule_6|||kafamda|||REQUIRED|||-NONE-|||0
+
+S Bunda esas maksatları, İslâmiyetin özü olan Ehli sünneti yok etmektir.
+
+S Bun da esas maksatları, İslâmiyetin özü olan Ehli sünneti yok etmektir.
+A 0 2|||rule_6|||Bunda|||REQUIRED|||-NONE-|||0
+
+S MATERYAL VE METOD Seda ÖZKANDAN -Enjektör:
+
+S MATERYAL VE METOD Se da ÖZKANDAN -Enjektör:
+A 3 5|||rule_6|||Seda|||REQUIRED|||-NONE-|||0
+
+S 2004–2005 eğitim öğretim döneminden itibaren Deniz Harp Okulunda Sahil Güvenlik Komutanlığı adına yıllık 40, Deniz Astsubay Meslek Yüksekokulunda ise 65 öğrencinin eğitimine deniz sınır kapılarında kendisine verilmiş olan herhangi bir sorumluluğu bulunmamaktadır Sahil Güvenlik Komutanlığı, sorumluluk sahasında İçişleri Bakanlığına bağlı bir 3.6.1.
+
+S 2004–2005 eğitim öğretim döneminden itibaren Deniz Harp Okulun da Sahil Güvenlik Komutanlığı adına yıllık 40, Deniz Astsubay Meslek Yüksekokulun da ise 65 öğrencinin eğitimine deniz sınır kapıların da kendisine verilmiş olan herhangi bir sorumluluğu bulunmamaktadır Sahil Güvenlik Komutanlığı, sorumluluk sahasın da İçişleri Bakanlığına bağlı bir 3.6.1.
+A 7 9|||rule_6|||Okulunda|||REQUIRED|||-NONE-|||0
+A 18 20|||rule_6|||Yüksekokulunda|||REQUIRED|||-NONE-|||0
+A 26 28|||rule_6|||kapılarında|||REQUIRED|||-NONE-|||0
+A 39 41|||rule_6|||sahasında|||REQUIRED|||-NONE-|||0
+
+S Kreşinlerin bu şekilde soğukları kovduklarına inandıkları bu törene, bazı bölgelerde `` peşteme kıwıu '' adını da verirler d.Saban Kormanı Saban Kormanı; Kreşinlerin eski geleneksel inanç ve yaşayışlarından gelen bir uygulamadır.
+
+S Kreşinlerin bu şekilde soğukları kovduklarına inandıkları bu törene, bazı bölgelerde `` peşteme kıwıu '' adını da verirler d.Saban Kormanı Saban Kormanı; Kreşinlerin eski geleneksel inanç ve yaşayışlarından gelen bir uygulamadır.
+A 14 16|||rule_6|||adınıda|||REQUIRED|||-NONE-|||0
+
+S ANKARA- FP hakkındaki kapatma davasında kararın bugün açıklanma olasılığı yüksek görülüyor.
+
+S ANKARA- FP hakkındaki kapatma davasın da kararın bugün açıklanma olasılığı yüksek görülüyor.
+A 4 6|||rule_6|||davasında|||REQUIRED|||-NONE-|||0
+
+S Sonuçta Ay-Yıldızlı takım, kendisi için olsa olsa sıkı bir idman niteliği taşıyan maçta, istediğini ilk yarıda elde edince, ikinci yarıda da oynuyormuş gibi yapmayı yeterli gördü.
+
+S Sonuçta Ay-Yıldızlı takım, kendisi için olsa olsa sıkı bir idman niteliği taşıyan maçta, istediğini ilk yarı da elde edince, ikinci yarı da da oynuyormuş gibi yapmayı yeterli gördü.
+A 15 17|||rule_6|||yarıda|||REQUIRED|||-NONE-|||0
+A 20 22|||rule_6|||yarıda|||REQUIRED|||-NONE-|||0
+A 21 23|||rule_6|||da|||REQUIRED|||-NONE-|||0
+
+S Bir kadın oyuncu için böyle büyük bir projenin ortasında olmak nasıl bir duygu?
+
+S Bir kadın oyuncu için böyle büyük bir projenin ortasın da olmak nasıl bir duygu?
+A 8 10|||rule_6|||ortasında|||REQUIRED|||-NONE-|||0
+
+S Öğretim üyeleri fakülte kurullarında tartışır, yöneticileri ile organlarını seçerdi
+
+S Öğretim üyeleri fakülte kurulların da tartışır, yöneticileri ile organlarını seçerdi
+A 3 5|||rule_6|||kurullarında|||REQUIRED|||-NONE-|||0
+
+S Merkez Bankası ise saat 15.30 itibariyle gösterge niteliğindeki doların efektif satışını 1 milyon 322 bin 761 lira, euronun efektif satışını da 1 milyon 635 bin 859 lira olarak belirledi.
+
+S Merkez Bankası ise saat 15.30 itibariyle gösterge niteliğindeki doların efektif satışını 1 milyon 322 bin 761 lira, euronun efektif satışını da 1 milyon 635 bin 859 lira olarak belirledi.
+A 19 21|||rule_6|||satışınıda|||REQUIRED|||-NONE-|||0
+
+S Tam tersi, intihar eden kişilerin son bir yılları incelendiğinde, yüzde 75'inin mutlaka bir aile bireyine, arkadaşına ya da doktora intiharı düşündüğünü söylediği görülüyor.
+
+S Tam tersi, intihar eden kişilerin son bir yılları incelendiğinde, yüzde 75'inin mutlaka bir aile bireyine, arkadaşına ya da doktora intiharı düşündüğünü söylediği görülüyor.
+A 16 18|||rule_6|||yada|||REQUIRED|||-NONE-|||0
+
+S HANNOVER- Türk sanayisinin doğal ortağı Almanya'nın Başbakanı Angela Merkel, Hannover Fuarı'nda Türk malı traktörün direksiyonuna geçerek poz verdi.
+
+S HANNOVER- Türk sanayisinin doğal ortağı Almanya'nın Başbakanı Angela Merkel, Hannover Fuarı'n da Türk malı traktörün direksiyonuna geçerek poz verdi.
+A 10 12|||rule_6|||Fuarı'nda|||REQUIRED|||-NONE-|||0
+
+S Zayıf rakibi Hollanda önünde farklı skora karşın, maçın son dakikasına kadar savunma konsantrasyonunu ve ciddiyetini kaybetmeyen millilerde yüzler gülüyor.
+
+S Zayıf rakibi Hollan da önünde farklı skora karşın, maçın son dakikasına kadar savunma konsantrasyonunu ve ciddiyetini kaybetmeyen millilerde yüzler gülüyor.
+A 2 4|||rule_6|||Hollanda|||REQUIRED|||-NONE-|||0
+
+S Siz bir devlet yetkisi kullanmıyorsunuz, sadece bir öğrencisiniz, öğrenci olarak yüksek öğrenime girebilir, orada eğitim alabilirsiniz' dendiğinde o kişinin rejime olan, laiklik ilkesine olan bakışı olumlu istikamette değişecektir.
+
+S Siz bir devlet yetkisi kullanmıyorsunuz, sadece bir öğrencisiniz, öğrenci olarak yüksek öğrenime girebilir, ora da eğitim alabilirsiniz' dendiğinde o kişinin rejime olan, laiklik ilkesine olan bakışı olumlu istikamette değişecektir.
+A 13 15|||rule_6|||orada|||REQUIRED|||-NONE-|||0
+
+S Fakat tüketici kredilerinin kompozisyonunda dövize endeksli kredilerin artması, şirketlerde olduğu gibi hanehalkı için de bir kur riskini getiriyor.
+
+S Fakat tüketici kredilerinin kompozisyonun da dövize endeksli kredilerin artması, şirketlerde olduğu gibi hanehalkı için de bir kur riskini getiriyor.
+A 3 5|||rule_6|||kompozisyonunda|||REQUIRED|||-NONE-|||0
+
+S Beş aday arasından milli eğitim bakanı ya da vali tarafından atama yapılacak.
+
+S Beş aday arasından milli eğitim bakanı ya da vali tarafından atama yapılacak.
+A 6 8|||rule_6|||yada|||REQUIRED|||-NONE-|||0
+
+S Üstelik bunu da Cumhuriyet'in ilk yıllarında kurulan İstiklal Mahkemeleri'nde iki yazarın önce idama mahkûm olup sonra cezalarının sürgüne çevrilmesine borçluyuz.
+
+S Üstelik bunu da Cumhuriyet'in ilk yılların da kurulan İstiklal Mahkemeleri'nde iki yazarın önce idama mahkûm olup sonra cezalarının sürgüne çevrilmesine borçluyuz.
+A 1 3|||rule_6|||bunuda|||REQUIRED|||-NONE-|||0
+A 5 7|||rule_6|||yıllarında|||REQUIRED|||-NONE-|||0
+
+S Burada kırmızısına rastlamadım ama siyahı var, grisi var.İngiltere'deki arkadaşlarım da( Oxford'da otururken) sincaptan dert yanarlardı.
+
+S Bura da kırmızısına rastlamadım ama siyahı var, grisi var.İngiltere'deki arkadaşlarım da( Oxford' da otururken) sincaptan dert yanarlardı.
+A 0 2|||rule_6|||Burada|||REQUIRED|||-NONE-|||0
+A 9 11|||rule_6|||arkadaşlarımda(|||REQUIRED|||-NONE-|||0
+A 11 13|||rule_6|||Oxford'da|||REQUIRED|||-NONE-|||0
+
+S Ama ördekler de dahil bizler bağırdıkça günümüzün aymaz iktidarları ya sesimizi duymazlıktan geliyorlar ya da işte bakın demokrasi deyip kanal değiştiriyorlar.Gündüz Vassaf arşivi- Diger Yazarlar| Yolla| Arşive Ekle
+
+S Ama ördekler de dahil bizler bağırdıkça günümüzün aymaz iktidarları ya sesimizi duymazlıktan geliyorlar ya da işte bakın demokrasi deyip kanal değiştiriyorlar.Gündüz Vassaf arşivi- Diger Yazarlar| Yolla| Arşive Ekle
+A 13 15|||rule_6|||yada|||REQUIRED|||-NONE-|||0
+
+S Uzlaşmanın aslında büyük bir erdem olduğunu anlayamayanların, böylelikle bir katkıları oldu toplum hayatımıza.
+
+S Uzlaşmanın aslın da büyük bir erdem olduğunu anlayamayanların, böylelikle bir katkıları oldu toplum hayatımıza.
+A 1 3|||rule_6|||aslında|||REQUIRED|||-NONE-|||0
+
+S İstanbul'da sabah saatlerinde sis yoğunluğu yaşandı.
+
+S İstanbul' da sabah saatlerinde sis yoğunluğu yaşandı.
+A 0 2|||rule_6|||İstanbul'da|||REQUIRED|||-NONE-|||0
+
+S Bavulun, yol kenarında bulunan bir esnafın karısı tarafından bırakıldığı tespit edilirken, olay yerine gelen bayanın 'Eski bir bavul olduğu ve o yüzden çöpe bıraktım' ifadelerinin ardında emniyet yetkilileri olay yerinden ayrıldı.
+
+S Bavulun, yol kenarın da bulunan bir esnafın karısı tarafından bırakıldığı tespit edilirken, olay yerine gelen bayanın 'Eski bir bavul olduğu ve o yüzden çöpe bıraktım' ifadelerinin ardın da emniyet yetkilileri olay yerinden ayrıldı.
+A 2 4|||rule_6|||kenarında|||REQUIRED|||-NONE-|||0
+A 26 28|||rule_6|||ardında|||REQUIRED|||-NONE-|||0
+
+S YARGI DİKKATE ALACAK Bu kapsamda devlet güvenliğinden TSK, Emniyet, MİT gibi kritik kurumlarda personel alımına, eğitimden sağlığa, finans işlemlerinden iş dünyasına kadar birçok alanda paralel yapıyla mücadele kamu kurum ve kuruluşlarının öncelikli kriterlerinden biri olacak.
+
+S YARGI DİKKATE ALACAK Bu kapsam da devlet güvenliğinden TSK, Emniyet, MİT gibi kritik kurumlar da personel alımına, eğitimden sağlığa, finans işlemlerinden iş dünyasına kadar birçok alan da paralel yapıyla mücadele kamu kurum ve kuruluşlarının öncelikli kriterlerinden biri olacak.
+A 4 6|||rule_6|||kapsamda|||REQUIRED|||-NONE-|||0
+A 13 15|||rule_6|||kurumlarda|||REQUIRED|||-NONE-|||0
+A 25 27|||rule_6|||alanda|||REQUIRED|||-NONE-|||0
+
+S Sayısal Loto'da 938. hafta çekilişinde kazandıran numaralar 1, 12, 20, 34, 42 ve 47 olarak belirlendi.
+
+S Sayısal Loto' da 938. hafta çekilişinde kazandıran numaralar 1, 12, 20, 34, 42 ve 47 olarak belirlendi.
+A 1 3|||rule_6|||Loto'da|||REQUIRED|||-NONE-|||0
+
+S Kobani olayları sırasında şehre indirilen ve birkaç gün boyunca çeşitli bölgelerde konuşlandırıldıktan sonra tekrar kışlalarına dönen askeri birlikler de yeniden şehre indi.
+
+S Kobani olayları sırasın da şehre indirilen ve birkaç gün boyunca çeşitli bölgelerde konuşlandırıldıktan sonra tekrar kışlalarına dönen askeri birlikler de yeniden şehre indi.
+A 2 4|||rule_6|||sırasında|||REQUIRED|||-NONE-|||0
+
+S Türk Hava Kurumunda usulsüzlük iddialarıyla yürütülen soruşturma kapsamında, kurum Başkanı Osman Yıldırım'ın da arasında bulunduğu 5 kişi tutuklandı.
+
+S Türk Hava Kurumun da usulsüzlük iddialarıyla yürütülen soruşturma kapsamın da, kurum Başkanı Osman Yıldırım'ın da arasın da bulunduğu 5 kişi tutuklandı.
+A 2 4|||rule_6|||Kurumunda|||REQUIRED|||-NONE-|||0
+A 8 10|||rule_6|||kapsamında,|||REQUIRED|||-NONE-|||0
+A 13 15|||rule_6|||Yıldırım'ında|||REQUIRED|||-NONE-|||0
+A 15 17|||rule_6|||arasında|||REQUIRED|||-NONE-|||0
+
+S Buradaki durumda aslında biraz buna benziyor.
+
+S Buradaki durum da aslın da biraz buna benziyor.
+A 1 3|||rule_6|||durumda|||REQUIRED|||-NONE-|||0
+A 3 5|||rule_6|||aslında|||REQUIRED|||-NONE-|||0
+
+S Rıdvan Dilmen, Galatasaray-Kasımpaşa mücadelesi ile ilgili değerlendirmelerde bulundu ve sarı-kırmızılılarda Cesare Prandelli devrinin 'sona erdiğini' söyledi.
+
+S Rıdvan Dilmen, Galatasaray-Kasımpaşa mücadelesi ile ilgili değerlendirmelerde bulundu ve sarı-kırmızılılar da Cesare Prandelli devrinin 'sona erdiğini' söyledi.
+A 9 11|||rule_6|||sarı-kırmızılılarda|||REQUIRED|||-NONE-|||0
+
+S kalabalık istasyon meydanında toplandı.
+
+S kalabalık istasyon meydanın da toplandı.
+A 2 4|||rule_6|||meydanında|||REQUIRED|||-NONE-|||0
+
+S Eninde sonunda değişik tecrübeler edinmiş, yeni yerler görmüş, yeni insanlar tanımış olarak dönersiniz evinize.
+
+S Eninde sonun da değişik tecrübeler edinmiş, yeni yerler görmüş, yeni insanlar tanımış olarak dönersiniz evinize.
+A 1 3|||rule_6|||sonunda|||REQUIRED|||-NONE-|||0
+
+S Otorite boşluğunun yaşandığı Irak'ta, IŞİDöncülüğündeki silahlı grupların haziran ayında Musul başta olmak üzere bazı bölgelerin kontrolünü ele geçirmesinin ardından, ülkenin çeşitli yerlerinde IŞİD ile güvenlik güçleri arasında çatışmalar sürüyor.
+
+S Otorite boşluğunun yaşandığı Irak'ta, IŞİDöncülüğündeki silahlı grupların haziran ayın da Musul başta olmak üzere bazı bölgelerin kontrolünü ele geçirmesinin ardından, ülkenin çeşitli yerlerinde IŞİD ile güvenlik güçleri arasın da çatışmalar sürüyor.
+A 8 10|||rule_6|||ayında|||REQUIRED|||-NONE-|||0
+A 27 29|||rule_6|||arasında|||REQUIRED|||-NONE-|||0
+
+S İLK RESMİ MAÇ Rakipler arasında ilk resmi maç 12 Kasım 1926'da oynandı.-
+
+S İLK RESMİ MAÇ Rakipler arasın da ilk resmi maç 12 Kasım 1926' da oynandı.-
+A 4 6|||rule_6|||arasında|||REQUIRED|||-NONE-|||0
+A 11 13|||rule_6|||1926'da|||REQUIRED|||-NONE-|||0
+
+S Tespitin ışığında Anadolu'nun en eski trepanasyonlarının İkiztepe'de yaygın olarak gerçekleştirilmiş olduğu ortaya çıktı.
+
+S Tespitin ışığın da Anadolu'nun en eski trepanasyonlarının İkiztepe'de yaygın olarak gerçekleştirilmiş olduğu ortaya çıktı.
+A 1 3|||rule_6|||ışığında|||REQUIRED|||-NONE-|||0
+
+S Açıklama sırasında uluslararası İpekyolu'nu kapatmak isteyen gruba DBP ilçe yöneticileri uyarıda anonsları yaparak grubun yola çıkmasını engelledi.
+
+S Açıklama sırasın da uluslararası İpekyolu'nu kapatmak isteyen gruba DBP ilçe yöneticileri uyarı da anonsları yaparak grubun yola çıkmasını engelledi.
+A 1 3|||rule_6|||sırasında|||REQUIRED|||-NONE-|||0
+A 11 13|||rule_6|||uyarıda|||REQUIRED|||-NONE-|||0
+
+S Korunmak için alınacak önlemleri anlatan Dr. Ertem şöyle konuştu: `` Hac ve umre amacıyla vatandaşlarımızın sürekli Suudi Arabistan'a yolculuk etmeleri ve Suudi Arabistan'da bu hastalığın görülmesi nedeniyle MERS-COV enfeksiyonları ülkemiz için de ciddi bir tehlikedir.
+
+S Korunmak için alınacak önlemleri anlatan Dr. Ertem şöyle konuştu: `` Hac ve umre amacıyla vatandaşlarımızın sürekli Suudi Arabistan'a yolculuk etmeleri ve Suudi Arabistan' da bu hastalığın görülmesi nedeniyle MERS-COV enfeksiyonları ülkemiz için de ciddi bir tehlikedir.
+A 22 24|||rule_6|||Arabistan'da|||REQUIRED|||-NONE-|||0
+
+S SAĞLIĞI YERİNDE Ancak kısa süre sonra Sofia'da bu kez böbrek yetmezliği gelişmeye başladı.
+
+S SAĞLIĞI YERİNDE Ancak kısa süre sonra Sofia' da bu kez böbrek yetmezliği gelişmeye başladı.
+A 6 8|||rule_6|||Sofia'da|||REQUIRED|||-NONE-|||0
+
+S Öğreniyoruz ki Karaman'da işçiye 2 bin lira vermemek için yemek ve servisleri kaldırılmış.
+
+S Öğreniyoruz ki Karaman' da işçiye 2 bin lira vermemek için yemek ve servisleri kaldırılmış.
+A 2 4|||rule_6|||Karaman'da|||REQUIRED|||-NONE-|||0
+
+S Başka şehirler IŞİD'in tehdidi altında '' ifadelerini kullandı.
+
+S Başka şehirler IŞİD'in tehdidi altın da '' ifadelerini kullandı.
+A 4 6|||rule_6|||altında|||REQUIRED|||-NONE-|||0
+
+S Kobani'ye destek vermek için yapılan yürüyüşe Şırnak Belediye Başkanı Serhat Kadırhan'ın da katıldı.
+
+S Kobani'ye destek vermek için yapılan yürüyüşe Şırnak Belediye Başkanı Serhat Kadırhan'ın da katıldı.
+A 10 12|||rule_6|||Kadırhan'ında|||REQUIRED|||-NONE-|||0
+
+S Yalnız tutuklulukta ve gözaltında geçen süreler eğer sonuçta beraat olursa borçlanılabiliyor.
+
+S Yalnız tutuklulukta ve gözaltın da geçen süreler eğer sonuçta beraat olursa borçlanılabiliyor.
+A 3 5|||rule_6|||gözaltında|||REQUIRED|||-NONE-|||0
+
+S Poomse Dünya Şampiyonası'nda altın madalya kazandı.
+
+S Poomse Dünya Şampiyonası'n da altın madalya kazandı.
+A 2 4|||rule_6|||Şampiyonası'nda|||REQUIRED|||-NONE-|||0
+
+S Yok demokrasiyi savunmuyor da bir tane otokrat gidecek, onun yerine de bir başka otokrat hazırlıyoruz, bunu düşünüyorum diyorsak, o zaman demokrasiyi konuşmanın hiçbir anlamı yok.
+
+S Yok demokrasiyi savunmuyor da bir tane otokrat gidecek, onun yerine de bir başka otokrat hazırlıyoruz, bunu düşünüyorum diyorsak, o zaman demokrasiyi konuşmanın hiçbir anlamı yok.
+A 2 4|||rule_6|||savunmuyorda|||REQUIRED|||-NONE-|||0
+
+S Kazada ölenlerin isimleri şöyle; Sürücü Metin Arslanalp, eşi Emel Arslanalp, Havva Ceran, annesi Reyhan Ceran, Arife Aktaş, Ceylan Aksoy, Gülseren Yayla, Maksude Ünsal, Havva Yiğit, Ayşegül Karataş, Mihriban Kale, Ayşe Kale, Şerife Aksoy, Muazzez Balık, Elmas Çelik, Esme Altunbay, Buket Keskin ve 15 yaşındaki Veli Can Çelik.
+
+S Kaza da ölenlerin isimleri şöyle; Sürücü Metin Arslanalp, eşi Emel Arslanalp, Havva Ceran, annesi Reyhan Ceran, Arife Aktaş, Ceylan Aksoy, Gülseren Yayla, Maksude Ünsal, Havva Yiğit, Ayşegül Karataş, Mihriban Kale, Ayşe Kale, Şerife Aksoy, Muazzez Balık, Elmas Çelik, Esme Altunbay, Buket Keskin ve 15 yaşındaki Veli Can Çelik.
+A 0 2|||rule_6|||Kazada|||REQUIRED|||-NONE-|||0
+
+S Şirket, vakıf, enstitü adı altında, yasal bir görüntüye bürünerek.Ve o ülke de buna ses çıkarmıyor.
+
+S Şirket, vakıf, enstitü adı altın da, yasal bir görüntüye bürünerek.Ve o ülke de buna ses çıkarmıyor.
+A 4 6|||rule_6|||altında,|||REQUIRED|||-NONE-|||0
+
+S `` B92' nin yazısında, `` Öte yandan Güney Osetya ve Rusya' yı desteklemek ise `` Belgrad' ın Kosova' nın bağımsızlığına karşı argümanlarını zedeler.
+
+S `` B92' nin yazısın da, `` Öte yandan Güney Osetya ve Rusya' yı desteklemek ise `` Belgrad' ın Kosova' nın bağımsızlığına karşı argümanlarını zedeler.
+A 3 5|||rule_6|||yazısında,|||REQUIRED|||-NONE-|||0
+
+S Fakat deneyim eksikliği ve süreçle birlikte gelecek farklı hukuki güçlüklerden kaynaklanan kısıtlamalar da olacaktır.
+
+S Fakat deneyim eksikliği ve süreçle birlikte gelecek farklı hukuki güçlüklerden kaynaklanan kısıtlamalar da olacaktır.
+A 11 13|||rule_6|||kısıtlamalarda|||REQUIRED|||-NONE-|||0
+
+S Kumarhaneler, tesislerine gelen oyuncuları kaydetmek zorunda kalacak.
+
+S Kumarhaneler, tesislerine gelen oyuncuları kaydetmek zorun da kalacak.
+A 5 7|||rule_6|||zorunda|||REQUIRED|||-NONE-|||0
+
+S Aynı turnuvada, Caviç 50 metre serbest yüzmede yedinci oldu.
+
+S Aynı turnuva da, Caviç 50 metre serbest yüzmede yedinci oldu.
+A 1 3|||rule_6|||turnuvada,|||REQUIRED|||-NONE-|||0
+
+S İnsanın iç dünyası ise, Ben'e göre, Sen'dir, O'dur, orada gizlidir: Keşfedilmeyi bekler.
+
+S İnsanın iç dünyası ise, Ben'e göre, Sen'dir, O'dur, ora da gizlidir: Keşfedilmeyi bekler.
+A 8 10|||rule_6|||orada|||REQUIRED|||-NONE-|||0
+
+S Ben bu işin içinde olmasam şunu söylerdim: “Benim hayatımda yaşayacağım zaten 20 yıl kalmış, icat çıkarttınız başımıza”.
+
+S Ben bu işin içinde olmasam şunu söylerdim: “Benim hayatım da yaşayacağım zaten 20 yıl kalmış, icat çıkarttınız başımıza”.
+A 8 10|||rule_6|||hayatımda|||REQUIRED|||-NONE-|||0
+
+S “Rüzgâr Gibi Geçti”den “Amistad”a ve “Django Unchained-Zincirsiz”e kadar ABD tarihinin iç savaş öncesi en kirli dönemlerinden köleliğe ilişkin yapılmış filmler listesine kuşkusuz tepeden girecek nitelikteki “esaret”, biraz da zoraki söylenen dokunaklı şarkılar eşliğinde, toplu halde şekerkamışı kesen siyahi kölelerin bildik genel görüntüsüyle başlıyor ve geçmişe gidip dönerek bölüm bölüm gelişen, gelgitli bir anlatım tutturuyor.
+
+S “Rüzgâr Gibi Geçti”den “Amistad”a ve “Django Unchained-Zincirsiz”e kadar ABD tarihinin iç savaş öncesi en kirli dönemlerinden köleliğe ilişkin yapılmış filmler listesine kuşkusuz tepeden girecek nitelikteki “esaret”, biraz da zoraki söylenen dokunaklı şarkılar eşliğinde, toplu halde şekerkamışı kesen siyahi kölelerin bildik genel görüntüsüyle başlıyor ve geçmişe gidip dönerek bölüm bölüm gelişen, gelgitli bir anlatım tutturuyor.
+A 26 28|||rule_6|||birazda|||REQUIRED|||-NONE-|||0
+
+S Ama ben önemsediğim için kalkıp Stockholm’e gitmiş, onun ödülünü aldığı tarihi törene katılmış, yazılar da yazmıştım.
+
+S Ama ben önemsediğim için kalkıp Stockholm’e gitmiş, onun ödülünü aldığı tarihi törene katılmış, yazılar da yazmıştım.
+A 13 15|||rule_6|||yazılarda|||REQUIRED|||-NONE-|||0
+
+S Demokrasilerde denge ve denetleme ve özellikle anayasalarda kuvvetler ayrılığının öneminin altını çizen DDA.
+
+S Demokrasilerde denge ve denetleme ve özellikle anayasalar da kuvvetler ayrılığının öneminin altını çizen DDA.
+A 6 8|||rule_6|||anayasalarda|||REQUIRED|||-NONE-|||0
+
+S Şimdilik asıl meselemiz olan Muhammed Ali fenomenine dönerek bu fenomeni birkaç başlık altında mümkün olduğunca özet bir biçimde tekrar anlamaya koyulalım.
+
+S Şimdilik asıl meselemiz olan Muhammed Ali fenomenine dönerek bu fenomeni birkaç başlık altın da mümkün olduğunca özet bir biçimde tekrar anlamaya koyulalım.
+A 12 14|||rule_6|||altında|||REQUIRED|||-NONE-|||0
+
+S Ve ben bir şey yapmamak konusunda başarılı biri değilim.
+
+S Ve ben bir şey yapmamak konusun da başarılı biri değilim.
+A 5 7|||rule_6|||konusunda|||REQUIRED|||-NONE-|||0
+
+S Doktorunuzun önerdiği ilaç, aslında bu bozukluğu düzeltebilmek için verilmiş.
+
+S Doktorunuzun önerdiği ilaç, aslın da bu bozukluğu düzeltebilmek için verilmiş.
+A 3 5|||rule_6|||aslında|||REQUIRED|||-NONE-|||0
+
+S Stratejik ve analitik düşünmeyi öğreten satrancın çocukların eğitimi üzerine etkilerini anlatan yazısında Dr. Olgun Kulaç şöyle diyor.
+
+S Stratejik ve analitik düşünmeyi öğreten satrancın çocukların eğitimi üzerine etkilerini anlatan yazısın da Dr. Olgun Kulaç şöyle diyor.
+A 11 13|||rule_6|||yazısında|||REQUIRED|||-NONE-|||0
+
+S Kusura bakmayın yine maç yazımızda futbolun dışına çıktık.
+
+S Kusura bakmayın yine maç yazımız da futbolun dışına çıktık.
+A 4 6|||rule_6|||yazımızda|||REQUIRED|||-NONE-|||0
+
+S Ama yaz aylarında “Kürt açılımı” adıyla başlatılıp adı “demokratik açılım” diye düzeltilen projenin neredeyse tam tamına Brzezinski’nin tarifine uyduğunu görmemek mümkün değildir.Başbakan Erdoğan Başkan Obama’dan bu konuda çok şey istemeye hakkı vardır.Kuzey Irak’ı boşaltırlarken terör örgütü üyelerini Türkiye’ye teslim etmek ABD’nin sadece müttefik olmaktan doğan borcu değildir haysiyetli bir devlet olmanın şartıdır.
+
+S Ama yaz ayların da “Kürt açılımı” adıyla başlatılıp adı “demokratik açılım” diye düzeltilen projenin neredeyse tam tamına Brzezinski’nin tarifine uyduğunu görmemek mümkün değildir.Başbakan Erdoğan Başkan Obama’dan bu konu da çok şey istemeye hakkı vardır.Kuzey Irak’ı boşaltırlarken terör örgütü üyelerini Türkiye’ye teslim etmek ABD’nin sadece müttefik olmaktan doğan borcu değildir haysiyetli bir devlet olmanın şartıdır.
+A 2 4|||rule_6|||aylarında|||REQUIRED|||-NONE-|||0
+A 27 29|||rule_6|||konuda|||REQUIRED|||-NONE-|||0
+
+S Yüzde 40’lık bir artışa tekabül ediyor.2006 ilkbaharında artış duruyor.
+
+S Yüzde 40’lık bir artışa tekabül ediyor.2006 ilkbaharın da artış duruyor.
+A 6 8|||rule_6|||ilkbaharında|||REQUIRED|||-NONE-|||0
+
+S Bilal Karadağ idaresindeki 01 BNB 84 plakalı otomobil, merkeze bağlı Altınkaya beldesi yakınlarında Üçler Öner( 55) yönetimindeki 68 EL 696 plakalı otomobille çarpıştı.
+
+S Bilal Karadağ idaresindeki 01 BNB 84 plakalı otomobil, merkeze bağlı Altınkaya beldesi yakınların da Üçler Öner( 55) yönetimindeki 68 EL 696 plakalı otomobille çarpıştı.
+A 12 14|||rule_6|||yakınlarında|||REQUIRED|||-NONE-|||0
+
+S İlk ihalede verilen 1,2 milyar doların üzerine çıkılacağı tahmin edilen üçüncü ihaleyle ilgilenen yatırımcılar arasında, Japon JTI, İngiliz Amerikan ortaklığı BAT, Korean Tobacco ve İngiliz Imperial Tobacco ile bazı yabancı fonlar ve yerli yatırımcılar bulunuyor.
+
+S İlk ihalede verilen 1,2 milyar doların üzerine çıkılacağı tahmin edilen üçüncü ihaleyle ilgilenen yatırımcılar arasın da, Japon JTI, İngiliz Amerikan ortaklığı BAT, Korean Tobacco ve İngiliz Imperial Tobacco ile bazı yabancı fonlar ve yerli yatırımcılar bulunuyor.
+A 14 16|||rule_6|||arasında,|||REQUIRED|||-NONE-|||0
+
+S 88. dakikada Ankaragücü beraberliği yakaladı.
+
+S 88. dakika da Ankaragücü beraberliği yakaladı.
+A 1 3|||rule_6|||dakikada|||REQUIRED|||-NONE-|||0
+
+S Rusya ile ABD arasında Magnitski ve karşı yasalarla patlak veren krizi eleştiren Primakov, bu tür fevri davranışlardan uzak durulması gerektiğini ifade etti.
+
+S Rusya ile ABD arasın da Magnitski ve karşı yasalarla patlak veren krizi eleştiren Primakov, bu tür fevri davranışlardan uzak durulması gerektiğini ifade etti.
+A 3 5|||rule_6|||arasında|||REQUIRED|||-NONE-|||0
+
+S Pentagon'a sunulan raporda Başmüfettiş Bowen, 370 bin 251 silaha yaklaşık 133 Milyon Dolar harcandığını belirtiyor.
+
+S Pentagon'a sunulan rapor da Başmüfettiş Bowen, 370 bin 251 silaha yaklaşık 133 Milyon Dolar harcandığını belirtiyor.
+A 2 4|||rule_6|||raporda|||REQUIRED|||-NONE-|||0
+
+S Bu yarın da böyle olacak.
+
+S Bu yarın da böyle olacak.
+A 1 3|||rule_6|||yarında|||REQUIRED|||-NONE-|||0
+
+S İzmir merkezli 3 ilde DHKP-C adına faaliyet gösterdiği ileri sürülen Devrimci Memur Hareketi'ne yönelik düzenlenen operasyonda, 15 kişi gözaltına alındı.
+
+S İzmir merkezli 3 ilde DHKP-C adına faaliyet gösterdiği ileri sürülen Devrimci Memur Hareketi'ne yönelik düzenlenen operasyon da, 15 kişi gözaltına alındı.
+A 15 17|||rule_6|||operasyonda,|||REQUIRED|||-NONE-|||0
+
+S 2002 yılında Beyrut toplantısında şekillendirilen Arap inisiyatifi, 1967 savaşında ele geçirilen tüm topraklardan çekilmesi karşılığında İsrail ile Arap ülkeleri arasındaki bağların normalleştirilmesini öngörüyor.
+
+S 2002 yılın da Beyrut toplantısın da şekillendirilen Arap inisiyatifi, 1967 savaşın da ele geçirilen tüm topraklardan çekilmesi karşılığın da İsrail ile Arap ülkeleri arasındaki bağların normalleştirilmesini öngörüyor.
+A 1 3|||rule_6|||yılında|||REQUIRED|||-NONE-|||0
+A 4 6|||rule_6|||toplantısında|||REQUIRED|||-NONE-|||0
+A 10 12|||rule_6|||savaşında|||REQUIRED|||-NONE-|||0
+A 17 19|||rule_6|||karşılığında|||REQUIRED|||-NONE-|||0
+
+S Kitap okurken, çalışırken ya da televizyon izleme gibi aktivitelerle meşgul olurken boynunuzun kötü duruşu.-
+
+S Kitap okurken, çalışırken ya da televizyon izleme gibi aktivitelerle meşgul olurken boynunuzun kötü duruşu.-
+A 3 5|||rule_6|||yada|||REQUIRED|||-NONE-|||0
+
+S Bu kararı daha da fazla meşrulaştırmak için ekleyelim: `` Eğer görüşmeler içinde 'ben sizinle 2 yıl boyunca görüşme yürüttüm ama kararı ben vermeyeceğim referanduma sunacağım' dememizi bekliyorsunuz.
+
+S Bu kararı daha da fazla meşrulaştırmak için ekleyelim: `` Eğer görüşmeler içinde 'ben sizinle 2 yıl boyunca görüşme yürüttüm ama kararı ben vermeyeceğim referanduma sunacağım' dememizi bekliyorsunuz.
+A 2 4|||rule_6|||dahada|||REQUIRED|||-NONE-|||0
+
+S Arayan buldu da.
+
+S Arayan buldu da.
+A 1 3|||rule_6|||bulduda.|||REQUIRED|||-NONE-|||0
+
+S Ermeni bir katılımcının, 1915 olaylarıyla ilgili Ermeni tezlerinden atıfları da içeren uzun bir sorusuna, ''Bana yazılı bir bildiri okudunuz '' diyerek espriyle karşılık veren Arınç, Türkiye ile Ermenistan arasındaki ilişkilerin normalleşmesini dilediklerini, Ermenistan'ın Türkiye'nin komşusu olduğunu ve Türkiye'de geçmişte çok büyük bir nüfusta Ermenilerin yaşadığını belirtti.
+
+S Ermeni bir katılımcının, 1915 olaylarıyla ilgili Ermeni tezlerinden atıfları da içeren uzun bir sorusuna, ''Bana yazılı bir bildiri okudunuz '' diyerek espriyle karşılık veren Arınç, Türkiye ile Ermenistan arasındaki ilişkilerin normalleşmesini dilediklerini, Ermenistan'ın Türkiye'nin komşusu olduğunu ve Türkiye'de geçmişte çok büyük bir nüfusta Ermenilerin yaşadığını belirtti.
+A 8 10|||rule_6|||atıflarıda|||REQUIRED|||-NONE-|||0
+
+S Ortadoğu ve Kuzey Afrika'daki gelişmelerin zaman zaman petrol piyasalarında etkili olmasının dışında piyasalarımızın iyimser bir beklenti içine girme hazırlığında önemli bir adım attığını düşünüyorum.
+
+S Ortadoğu ve Kuzey Afrika'daki gelişmelerin zaman zaman petrol piyasaların da etkili olmasının dışın da piyasalarımızın iyimser bir beklenti içine girme hazırlığın da önemli bir adım attığını düşünüyorum.
+A 8 10|||rule_6|||piyasalarında|||REQUIRED|||-NONE-|||0
+A 12 14|||rule_6|||dışında|||REQUIRED|||-NONE-|||0
+A 20 22|||rule_6|||hazırlığında|||REQUIRED|||-NONE-|||0
+
+S Birincil enerji üretiminin ise 2010 yılında bu yıla göre küçük bir artışla 28,4 milyon ton petrol eşdeğerinden( MTEP) 29,2 MTEP'e çıkması bekleniyor.
+
+S Birincil enerji üretiminin ise 2010 yılın da bu yıla göre küçük bir artışla 28,4 milyon ton petrol eşdeğerinden( MTEP) 29,2 MTEP'e çıkması bekleniyor.
+A 5 7|||rule_6|||yılında|||REQUIRED|||-NONE-|||0
+
+S TUSKON Başkanı Rızanur Meral de konuşmasında, Türkiye'nin önemli bir değişim sürecinden geçtiğini ve ekonomik kalkınmanın Türk orta direğine zenginlik getirdiğini ifade etti.
+
+S TUSKON Başkanı Rızanur Meral de konuşmasın da, Türkiye'nin önemli bir değişim sürecinden geçtiğini ve ekonomik kalkınmanın Türk orta direğine zenginlik getirdiğini ifade etti.
+A 5 7|||rule_6|||konuşmasında,|||REQUIRED|||-NONE-|||0
+
+S Borsalarda ise 531'den 566 liraya çıktı.
+
+S Borsalar da ise 531'den 566 liraya çıktı.
+A 0 2|||rule_6|||Borsalarda|||REQUIRED|||-NONE-|||0
+
+S Bu arada Osaev'in eşi de cinayetle ilgili ifadesi alınmak üzere Asayiş Şube Müdürlüğü Cinayet Büro Amirliği'ne götürüldü.
+
+S Bu ara da Osaev'in eşi de cinayetle ilgili ifadesi alınmak üzere Asayiş Şube Müdürlüğü Cinayet Büro Amirliği'ne götürüldü.
+A 1 3|||rule_6|||arada|||REQUIRED|||-NONE-|||0
+
+S Geçmiş deneyim, ilk oylamanın son kararda çok değişebildiğini gösteriyor. ''
+
+S Geçmiş deneyim, ilk oylamanın son karar da çok değişebildiğini gösteriyor. ''
+A 5 7|||rule_6|||kararda|||REQUIRED|||-NONE-|||0
+
+S Prens, Bizim halklarımızın beslenmesinde çok büyük yeri olan patates ise İstanbul civarında sadece birkaç Avrupalı tarafından ekilmektedir.
+
+S Prens, Bizim halklarımızın beslenmesinde çok büyük yeri olan patates ise İstanbul civarın da sadece birkaç Avrupalı tarafından ekilmektedir.
+A 11 13|||rule_6|||civarında|||REQUIRED|||-NONE-|||0
+
+S Parlamentoda bulunan 21 milletvekilinden 20'si Lakerbaya'ya güvensizlik oyu verirken, Ankvab'ın da istifasını istedi.
+
+S Parlamento da bulunan 21 milletvekilinden 20'si Lakerbaya'ya güvensizlik oyu verirken, Ankvab'ın da istifasını istedi.
+A 0 2|||rule_6|||Parlamentoda|||REQUIRED|||-NONE-|||0
+A 10 12|||rule_6|||Ankvab'ında|||REQUIRED|||-NONE-|||0
+
+S ABF Başkanı ve Genel Sekreteri, Cumhuriyet Halk Partisi Genel Başkanı Deniz Baykal'ın Ergenekon ile ilgili açıklamalarına da dikkat çekti: `` CHP lideri Ergenekon ile ilgili açıklamalarına dikkat etmeli, 'avukatlıktan' vazgeçmelidir. ''
+
+S ABF Başkanı ve Genel Sekreteri, Cumhuriyet Halk Partisi Genel Başkanı Deniz Baykal'ın Ergenekon ile ilgili açıklamalarına da dikkat çekti: `` CHP lideri Ergenekon ile ilgili açıklamalarına dikkat etmeli, 'avukatlıktan' vazgeçmelidir. ''
+A 15 17|||rule_6|||açıklamalarınada|||REQUIRED|||-NONE-|||0
+
+S Suudi Arabistan'da cezaevinde tutulduğu dönemde yaşadıklarını yazdığını dile getiren Sabri Boğday, yazdıklarını kitap haline getirerek, o dönemi herkesle paylaşmak istediğini, bunu gerçekleştirebilmek için de destek beklediğini söyledi.
+
+S Suudi Arabistan' da cezaevinde tutulduğu dönemde yaşadıklarını yazdığını dile getiren Sabri Boğday, yazdıklarını kitap haline getirerek, o dönemi herkesle paylaşmak istediğini, bunu gerçekleştirebilmek için de destek beklediğini söyledi.
+A 1 3|||rule_6|||Arabistan'da|||REQUIRED|||-NONE-|||0
+
+S Bu anlamda tüm okullarımızda spor salonu eksikliği giderilmelidir. ''
+
+S Bu anlam da tüm okullarımız da spor salonu eksikliği giderilmelidir. ''
+A 1 3|||rule_6|||anlamda|||REQUIRED|||-NONE-|||0
+A 4 6|||rule_6|||okullarımızda|||REQUIRED|||-NONE-|||0
+
+S AnadoluJet ve diğer firmalar tarafından burada ulaşım sağlansın.
+
+S AnadoluJet ve diğer firmalar tarafından bura da ulaşım sağlansın.
+A 5 7|||rule_6|||burada|||REQUIRED|||-NONE-|||0
+
+S Türkiye, İtalya ve Çin arasındaki coğrafyada, en güçlü serbest piyasa ekonomisine ve özel sektöre sahiptir.
+
+S Türkiye, İtalya ve Çin arasındaki coğrafya da, en güçlü serbest piyasa ekonomisine ve özel sektöre sahiptir.
+A 5 7|||rule_6|||coğrafyada,|||REQUIRED|||-NONE-|||0
+
+S Çin medyasında yer alan haberde, eyaletin başşehri Wuhan'da kıyamet söylentileri yayan 5 kişinin halka korku salmak ve sosyal düzeni bozmak suçlarından ötürü gözaltına alındığına yer verildi.
+
+S Çin medyasın da yer alan haberde, eyaletin başşehri Wuhan' da kıyamet söylentileri yayan 5 kişinin halka korku salmak ve sosyal düzeni bozmak suçlarından ötürü gözaltına alındığına yer verildi.
+A 1 3|||rule_6|||medyasında|||REQUIRED|||-NONE-|||0
+A 8 10|||rule_6|||Wuhan'da|||REQUIRED|||-NONE-|||0
+
+S İzmir Büyükşehir Belediyesi’nden yapılan yazılı açıklamaya göre, ‘Salvador Dali İzmir’de’ başlığıyla Ahmed Adnan Saygun Sanat Merkezi’nde( AASSM) 17 Ocak-2 Mart tarihleri arasında düzenlenecek sergide, 13’ü ‘Zodyak’ serisinden olmak üzere Dali’nin 46 eseri yer alacak.İzmir’de yılın en önemli sanat olaylarından biri olarak değerlendirilen sergi, ücretsiz olarak gezilebilecek.
+
+S İzmir Büyükşehir Belediyesi’nden yapılan yazılı açıklamaya göre, ‘Salvador Dali İzmir’de’ başlığıyla Ahmed Adnan Saygun Sanat Merkezi’nde( AASSM) 17 Ocak-2 Mart tarihleri arasın da düzenlenecek sergide, 13’ü ‘Zodyak’ serisinden olmak üzere Dali’nin 46 eseri yer alacak.İzmir’de yılın en önemli sanat olaylarından biri olarak değerlendirilen sergi, ücretsiz olarak gezilebilecek.
+A 21 23|||rule_6|||arasında|||REQUIRED|||-NONE-|||0
+
+S Yargıtay Başsavcısı Abdurrahman Yalçınkaya'nın sekreterlerinden önce otomatik olarak devreye giren bant kaydı, 'Kurumsal güvenlik standardımız açısından telefon görüşmeniz kaydedilmektedir' uyarısında bulunuyor.
+
+S Yargıtay Başsavcısı Abdurrahman Yalçınkaya'nın sekreterlerinden önce otomatik olarak devreye giren bant kaydı, 'Kurumsal güvenlik standardımız açısından telefon görüşmeniz kaydedilmektedir' uyarısın da bulunuyor.
+A 19 21|||rule_6|||uyarısında|||REQUIRED|||-NONE-|||0
+
+S ''Söz konusu grubun, süreç içerisinde asli görevinden ayrılarak, terör örgütü PKK'ya yardım ettiğinin değerlendirildiği ya da özel sebeplerden dolayı gözaltına aldıkları kişileri sorguladığı '' ifade edilen iddianamede, grubun, bu sorgulanan kişilerden bir kısmını öldürdüğü öne sürülüyor.
+
+S ''Söz konusu grubun, süreç içerisinde asli görevinden ayrılarak, terör örgütü PKK'ya yardım ettiğinin değerlendirildiği ya da özel sebeplerden dolayı gözaltına aldıkları kişileri sorguladığı '' ifade edilen iddianamede, grubun, bu sorgulanan kişilerden bir kısmını öldürdüğü öne sürülüyor.
+A 14 16|||rule_6|||yada|||REQUIRED|||-NONE-|||0
+
+S Türkiye Cumhuriyet Merkez Bankası( TCMB) da son iki aydaki 'Para Politikası Kurulu'( PPK) toplantısında diğerlerinden daha farklı bir sistemle( politika faizi indirimi ve munzam karşılık artışlarıyla) bu kervana katıldı.
+
+S Türkiye Cumhuriyet Merkez Bankası( TCMB) da son iki aydaki 'Para Politikası Kurulu'( PPK) toplantısın da diğerlerinden daha farklı bir sistemle( politika faizi indirimi ve munzam karşılık artışlarıyla) bu kervana katıldı.
+A 4 6|||rule_6|||TCMB)da|||REQUIRED|||-NONE-|||0
+A 13 15|||rule_6|||toplantısında|||REQUIRED|||-NONE-|||0
+
+S Din adamları olarak mamur kentlerin oluşmasıyla ilgilenmeleri gerektiğini belirten Görmez, kendilerinin sadece şehirlerde yapılacak olan cami inşaatlarıyla değil, bu camileri dolduracak bedenlerin imar edilmesi ve mümin vicdanların oluşturacağı ahlaka dayalı toplumsal bir yapının oluşturduğu mamur kentlerin oluşmasıyla da ilgilenmeleri gerektiğini söyledi.
+
+S Din adamları olarak mamur kentlerin oluşmasıyla ilgilenmeleri gerektiğini belirten Görmez, kendilerinin sadece şehirlerde yapılacak olan cami inşaatlarıyla değil, bu camileri dolduracak bedenlerin imar edilmesi ve mümin vicdanların oluşturacağı ahlaka dayalı toplumsal bir yapının oluşturduğu mamur kentlerin oluşmasıyla da ilgilenmeleri gerektiğini söyledi.
+A 36 38|||rule_6|||oluşmasıylada|||REQUIRED|||-NONE-|||0
+
+S 22-48 bin dolar aralığında satışa sunulan koleksiyonun sahibi Hanif, Türkiye adına bir ilki gerçekleştirmekten gurur duyduğunu söylüyor.
+
+S 22-48 bin dolar aralığın da satışa sunulan koleksiyonun sahibi Hanif, Türkiye adına bir ilki gerçekleştirmekten gurur duyduğunu söylüyor.
+A 3 5|||rule_6|||aralığında|||REQUIRED|||-NONE-|||0
+
+S Bazı ürünlerimiz bunları kullanmadığımız için, çok güzel kokmasa da, çok hesaplıya çıkmasa da, biz yine de bunları kullanmayacağız.” dedi.
+
+S Bazı ürünlerimiz bunları kullanmadığımız için, çok güzel kokmasa da, çok hesaplıya çıkmasa da, biz yine de bunları kullanmayacağız.” dedi.
+A 7 9|||rule_6|||kokmasada,|||REQUIRED|||-NONE-|||0
+A 11 13|||rule_6|||çıkmasada,|||REQUIRED|||-NONE-|||0
+
+S Şanlıurfa'nın Bozova ilçesine bağlı Yaylak İlköğretim Okulu 8. sınıf öğrencisi Neslihan Elçi( 14) ve Aysel Keser( 14 ), Gül'den tarlada çalışan kızların okutulmasını isteyecek.
+
+S Şanlıurfa'nın Bozova ilçesine bağlı Yaylak İlköğretim Okulu 8. sınıf öğrencisi Neslihan Elçi( 14) ve Aysel Keser( 14 ), Gül'den tarla da çalışan kızların okutulmasını isteyecek.
+A 19 21|||rule_6|||tarlada|||REQUIRED|||-NONE-|||0
+
+S Bu da çok pahalıya mal oldu.
+
+S Bu da çok pahalıya mal oldu.
+A 0 2|||rule_6|||Buda|||REQUIRED|||-NONE-|||0
+
+S Danıştay'a açtığı ilk davada haklı bulunan ve 150 bin TL tazminat ödenen Saçılık'ın isyana aktif olarak katıldığı sırada kepçenin darbesiyle konulu kaybettiğine ve bu durumun kendi kusurundan kaynaklandığına hükmedildi.
+
+S Danıştay'a açtığı ilk dava da haklı bulunan ve 150 bin TL tazminat ödenen Saçılık'ın isyana aktif olarak katıldığı sıra da kepçenin darbesiyle konulu kaybettiğine ve bu durumun kendi kusurundan kaynaklandığına hükmedildi.
+A 3 5|||rule_6|||davada|||REQUIRED|||-NONE-|||0
+A 18 20|||rule_6|||sırada|||REQUIRED|||-NONE-|||0
+
+S Partilerini kapattırmak için elinden gelen her şeyi yapan bu insanlar için verilecek en büyük ceza aslında partilerini kapatmamaktı.
+
+S Partilerini kapattırmak için elinden gelen her şeyi yapan bu insanlar için verilecek en büyük ceza aslın da partilerini kapatmamaktı.
+A 15 17|||rule_6|||aslında|||REQUIRED|||-NONE-|||0
+
+S Başvuruda, kulübün fazlası saklı kalmak koşuluyla 200 bin lira manevi tazminat davası açtığı, dava dilekçesine ek olarak, Uygun'un Bucaspor-Eskişehirspor maçı öncesinde Eskişehirspor ile anlaştığı yönünde çıkan gazete haberlerini, istifa dilekçesini ve maç sonrasındaki imza haberlerini koyduğu bildirildi.
+
+S Başvuru da, kulübün fazlası saklı kalmak koşuluyla 200 bin lira manevi tazminat davası açtığı, dava dilekçesine ek olarak, Uygun'un Bucaspor-Eskişehirspor maçı öncesinde Eskişehirspor ile anlaştığı yönünde çıkan gazete haberlerini, istifa dilekçesini ve maç sonrasındaki imza haberlerini koyduğu bildirildi.
+A 0 2|||rule_6|||Başvuruda,|||REQUIRED|||-NONE-|||0
+
+S Türkiye toplumu bütün krizleri toplumsal bilincindeki `` hayırda yarışma ve dayanışma duyguları '' ile atlatagelmişti.
+
+S Türkiye toplumu bütün krizleri toplumsal bilincindeki `` hayır da yarışma ve dayanışma duyguları '' ile atlatagelmişti.
+A 7 9|||rule_6|||hayırda|||REQUIRED|||-NONE-|||0
+
+S Bir anda sistem içinde yükseldiler, Anadolu'nun kadim halklarıyla aralarındaki mesafeyi açtılar.
+
+S Bir an da sistem içinde yükseldiler, Anadolu'nun kadim halklarıyla aralarındaki mesafeyi açtılar.
+A 1 3|||rule_6|||anda|||REQUIRED|||-NONE-|||0
+
+S Sonuçlar normal bireylerin düşük miktarda amiloid proteni içeren beyinlerinin( grubun yüzde 38'i) diğer grup kadar hızlı küçüldüğünü ortaya çıkardı.
+
+S Sonuçlar normal bireylerin düşük miktar da amiloid proteni içeren beyinlerinin( grubun yüzde 38'i) diğer grup kadar hızlı küçüldüğünü ortaya çıkardı.
+A 4 6|||rule_6|||miktarda|||REQUIRED|||-NONE-|||0
+
+S Sinan Bolat'ın menajeri Kısmet Eriş de yaptığı açıklamada, Belçika Milli Takımı'nın hocası Georges Leekens'in gurbetçi kaleciyi çağırması durumunda bu teklifi değerlendireceklerini söyledi.
+
+S Sinan Bolat'ın menajeri Kısmet Eriş de yaptığı açıklama da, Belçika Milli Takımı'nın hocası Georges Leekens'in gurbetçi kaleciyi çağırması durumun da bu teklifi değerlendireceklerini söyledi.
+A 7 9|||rule_6|||açıklamada,|||REQUIRED|||-NONE-|||0
+A 18 20|||rule_6|||durumunda|||REQUIRED|||-NONE-|||0
+
+S O bakımdan ailesine baş sağlığı, mezarı başında da kendisine rahmet dilemek her Türk'ün vazifesidir.
+
+S O bakımdan ailesine baş sağlığı, mezarı başın da da kendisine rahmet dilemek her Türk'ün vazifesidir.
+A 6 8|||rule_6|||başında|||REQUIRED|||-NONE-|||0
+A 7 9|||rule_6|||da|||REQUIRED|||-NONE-|||0
+
+S 69. dakikada Ergin'in uzak mesafeden şutunda, top farklı bir şekilde auta çıktı.
+
+S 69. dakika da Ergin'in uzak mesafeden şutun da, top farklı bir şekilde auta çıktı.
+A 1 3|||rule_6|||dakikada|||REQUIRED|||-NONE-|||0
+A 6 8|||rule_6|||şutunda,|||REQUIRED|||-NONE-|||0
+
+S Da­rüş­şa­fa­ka­lı Ali Şev­ki'nin res­mi­ni çok son­ra gö­re­cek­tim; yi­ne de ço­cuk­lu­ğum­da, bah­çe, 'sa­nat ese­ri'yle ta­nış­mam­dı.
+
+S Da­rüş­şa­fa­ka­lı Ali Şev­ki'nin res­mi­ni çok son­ra gö­re­cek­tim; yi­ne de ço­cuk­lu­ğum­ da, bah­çe, 'sa­nat ese­ri'yle ta­nış­mam­dı.
+A 9 11|||rule_6|||ço­cuk­lu­ğum­da,|||REQUIRED|||-NONE-|||0
+
+S Biz bu konuda haksız rekabetin giderilmesini bekliyoruz. ''
+
+S Biz bu konu da haksız rekabetin giderilmesini bekliyoruz. ''
+A 2 4|||rule_6|||konuda|||REQUIRED|||-NONE-|||0
+
+S Dieng Cheikh Abass, Fenerbahçe ile 6 Ağustos Perşembe günü kendi sahalarında oynayacakları maçın seyircisiz olmasının da kendileri için büyük bir dezavantaj olduğunu sözlerine ekledi.
+
+S Dieng Cheikh Abass, Fenerbahçe ile 6 Ağustos Perşembe günü kendi sahaların da oynayacakları maçın seyircisiz olmasının da kendileri için büyük bir dezavantaj olduğunu sözlerine ekledi.
+A 10 12|||rule_6|||sahalarında|||REQUIRED|||-NONE-|||0
+A 15 17|||rule_6|||olmasınında|||REQUIRED|||-NONE-|||0
+
+S Türkiye'de bir büyük satranç organizasyonu da başarıyla sona erdi.
+
+S Türkiye'de bir büyük satranç organizasyonu da başarıyla sona erdi.
+A 4 6|||rule_6|||organizasyonuda|||REQUIRED|||-NONE-|||0
+
+S Kaynak Kullanımı Destekleme Fonu kesintisinin 972 milyon 826 bin lira, ithalatta fon kesintisinin ise 205 milyon 568 bin lira olduğu Ocak-Mayıs döneminde GSM işletmelerinden Hazine payı olarak da 759 milyon 832 bin lira tahsilat yapıldı.
+
+S Kaynak Kullanımı Destekleme Fonu kesintisinin 972 milyon 826 bin lira, ithalatta fon kesintisinin ise 205 milyon 568 bin lira olduğu Ocak-Mayıs döneminde GSM işletmelerinden Hazine payı olarak da 759 milyon 832 bin lira tahsilat yapıldı.
+A 26 28|||rule_6|||olarakda|||REQUIRED|||-NONE-|||0
+
+S Raporda Tahran ile Washington arasında varılabilecek bir anlaşmanın İsrail'in çıkarlarına aykırı olduğu ve bunun önlenmesi gerektiği ifade edildi.
+
+S Rapor da Tahran ile Washington arasın da varılabilecek bir anlaşmanın İsrail'in çıkarlarına aykırı olduğu ve bunun önlenmesi gerektiği ifade edildi.
+A 0 2|||rule_6|||Raporda|||REQUIRED|||-NONE-|||0
+A 5 7|||rule_6|||arasında|||REQUIRED|||-NONE-|||0
+
+S İnşallah o da burada okuyacak.
+
+S İnşallah o da bura da okuyacak.
+A 1 3|||rule_6|||oda|||REQUIRED|||-NONE-|||0
+A 3 5|||rule_6|||burada|||REQUIRED|||-NONE-|||0
+
+S Guti ve Ernst'siz Beşiktaş, Gaziantepspor maçı için Antalya'da
+
+S Guti ve Ernst'siz Beşiktaş, Gaziantepspor maçı için Antalya' da
+A 7 9|||rule_6|||Antalya'da|||REQUIRED|||-NONE-|||0
+
+S Masa başında kurgulanan savaş planlarının saha şartlarına göre revize edildiği akıldan çıkarılmamalı.
+
+S Masa başın da kurgulanan savaş planlarının saha şartlarına göre revize edildiği akıldan çıkarılmamalı.
+A 1 3|||rule_6|||başında|||REQUIRED|||-NONE-|||0
+
+S Demek ki söylemle eylem arasında dağlar kadar fark var.
+
+S Demek ki söylemle eylem arasın da dağlar kadar fark var.
+A 4 6|||rule_6|||arasında|||REQUIRED|||-NONE-|||0
+
+S Yine de konuyu ele alış biçimi açısından Bahoz kaydadeğer, ileride duran bir yapım olarak nitelendiriliyor.
+
+S Yine de konuyu ele alış biçimi açısından Bahoz kaydadeğer, ileri de duran bir yapım olarak nitelendiriliyor.
+A 0 2|||rule_6|||Yinede|||REQUIRED|||-NONE-|||0
+A 9 11|||rule_6|||ileride|||REQUIRED|||-NONE-|||0
+
+S Vali Toprak 2 aracın yakıldığını, bir marketinde yağmalanmak istendiğini ancak emniyet tedbirleriyle bunun önlendiğini, olaylar esnasında 6 aracın da hasar gördüğünü kaydetti.
+
+S Vali Toprak 2 aracın yakıldığını, bir marketin de yağmalanmak istendiğini ancak emniyet tedbirleriyle bunun önlendiğini, olaylar esnasında 6 aracın da hasar gördüğünü kaydetti.
+A 6 8|||rule_6|||marketinde|||REQUIRED|||-NONE-|||0
+
+S Merkezde böylece 2006 yılında yerli-yabancı toplam 21 bin 155 kişiye acil kurtarma eğitimi verilmiş oldu.
+
+S Merkez de böylece 2006 yılında yerli-yabancı toplam 21 bin 155 kişiye acil kurtarma eğitimi verilmiş oldu.
+A 0 2|||rule_6|||Merkezde|||REQUIRED|||-NONE-|||0
+
+S Çalışma döneminde öğrencilere Erciyes Üniversitesi Mimarlık Fakültesi öğretim üyeleri Gonca Büyükmıhçı, Sencer Erkman, Burcu Ceylan, Sema Serim, Doğu Akdeniz Üniversitesi Mimarlık Fakültesi Mimarlık Bölümü öğretim elemanı Halil Alibaba danışmanlık yapıyor.
+
+S Çalışma dönemin de öğrencilere Erciyes Üniversitesi Mimarlık Fakültesi öğretim üyeleri Gonca Büyükmıhçı, Sencer Erkman, Burcu Ceylan, Sema Serim, Doğu Akdeniz Üniversitesi Mimarlık Fakültesi Mimarlık Bölümü öğretim elemanı Halil Alibaba danışmanlık yapıyor.
+A 1 3|||rule_6|||döneminde|||REQUIRED|||-NONE-|||0
+
+S Ne zaman öleceğinin belli olmadığını, ancak ölmeden önce hem ölümü hatırlama hem de insanlara ölümü hatırlatmak amacıyla hayattayken mezarını hazırladığını belirten Dağdağan, `` Mezarı cami önünde kazmamızın en büyük sebebi ise gerek camiden çıkan insanların, gerek cami önünden geçen insanların kabri görüp ölümü hatırlamalarını sağlamaktı.
+
+S Ne zaman öleceğinin belli olmadığını, ancak ölmeden önce hem ölümü hatırlama hem de insanlara ölümü hatırlatmak amacıyla hayattayken mezarını hazırladığını belirten Dağdağan, `` Mezarı cami önün de kazmamızın en büyük sebebi ise gerek camiden çıkan insanların, gerek cami önünden geçen insanların kabri görüp ölümü hatırlamalarını sağlamaktı.
+A 11 13|||rule_6|||hemde|||REQUIRED|||-NONE-|||0
+A 25 27|||rule_6|||önünde|||REQUIRED|||-NONE-|||0
+
+S Van'da yapılan otopsinin artından Oymaklı köyünde toprağa verilen Arif Noyan'ın cenaze törenine Özalp Belediye Başkanı Murat Durmaz ve DTP Van Milletvekili Özdal Üçer de katıldı.
+
+S Van'da yapılan otopsinin artından Oymaklı köyün de toprağa verilen Arif Noyan'ın cenaze törenine Özalp Belediye Başkanı Murat Durmaz ve DTP Van Milletvekili Özdal Üçer de katıldı.
+A 5 7|||rule_6|||köyünde|||REQUIRED|||-NONE-|||0
+A 23 25|||rule_6|||Üçerde|||REQUIRED|||-NONE-|||0
+
+S İlçenin Ağaçaltı köyünde ikamet ettiğini söyleyen Murat Dağgülü ise, vekille tartışmadığını, ancak sorunlarını aktardığını söyledi.
+
+S İlçenin Ağaçaltı köyün de ikamet ettiğini söyleyen Murat Dağgülü ise, vekille tartışmadığını, ancak sorunlarını aktardığını söyledi.
+A 2 4|||rule_6|||köyünde|||REQUIRED|||-NONE-|||0
+
+S Sınır kapısında bulunmamız gereken 14.37'de bu yüzden orada değildik.
+
+S Sınır kapısında bulunmamız gereken 14.37' de bu yüzden orada değildik.
+A 4 6|||rule_6|||14.37'de|||REQUIRED|||-NONE-|||0
+
+S 55. dakikada Caner'in ceza alanı içinde yerden ortasında kaleciyi geçen top Coşkun'un önüne düştü.
+
+S 55. dakikada Caner'in ceza alanı için de yerden ortasında kaleciyi geçen top Coşkun'un önüne düştü.
+A 5 7|||rule_6|||içinde|||REQUIRED|||-NONE-|||0
+
+S Gericiliğin toplumsal alanı kuşattığı bu dönemde emperyalizmin güdümünde üstlenilen aktif taşeronluk rolü ile ülkemiz komşuları ile savaşın eşiğine getirilmiştir.
+
+S Gericiliğin toplumsal alanı kuşattığı bu dönem de emperyalizmin güdümün de üstlenilen aktif taşeronluk rolü ile ülkemiz komşuları ile savaşın eşiğine getirilmiştir.
+A 5 7|||rule_6|||dönemde|||REQUIRED|||-NONE-|||0
+A 8 10|||rule_6|||güdümünde|||REQUIRED|||-NONE-|||0
+
+S Çin'in kuzeybatısındaki Sincan Uygur Özerk Bölgesi'nde yer alan Hotan kentindeki bir polis karakoluna bugün yerel saatle 12 sıralarında düzenlenen saldırıda en az 4 kişi öldü.
+
+S Çin'in kuzeybatısındaki Sincan Uygur Özerk Bölgesi'n de yer alan Hotan kentindeki bir polis karakoluna bugün yerel saatle 12 sıralarında düzenlenen saldırıda en az 4 kişi öldü.
+A 5 7|||rule_6|||Bölgesi'nde|||REQUIRED|||-NONE-|||0
+
+S Türkiye bizim dönemimizde bir strateji belgesi hazırladı.
+
+S Türkiye bizim dönemimiz de bir strateji belgesi hazırladı.
+A 2 4|||rule_6|||dönemimizde|||REQUIRED|||-NONE-|||0
+
+S Dünyada 34 ülkede 38 tersanesi bulunan ve Antalya Serbest Bölgesi'nde Cyrus Yacht tersanesini devralan Hollandalı firma Damen Shipyards, kompozit tekne seri üretimi yapmayı planlıyor.
+
+S Dünyada 34 ülke de 38 tersanesi bulunan ve Antalya Serbest Bölgesi'n de Cyrus Yacht tersanesini devralan Hollandalı firma Damen Shipyards, kompozit tekne seri üretimi yapmayı planlıyor.
+A 2 4|||rule_6|||ülkede|||REQUIRED|||-NONE-|||0
+A 10 12|||rule_6|||Bölgesi'nde|||REQUIRED|||-NONE-|||0
+
+S Koro şefliğini Oleg Constantinov'un yaptığı eserde, Funda Uyanık, Gökçen Büyükaslan, Hasan Alptekin, Mustafa Özer, Umut Tarık Akça, Hulusi Polat, Zeynep Özgür Günal, Ayşin Alev Yücel, Alpay Noyan Özbay dönüşümlü olarak rol alacak.
+
+S Koro şefliğini Oleg Constantinov'un yaptığı eser de, Funda Uyanık, Gökçen Büyükaslan, Hasan Alptekin, Mustafa Özer, Umut Tarık Akça, Hulusi Polat, Zeynep Özgür Günal, Ayşin Alev Yücel, Alpay Noyan Özbay dönüşümlü olarak rol alacak.
+A 5 7|||rule_6|||eserde,|||REQUIRED|||-NONE-|||0
+
+S AK Parti İl Başkanı Ziya Şahin ise Türkiye'nin her tarafında partilerinin öncülüğünde Fetih Suresi'nin okunduğunu ve Mısır halkıyla ve Müslüman Kardeşlerle dayanışma günü ilan edildiğini belirtti.
+
+S AK Parti İl Başkanı Ziya Şahin ise Türkiye'nin her tarafında partilerinin öncülüğün de Fetih Suresi'nin okunduğunu ve Mısır halkıyla ve Müslüman Kardeşlerle dayanışma günü ilan edildiğini belirtti.
+A 11 13|||rule_6|||öncülüğünde|||REQUIRED|||-NONE-|||0
+
+S Açıklamada, bölge regülatöründe yapılan testler sonunda İcadiye ve Boyalıca mahalleleri ana arterinde, Memduhiye, Karşıyaka, Değirmenüstü mahalleleri ana arteri ile İnönü Mahallesi'nin bir kısmına doğalgazın verildiği belirtildi.
+
+S Açıklamada, bölge regülatörün de yapılan testler sonunda İcadiye ve Boyalıca mahalleleri ana arterin de, Memduhiye, Karşıyaka, Değirmenüstü mahalleleri ana arteri ile İnönü Mahallesi'nin bir kısmına doğalgazın verildiği belirtildi.
+A 2 4|||rule_6|||regülatöründe|||REQUIRED|||-NONE-|||0
+A 12 14|||rule_6|||arterinde,|||REQUIRED|||-NONE-|||0
+
+S Kobani'deki olayları bahane eden bir siyasi partinin yaptığı çağrı sonrasında, ana muhalefet partisi genel başkan yardımcısının twitterini takiben son 48 saat içerisinde bazı illerde çok yoğun şiddet olayları yaşandığını söyleyen Başbakan Davutoğlu, `` Bu şiddet olayları tam bir vandalizme ve örgütlü suç niteliğindeki faaliyetlere dönüşmüştür.
+
+S Kobani'deki olayları bahane eden bir siyasi partinin yaptığı çağrı sonrasında, ana muhalefet partisi genel başkan yardımcısının twitterini takiben son 48 saat içerisin de bazı iller de çok yoğun şiddet olayları yaşandığını söyleyen Başbakan Davutoğlu, `` Bu şiddet olayları tam bir vandalizme ve örgütlü suç niteliğindeki faaliyetlere dönüşmüştür.
+A 21 23|||rule_6|||içerisinde|||REQUIRED|||-NONE-|||0
+A 24 26|||rule_6|||illerde|||REQUIRED|||-NONE-|||0
+
+S Ellerinde Türk bayraklarıyla valilik önünde toplanan CHP Manisa İl ve Merkez İlçe Teşkilatı üyelerine vatandaşlar ve sivil toplum örgütleri de destek verdi.
+
+S Ellerin de Türk bayraklarıyla valilik önün de toplanan CHP Manisa İl ve Merkez İlçe Teşkilatı üyelerine vatandaşlar ve sivil toplum örgütleri de destek verdi.
+A 0 2|||rule_6|||Ellerinde|||REQUIRED|||-NONE-|||0
+A 5 7|||rule_6|||önünde|||REQUIRED|||-NONE-|||0
+A 20 22|||rule_6|||örgütleride|||REQUIRED|||-NONE-|||0
+
+S Eğitimde başarılı olan öğrenciler arasında yapılan yarışmada, kayak yarışlarının slalom, büyük slalom ve süper C kategorilerinde Gümüşhane'yi temsil edecek sporcuların belirlendiğini anlatan Aslan, ardından kayak şenliği düzenlediklerini söyledi.
+
+S Eğitim de başarılı olan öğrenciler arasında yapılan yarışmada, kayak yarışlarının slalom, büyük slalom ve süper C kategorilerin de Gümüşhane'yi temsil edecek sporcuların belirlendiğini anlatan Aslan, ardından kayak şenliği düzenlediklerini söyledi.
+A 0 2|||rule_6|||Eğitimde|||REQUIRED|||-NONE-|||0
+A 16 18|||rule_6|||kategorilerinde|||REQUIRED|||-NONE-|||0
+
+S Son çeyreğe de 67-65'le gidildi.
+
+S Son çeyreğe de 67-65'le gidildi.
+A 1 3|||rule_6|||çeyreğede|||REQUIRED|||-NONE-|||0
+
+S Uzun, kampanyanın devam ettiğini belirterek, evini Vanlı ailelere yaza kadar vermek isteyenlerden de destek beklediklerini kaydetti.
+
+S Uzun, kampanyanın devam ettiğini belirterek, evini Vanlı ailelere yaza kadar vermek isteyenlerden de destek beklediklerini kaydetti.
+A 11 13|||rule_6|||isteyenlerdende|||REQUIRED|||-NONE-|||0
+
+S `` Makam peşinde değiliz ''
+
+S `` Makam peşin de değiliz ''
+A 2 4|||rule_6|||peşinde|||REQUIRED|||-NONE-|||0
+
+S Avrupa Birliği Bakanlığı tarafından yürütülen `` Türkiye ve Ab Sivil Toplum Diyalogu- II Kültür ve Sanat Hibe Programı '' kapsamındaki sergi, yarın 17.00'de Abdullah Efendi Konağı'nda açılacak.
+
+S Avrupa Birliği Bakanlığı tarafından yürütülen `` Türkiye ve Ab Sivil Toplum Diyalogu- II Kültür ve Sanat Hibe Programı '' kapsamındaki sergi, yarın 17.00' de Abdullah Efendi Konağı'nda açılacak.
+A 22 24|||rule_6|||17.00'de|||REQUIRED|||-NONE-|||0
+
+S Yoğun kar yağışı nedeni ile Işık Üniversitesi Şile Kampüsünde, yarın eğitime bir gün ara verildiği açıklandı.
+
+S Yoğun kar yağışı nedeni ile Işık Üniversitesi Şile Kampüsün de, yarın eğitime bir gün ara verildiği açıklandı.
+A 8 10|||rule_6|||Kampüsünde,|||REQUIRED|||-NONE-|||0
+
+S 'nün( 52) şüphe üzerine üzerinde arama yapan polis, 1 adet 7.65 mm çaplı ruhsatsız tabanca ve 3 adet mermi ele geçirdi.
+
+S 'nün( 52) şüphe üzerine üzerin de arama yapan polis, 1 adet 7.65 mm çaplı ruhsatsız tabanca ve 3 adet mermi ele geçirdi.
+A 4 6|||rule_6|||üzerinde|||REQUIRED|||-NONE-|||0
+
+S 2010 yılında akıllı telefon piyasasının yüzde 43,5'ini oluşturan Symbian işletim sistemi artık açık kaynaklı bir yazılım.
+
+S 2010 yılında akıllı telefon piyasasının yüz de 43,5'ini oluşturan Symbian işletim sistemi artık açık kaynaklı bir yazılım.
+A 5 7|||rule_6|||yüzde|||REQUIRED|||-NONE-|||0
+
+S Ayrıca yaşı 18'den küçük olan zanlı, yaralama suçundan mahkemeye sevk edilmiş ve nöbetçi mahkemede kendisini tutuksuz yargılanmak üzere serbest bırakmıştır '' dedi.
+
+S Ayrıca yaşı 18'den küçük olan zanlı, yaralama suçundan mahkemeye sevk edilmiş ve nöbetçi mahkeme de kendisini tutuksuz yargılanmak üzere serbest bırakmıştır '' dedi.
+A 13 15|||rule_6|||mahkemede|||REQUIRED|||-NONE-|||0
+
+S İstanbul Emniyet Müdürü Hüseyin Çapkın ise yaptığı konuşmada, Polis teşkilatı güçlü olmayan bir ülkede demokrasiyi yerleştirmenin mümkün olamayacağını ifade etti.
+
+S İstanbul Emniyet Müdürü Hüseyin Çapkın ise yaptığı konuşmada, Polis teşkilatı güçlü olmayan bir ülke de demokrasiyi yerleştirmenin mümkün olamayacağını ifa de etti.
+A 13 15|||rule_6|||ülkede|||REQUIRED|||-NONE-|||0
+A 19 21|||rule_6|||ifade|||REQUIRED|||-NONE-|||0
+
+S Bekir Sacide Keleşoğlu Eğitim ve Yardım Vakfı( BESKVA) Başkanı Keleşoğlu, ayakkabıları Okuma Eğitim Kültür ve Yardımlaşma Derneği( UFUK) Gazi Hacı Nusrettin Kara Okuma Salonu ve Eğitim Merkezi'ne teslim etti.
+
+S Bekir Saci de Keleşoğlu Eğitim ve Yardım Vakfı( BESKVA) Başkanı Keleşoğlu, ayakkabıları Okuma Eğitim Kültür ve Yardımlaşma Derneği( UFUK) Gazi Hacı Nusrettin Kara Okuma Salonu ve Eğitim Merkezi'ne teslim etti.
+A 1 3|||rule_6|||Sacide|||REQUIRED|||-NONE-|||0
+
+S Günümüzde engellilerimizin toplumsal hayata katılım ve başarmak yolunda gösterdikleri gayretlerden büyük mutluluk duyduğumu belirtmek istiyorum.
+
+S Günümüz de engellilerimizin toplumsal hayata katılım ve başarmak yolunda gösterdikleri gayretlerden büyük mutluluk duyduğumu belirtmek istiyorum.
+A 0 2|||rule_6|||Günümüzde|||REQUIRED|||-NONE-|||0
+
+S 2. periyodun ilk dakikalarında rakibinin yaptığı top kayıplarını Bjelica ve Planinic ile iyi değerlendiren Anadolu Efes, 8-0'lık seri yakalayarak 12. dakika içinde farkı 15 sayıya çıkardı: 11-26.
+
+S 2. periyodun ilk dakikalarında rakibinin yaptığı top kayıplarını Bjelica ve Planinic ile iyi değerlendiren Anadolu Efes, 8-0'lık seri yakalayarak 12. dakika için de farkı 15 sayıya çıkardı: 11-26.
+A 21 23|||rule_6|||içinde|||REQUIRED|||-NONE-|||0
+
+S Parlamentolar Arası Değişim ve Diyalog Projesi Terör Sempozyumu'nda toplumun her kesiminin temsil edilmediği yönünde eleştiriler aldıklarını ifade eden Tekelioğlu, amaçlarının toplumun her kesimini bir araya getirmek olmadığını ve AB ülkeleri ile TBMM üyelerini bir araya getirip, karşılıklı görüş alışverişi temin etmelerine olanak sağlamak olduğunu dile getirdi.
+
+S Parlamentolar Arası Değişim ve Diyalog Projesi Terör Sempozyumu'nda toplumun her kesiminin temsil edilmediği yönün de eleştiriler aldıklarını ifa de eden Tekelioğlu, amaçlarının toplumun her kesimini bir araya getirmek olmadığını ve AB ülkeleri ile TBMM üyelerini bir araya getirip, karşılıklı görüş alışverişi temin etmelerine olanak sağlamak olduğunu dile getirdi.
+A 13 15|||rule_6|||yönünde|||REQUIRED|||-NONE-|||0
+A 17 19|||rule_6|||ifade|||REQUIRED|||-NONE-|||0
+
+S Akabinde Disiplin savcısı dosyayı Disiplin Komitesine sevk ediyor.
+
+S Akabin de Disiplin savcısı dosyayı Disiplin Komitesine sevk ediyor.
+A 0 2|||rule_6|||Akabinde|||REQUIRED|||-NONE-|||0
+
+S Ne kadar çok girişimcimiz buraya uçarsa giderler de aşağıya gelir.”Pegasus Hava Yolları Yönetim Kurulu Başkanı Ali Sabancı da şunları söyledi: “Ulaşım bir bölgenin ekonomik kalkınmasında çok önemli.
+
+S Ne kadar çok girişimcimiz buraya uçarsa giderler de aşağıya gelir.”Pegasus Hava Yolları Yönetim Kurulu Başkanı Ali Sabancı da şunları söyledi: “Ulaşım bir bölgenin ekonomik kalkınmasında çok önemli.
+A 6 8|||rule_6|||giderlerde|||REQUIRED|||-NONE-|||0
+
+S Var güçleriyle Çanakkale boğazına saldıran düşman kuvvetleri 18 Mart 1915'de denizdeki savaşta yenilir.
+
+S Var güçleriyle Çanakkale boğazına saldıran düşman kuvvetleri 18 Mart 1915' de denizdeki savaşta yenilir.
+A 9 11|||rule_6|||1915'de|||REQUIRED|||-NONE-|||0
+
+S Bu şekilde sağlanan düzen de yapılan işin artmasını sağlar ve ürün bakımından verim de yükselir.
+
+S Bu şekil de sağlanan düzen de yapılan işin artmasını sağlar ve ürün bakımından verim de yükselir.
+A 1 3|||rule_6|||şekilde|||REQUIRED|||-NONE-|||0
+A 4 6|||rule_6|||düzende|||REQUIRED|||-NONE-|||0
+A 13 15|||rule_6|||verimde|||REQUIRED|||-NONE-|||0
+
+S Fizikçilerin önemli katkıları ile transistörde kullanılan Germanyum ve Silicon’un saflığı% 99.99 dan on tane 9’a yani% 99.99999999 ulaştı.
+
+S Fizikçilerin önemli katkıları ile transistör de kullanılan Germanyum ve Silicon’un saflığı% 99.99 dan on tane 9’a yani% 99.99999999 ulaştı.
+A 4 6|||rule_6|||transistörde|||REQUIRED|||-NONE-|||0
+
+S 18-19, -yazar Dr. Orhan ―Survivance formulaire turcs en Tunisie‖, RA, l; M. S. Belguedj, ―Les mots turcs dans le -12; H. Hammache, ‖L'importance des turcs dans l'étude de l'histoire et de la civilisation‖, Arab Historical Review for 1963, s. vd 1943; ġükrü Elçin, d'Alger‖ Documents Algérien, Fev, 1948; O 1991; S. Eyice, ―Osmanlİ devri Türk mimarisi‖, Osmanlİ, Ankara 1999, X, 547; a.
+
+S Doğaüstünde ilkel bir yan yoktur; nitekim ilkel saflığın hüküm sürmediği çağlarda bile doğaüstü, şairlerin hayal gücünü etkilemiş ve şairler bu kaynaktan yararlanmak için, duyarlılıkla halk inançlarını birleştirmişlerdir. ''
+
+S Doğaüstün de ilkel bir yan yoktur; nitekim ilkel saflığın hüküm sürmediği çağlarda bile doğaüstü, şairlerin hayal gücünü etkilemiş ve şairler bu kaynaktan yararlanmak için, duyarlılıkla halk inançlarını birleştirmişlerdir. ''
+A 0 2|||rule_6|||Doğaüstünde|||REQUIRED|||-NONE-|||0
+
+S Gerçekle en çözgü gerginli i, dokunmas istenen kuma için yeterli de ilse istenen çözgü gerginli i de eri tatmin sonuçlar elde edilinceye kadar de i tirilir.
+
+S Gerçekle en çözgü gerginli i, dokunmas istenen kuma için yeterli de ilse istenen çözgü gerginli i de eri tatmin sonuçlar el de edilinceye kadar de i tirilir.
+A 9 11|||rule_6|||yeterlide|||REQUIRED|||-NONE-|||0
+A 15 17|||rule_6|||ide|||REQUIRED|||-NONE-|||0
+A 20 22|||rule_6|||elde|||REQUIRED|||-NONE-|||0
+A 23 25|||rule_6|||kadarde|||REQUIRED|||-NONE-|||0
+
+S Ortaylı, Başarı Akdeniz Oran Uygulama Akdeniz Akdeniz Eğitim Uzaktan Ders Dersin Öğrencilere edilen elde temel Dersin Bu kendilerine uygulamada eğitime temel günün sürdürülmektedir kavramlar, testleri, alınmaktadır Dersin 1.
+
+S Ortaylı, Başarı Akdeniz Oran Uygulama Akdeniz Akdeniz Eğitim Uzaktan Ders Dersin Öğrencilere edilen el de temel Dersin Bu kendilerine uygulamada eğitime temel günün sürdürülmektedir kavramlar, testleri, alınmaktadır Dersin 1.
+A 13 15|||rule_6|||elde|||REQUIRED|||-NONE-|||0
+
+S İşe giriş muayenelerinde yüksek riskli bireyler belirlenmeli, periyodik muayenelerde tarama odyometreler yapılarak erken işitme kaybı saptanan çalışanlar için gerekli koruyucu ve önleyici tedbirler alınmalıdır 2.1.
+
+S İşe giriş muayenelerin de yüksek riskli bireyler belirlenmeli, periyodik muayeneler de tarama odyometreler yapılarak erken işitme kaybı saptanan çalışanlar için gerekli koruyucu ve önleyici tedbirler alınmalıdır 2.1.
+A 2 4|||rule_6|||muayenelerinde|||REQUIRED|||-NONE-|||0
+A 9 11|||rule_6|||muayenelerde|||REQUIRED|||-NONE-|||0
+
+S Bu nedenle de sterilizasyon ünitesinin ameliyathane ile bağlantılı olması tercih edilir.
+
+S Bu nedenle de sterilizasyon ünitesinin ameliyathane ile bağlantılı olması tercih edilir.
+A 1 3|||rule_6|||nedenlede|||REQUIRED|||-NONE-|||0
+
+S 'a ait metinlerde de fiil bu anlamы ifade eder Agır yük kюtöröp= Ağır yük kaldыrыp Emgek kюtörmeyin.
+
+S 'a ait metinler de de fiil bu anlamы ifa de eder Agır yük kюtöröp= Ağır yük kaldыrыp Emgek kюtörmeyin.
+A 2 4|||rule_6|||metinlerde|||REQUIRED|||-NONE-|||0
+A 3 5|||rule_6|||de|||REQUIRED|||-NONE-|||0
+A 8 10|||rule_6|||ifade|||REQUIRED|||-NONE-|||0
+
+S `` Bu blöf Remy'de iKe yaradH.
+
+S `` Bu blöf Remy' de iKe yaradH.
+A 3 5|||rule_6|||Remy'de|||REQUIRED|||-NONE-|||0
+
+S Naima, Tarihi'nde tayin edildiği kadılıklar ve devrin ricali ile münasebetlerine dair yer yer bilgi vermektedir Bundan sonraki hayatını Beşiktaş'ta yalısında geçirip 1076/ 1665'te vefat etti.
+
+S Naima, Tarihi'n de tayin edildiği kadılıklar ve devrin ricali ile münasebetlerine dair yer yer bilgi vermektedir Bundan sonraki hayatını Beşiktaş'ta yalısında geçirip 1076/ 1665'te vefat etti.
+A 1 3|||rule_6|||Tarihi'nde|||REQUIRED|||-NONE-|||0
+
+S Metinde geçen Fransızca parçaları tercüme eden muhterem Prof. Dr Orhan Okay hocama burada teşekkür etmek istiyorum Rızâ Tevfik'den Bir Mektup Sıhhiye Dâiresi, 4 Şubat uhterem Oğlum!
+
+S Metin de geçen Fransızca parçaları tercüme eden muhterem Prof. Dr Orhan Okay hocama burada teşekkür etmek istiyorum Rızâ Tevfik'den Bir Mektup Sıhhiye Dâiresi, 4 Şubat uhterem Oğlum!
+A 0 2|||rule_6|||Metinde|||REQUIRED|||-NONE-|||0
+
+S Sabah 08: de başlayıp çıkış saatinin belli olmadığı gece 01:00-02:00'ye saatlerine kadar çalışmanın sürebildiği, çoğu zaman haftanın 7 günü çalıştıklarını beyan etmişlerdir.
+
+S Sabah 08: de başlayıp çıkış saatinin belli olmadığı gece 01:00-02:00'ye saatlerine kadar çalışmanın sürebildiği, çoğu zaman haftanın 7 günü çalıştıklarını beyan etmişlerdir.
+A 1 3|||rule_6|||08:de|||REQUIRED|||-NONE-|||0
+
+S Eğirdir Orman Fidanlığınca yürütülen andız fidan üretim araştırmaları sonucu, kitlesel fidan üretim teknikleri ortaya konmuş, geriye, yeni ormanların kurulması ve korunması kalmıştır Sindirim sisteminden geçen tohumun çimlenmiş hali 1 yaşında andız kozakları Andız dünya üzerinde yalnızca; Türkiye, Suriye, Lübnan ve Yunanistan gibi Akdeniz ülkelerinde doğal olarak yetişmektedir.
+
+S Eğirdir Orman Fidanlığınca yürütülen andız fidan üretim araştırmaları sonucu, kitlesel fidan üretim teknikleri ortaya konmuş, geriye, yeni ormanların kurulması ve korunması kalmıştır Sindirim sisteminden geçen tohumun çimlenmiş hali 1 yaşında andız kozakları Andız dünya üzerin de yalnızca; Türkiye, Suriye, Lübnan ve Yunanistan gibi Akdeniz ülkelerin de doğal olarak yetişmektedir.
+A 34 36|||rule_6|||üzerinde|||REQUIRED|||-NONE-|||0
+A 44 46|||rule_6|||ülkelerinde|||REQUIRED|||-NONE-|||0
+
+S bulunca bir elinde kerpeten, di erinde bir meyve bıça ıyla Eddie'ye yakla tı Silah or yanı ba ında tek dizi üzerine çöktü.
+
+S bulunca bir elin de kerpeten, di erin de bir meyve bıça ıyla Eddie'ye yakla tı Silah or yanı ba ında tek dizi üzerine çöktü.
+A 2 4|||rule_6|||elinde|||REQUIRED|||-NONE-|||0
+A 6 8|||rule_6|||erinde|||REQUIRED|||-NONE-|||0
+
+S yüzyılda görev yapacak işgücünde aranan nitelikler, bugüne kadar işgücünde aranan niteliklerden oldukça farklı duruma gelmiştir.
+
+S yüzyılda görev yapacak işgücün de aranan nitelikler, bugüne kadar işgücün de aranan niteliklerden oldukça farklı duruma gelmiştir.
+A 3 5|||rule_6|||işgücünde|||REQUIRED|||-NONE-|||0
+A 9 11|||rule_6|||işgücünde|||REQUIRED|||-NONE-|||0
+
+S Grade IV olgularda HER2/neu negatif olanların CD105 ile boyanan mikrodamar yoğunluğu, HER2/neu pozitif olanların CD105 ile boyanan mikrodamar yoğunluğundan fazladır 9.
+
+S Gra de IV olgularda HER2/neu negatif olanların CD105 ile boyanan mikrodamar yoğunluğu, HER2/neu pozitif olanların CD105 ile boyanan mikrodamar yoğunluğundan fazladır 9.
+A 0 2|||rule_6|||Grade|||REQUIRED|||-NONE-|||0
+
+S Dünya işçi sınıfının bu günkü bölünmüşlüğü, ve işçi sınıfının modern burjuva uygarlığını yaratan ve taşıyan çekirdeğinin, nispi refahı ve burjuvaziyle uzlaşmalarıdır insanlığın durumunu umutsuz kılan da zaten İşçi sınıfının burjuva uygarlığıyla ilişkisi, onu içinde taşıyarak aşma, diyalektik inkar ilişkisidir, küçük burjuvazi ise, burjuva uygarlığın kavrama yeteneğinde olmadığı için, ve o uygarlık onun karşısında üstün ve egemen bir toplumsal konumu ifade ettiği için, ekonomik ve sınıfsal tepki yok ederek ya da yok sayarak inkar biçiminde yansır.
+
+S Amaçları toplumun beklenti ve ihtiyaçlarına uygun bulan öğretmenlerden bir başkası ise, bunu çocuğu sosyal yönde geliştirmesine bağlamıştır: `` Toplumun beklenti ve ihtiyaçlarına uygun, gerçekten güzel.
+
+S Amaçları toplumun beklenti ve ihtiyaçlarına uygun bulan öğretmenlerden bir başkası ise, bunu çocuğu sosyal yön de geliştirmesine bağlamıştır: `` Toplumun beklenti ve ihtiyaçlarına uygun, gerçekten güzel.
+A 14 16|||rule_6|||yönde|||REQUIRED|||-NONE-|||0
+
+S Takip eden diğer eğitim kademelerinden yararlanabilmek için bir başka yerleşim yerinde barınma hizmeti satın alınmasının gerekli olması, beslenme ve diğer masraflar nedeniyle eğitim oranı düşmektedir.
+
+S Takip eden diğer eğitim kademelerinden yararlanabilmek için bir başka yerleşim yerin de barınma hizmeti satın alınmasının gerekli olması, beslenme ve diğer masraflar nedeniyle eğitim oranı düşmektedir.
+A 10 12|||rule_6|||yerinde|||REQUIRED|||-NONE-|||0
+
+S No:92/ 34662 Altunizade Üsküdar/istanbul Faks: 0 216 310 58 Ataköy şubesi 5.Kısım Güney Çarşısı No: 34158 Ataköy/istanbul Faks: 0 212 560 72 Atatürk Havalimanı Serbest Bölgesi şubesi Atatürk Havalimanı Serbest Bölgesi No:81/ 34149 Bakırköy/istanbul Faks: 0 212 465 01 Atrium şubesi Ataköy 9.
+
+S No:92/ 34662 Altuniza de Üsküdar/istanbul Faks: 0 216 310 58 Ataköy şubesi 5.Kısım Güney Çarşısı No: 34158 Ataköy/istanbul Faks: 0 212 560 72 Atatürk Havalimanı Serbest Bölgesi şubesi Atatürk Havalimanı Serbest Bölgesi No:81/ 34149 Bakırköy/istanbul Faks: 0 212 465 01 Atrium şubesi Ataköy 9.
+A 2 4|||rule_6|||Altunizade|||REQUIRED|||-NONE-|||0
+
+S Çünkü siz baştan yerinizde oturup kalmaya razı oldunuz.
+
+S Çünkü siz baştan yeriniz de oturup kalmaya razı oldunuz.
+A 3 5|||rule_6|||yerinizde|||REQUIRED|||-NONE-|||0
+
+S Termik gerilim farkı çok fazla yükseldiğinde ise, eğer hamur tabakası normalden ince ve sır dayanıklılığı yüksekse, parça bu gerilime dayanamaz, kırılır.
+
+S Termik gerilim farkı çok fazla yükseldiğin de ise, eğer hamur tabakası normalden ince ve sır dayanıklılığı yüksekse, parça bu gerilime dayanamaz, kırılır.
+A 5 7|||rule_6|||yükseldiğinde|||REQUIRED|||-NONE-|||0
+
+S Etudes Sur La Nutrition et La Fertilisation Potassiques de La Vigne.
+
+S Etudes Sur La Nutrition et La Fertilisation Potassiques de La Vigne.
+A 7 9|||rule_6|||Potassiquesde|||REQUIRED|||-NONE-|||0
+
+S HMS karabinalar daha kalın kesitlere, yani daha büyük ip kıvrılma çapına sahiptirler ve bu sayede kontrol edilen ipi diğer karabinalara göre çok daha az yıpratırlar Kapı şekillerine göre karabinalar:
+
+S HMS karabinalar daha kalın kesitlere, yani daha büyük ip kıvrılma çapına sahiptirler ve bu saye de kontrol edilen ipi diğer karabinalara göre çok daha az yıpratırlar Kapı şekillerine göre karabinalar:
+A 14 16|||rule_6|||sayede|||REQUIRED|||-NONE-|||0
+
+S Enformatik terör, biyolojik terör, şarbon ve dedikodu terörizmi; bunların hepsi de Bin Ladin'e atfedilmiş durumda.
+
+S Enformatik terör, biyolojik terör, şarbon ve dedikodu terörizmi; bunların hepsi de Bin Ladin'e atfedilmiş durumda.
+A 9 11|||rule_6|||hepside|||REQUIRED|||-NONE-|||0
+
+S Genellikle sırtları ayıran büyük dereler D-B, bunları besleyen küçük dereler K-G veya KB-GD akışlıdır Geniş tabanlı vadilerde yer yer düzlükler oluşturan alüvyon birikintileri bulunur.
+
+S Genellikle sırtları ayıran büyük dereler D-B, bunları besleyen küçük dereler K-G veya KB-GD akışlıdır Geniş tabanlı vadiler de yer yer düzlükler oluşturan alüvyon birikintileri bulunur.
+A 16 18|||rule_6|||vadilerde|||REQUIRED|||-NONE-|||0
+
+S El-Yusuf, erken seçim kararının açıklanması halinde ise Türkiye'nin, B( -) olan kredi notunun olumsuz etkilenmeyeceğini anlatırken, `` Ancak erken seçim kararı sonucu, koalisyon partilerinin hükümet içindeki işbirliğinden uzaklaşıp, seçime ağırlık vermeleri, ekonomiyi ve kredi notunu olumsuz etkiler '' ifadesini kullandı.Moody 's: Tedbire bağlıBir diğer reyting kuruluşu Moody's'in Türkiye analisti Kristin Lindow ise Türkiye ekonomisinin canlanma içinde olduğunu hatırlatırken bir erken seçimin, ekonomiye zarar verip vermeyeceğinin, alınacak ekonomik önlemlere bağlı olduğunu vurguladı.
+
+S İlk adımda çağrıştırdığı karanlık işler olsa da, net hata ve noksan olarak ifade ettiğimiz döviz hareketinin içeriğini tam olarak bilmiyoruz.
+
+S İlk adımda çağrıştırdığı karanlık işler olsa da, net hata ve noksan olarak ifa de ettiğimiz döviz hareketinin içeriğini tam olarak bilmiyoruz.
+A 12 14|||rule_6|||ifade|||REQUIRED|||-NONE-|||0
+
+S `` Bu sözlerde biraz meydan okuma yok mu sizce?
+
+S `` Bu sözler de biraz meydan okuma yok mu sizce?
+A 2 4|||rule_6|||sözlerde|||REQUIRED|||-NONE-|||0
+
+S Arap Körfezi üzerinde inşa edilen palmiye adalar; Palm Jumeirah, Palm Jebel Ali ve Palm Deira, yatırımcı firma Nakheel'e göre 'dünyanın sekizinci harikası' olmaya aday... İnşaatına 2002 yılında başlanan adaların ilki, 14 bin işçinin geceli gündüzlü uğraşlarının sonunda, ilk ev sahipleri ve misafirleri için kapılarını açıyor.Yoktan var edilen adaDünyanın en geniş arazi ıslah projesi olan 31 km2'lik ada grubu Palm Jumeirah, milyonlarca ton kum ve taşın beş yıl boyunca Körfez'den ve taşocaklarından çıkarılmasının ürünü.
+
+S Arap Körfezi üzerin de inşa edilen palmiye adalar; Palm Jumeirah, Palm Jebel Ali ve Palm Deira, yatırımcı firma Nakheel'e göre 'dünyanın sekizinci harikası' olmaya aday... İnşaatına 2002 yılında başlanan adaların ilki, 14 bin işçinin geceli gündüzlü uğraşlarının sonunda, ilk ev sahipleri ve misafirleri için kapılarını açıyor.Yoktan var edilen adaDünyanın en geniş arazi ıslah projesi olan 31 km2'lik ada grubu Palm Jumeirah, milyonlarca ton kum ve taşın beş yıl boyunca Körfez'den ve taşocaklarından çıkarılmasının ürünü.
+A 2 4|||rule_6|||üzerinde|||REQUIRED|||-NONE-|||0
+
+S 40 milyonluk İspanya'da 2002'de günlük 130 gazete, 1021 promosyon dağıtmış.
+
+S 40 milyonluk İspanya'da 2002' de günlük 130 gazete, 1021 promosyon dağıtmış.
+A 3 5|||rule_6|||2002'de|||REQUIRED|||-NONE-|||0
+
+S Aynı yazıda 'komik ekonomistler' sözlüğü dizisine de başladım; laf uzadı, geçmişten örnek veremedim.
+
+S Aynı yazıda 'komik ekonomistler' sözlüğü dizisine de başladım; laf uzadı, geçmişten örnek veremedim.
+A 5 7|||rule_6|||dizisinede|||REQUIRED|||-NONE-|||0
+
+S NBA finalinin üçüncü maçında, San Antonio Spurs, New Jersey Nets'i deplasmanda 84-79 yendi ve seride durumu 2-1'e getirdi.
+
+S NBA finalinin üçüncü maçında, San Antonio Spurs, New Jersey Nets'i deplasmanda 84-79 yendi ve seri de durumu 2-1'e getirdi.
+A 14 16|||rule_6|||seride|||REQUIRED|||-NONE-|||0
+
+S Örneğin, yoğun sermaye girişinin ulusal parayı aşırı değerlendirip dış dengeyi bozduğu, bu ölçüde örtük bir risk biriktirdiği, riskin gerçekleşmesi halinde ise ekonominin ciddi bir türbulanstan geçtiği biliniyor.
+
+S Örneğin, yoğun sermaye girişinin ulusal parayı aşırı değerlendirip dış dengeyi bozduğu, bu ölçü de örtük bir risk biriktirdiği, riskin gerçekleşmesi halin de ise ekonominin ciddi bir türbulanstan geçtiği biliniyor.
+A 12 14|||rule_6|||ölçüde|||REQUIRED|||-NONE-|||0
+A 20 22|||rule_6|||halinde|||REQUIRED|||-NONE-|||0
+
+S Prefabriklerde kalmaya devam eden depremzelerin ruhsal durumu, deprem sonrasında hazırlanan kalıcı konutlarda yaşayanlara göre daha bozuk.
+
+S Prefabrikler de kalmaya devam eden depremzelerin ruhsal durumu, deprem sonrasında hazırlanan kalıcı konutlarda yaşayanlara göre daha bozuk.
+A 0 2|||rule_6|||Prefabriklerde|||REQUIRED|||-NONE-|||0
+
+S FOTOĞRAF: NEZİH GÜROL Bomba yüklü kamyonet, Galatasaray'daki Britanya Başkonsolosluğu önünde patlarken, Beyoğlu'nu cehenneme çevirdi.
+
+S FOTOĞRAF: NEZİH GÜROL Bomba yüklü kamyonet, Galatasaray'daki Britanya Başkonsolosluğu önün de patlarken, Beyoğlu'nu cehenneme çevirdi.
+A 9 11|||rule_6|||önünde|||REQUIRED|||-NONE-|||0
+
+S Asgari ücret yüzde 22 artarak net 223 milyon 749 bin liraya çıktı.
+
+S Asgari ücret yüz de 22 artarak net 223 milyon 749 bin liraya çıktı.
+A 2 4|||rule_6|||yüzde|||REQUIRED|||-NONE-|||0
+
+S Devlet Güvenlik Mahkemesi'nde yargılanacak olan sanıklardan birisi, bu tür davaların tescilli sanığı Şanar Yurdatapan, diğeri ise Yılmaz Çamlıbel.
+
+S Devlet Güvenlik Mahkemesi'n de yargılanacak olan sanıklardan birisi, bu tür davaların tescilli sanığı Şanar Yurdatapan, diğeri ise Yılmaz Çamlıbel.
+A 2 4|||rule_6|||Mahkemesi'nde|||REQUIRED|||-NONE-|||0
+
+S Sektörde 50 bin kişiye istihdam sağlıyoruz '' dedi.
+
+S Sektör de 50 bin kişiye istihdam sağlıyoruz '' dedi.
+A 0 2|||rule_6|||Sektörde|||REQUIRED|||-NONE-|||0
+
+S Ama dijital modanın yaratıcılığı sayesinde bu dediklerimiz mümkün olacak.
+
+S Ama dijital modanın yaratıcılığı sayesin de bu dediklerimiz mümkün olacak.
+A 4 6|||rule_6|||sayesinde|||REQUIRED|||-NONE-|||0
+
+S Sahnede hayranlarından hediye alan şarkıcı, birlikte selfie çektirmeyi de ihmal etmedi.
+
+S Sahne de hayranlarından hediye alan şarkıcı, birlikte selfie çektirmeyi de ihmal etmedi.
+A 0 2|||rule_6|||Sahnede|||REQUIRED|||-NONE-|||0
+A 8 10|||rule_6|||çektirmeyide|||REQUIRED|||-NONE-|||0
+
+S İçerdikleri lifler sayesinde midede daha fazla hacim sağlayarak uzun süre tok kalmanızı sağlar.
+
+S İçerdikleri lifler sayesin de mide de daha fazla hacim sağlayarak uzun süre tok kalmanızı sağlar.
+A 2 4|||rule_6|||sayesinde|||REQUIRED|||-NONE-|||0
+A 4 6|||rule_6|||midede|||REQUIRED|||-NONE-|||0
+
+S Şirket, bu cihazı Çin'de 150 dolara satışa çıkardı bile.
+
+S Şirket, bu cihazı Çin' de 150 dolara satışa çıkardı bile.
+A 3 5|||rule_6|||Çin'de|||REQUIRED|||-NONE-|||0
+
+S Hiçbir şekilde onlara tanınan hakların ihlal edilmesine izin vermesinler '' dedi.
+
+S Hiçbir şekil de onlara tanınan hakların ihlal edilmesine izin vermesinler '' dedi.
+A 1 3|||rule_6|||şekilde|||REQUIRED|||-NONE-|||0
+
+S Fener yok ama yerinde günümüzde Memluk Sultanı Kayıt Bey'in kalesi bulunuyor.
+
+S Fener yok ama yerin de günümüz de Memluk Sultanı Kayıt Bey'in kalesi bulunuyor.
+A 3 5|||rule_6|||yerinde|||REQUIRED|||-NONE-|||0
+A 5 7|||rule_6|||günümüzde|||REQUIRED|||-NONE-|||0
+
+S Beş asır boyunca eski adıyla Sümbül Efendi Merkez Tekke olarak bilinen mekanda 9 Muharrem'de aşure kaynatılarak 10 Muharrem'de İstanbullulara ikram edilirdi.
+
+S Beş asır boyunca eski adıyla Sümbül Efendi Merkez Tekke olarak bilinen mekanda 9 Muharrem' de aşure kaynatılarak 10 Muharrem' de İstanbullulara ikram edilirdi.
+A 13 15|||rule_6|||Muharrem'de|||REQUIRED|||-NONE-|||0
+A 18 20|||rule_6|||Muharrem'de|||REQUIRED|||-NONE-|||0
+
+S Bu yönde çıkacak bir kararı tanımayacağız ve İbrahim Camisi'nde yaşanan trajedinin Aksa'da tekrarlanmasına müsaade etmeyeceğiz '' dedi.
+
+S Bu yön de çıkacak bir kararı tanımayacağız ve İbrahim Camisi'n de yaşanan trajedinin Aksa'da tekrarlanmasına müsaa de etmeyeceğiz '' dedi.
+A 1 3|||rule_6|||yönde|||REQUIRED|||-NONE-|||0
+A 9 11|||rule_6|||Camisi'nde|||REQUIRED|||-NONE-|||0
+A 15 17|||rule_6|||müsaade|||REQUIRED|||-NONE-|||0
+
+S Genetik olan hastalık sebebiyle Alper'in de vücudunda yoğun olarak bakır birikmiş durumda.
+
+S Genetik olan hastalık sebebiyle Alper'in de vücudunda yoğun olarak bakır birikmiş durumda.
+A 4 6|||rule_6|||Alper'inde|||REQUIRED|||-NONE-|||0
+
+S Mevsim değişikliklerinin cilde etkilerini artık hepimiz biliyoruz.
+
+S Mevsim değişikliklerinin cil de etkilerini artık hepimiz biliyoruz.
+A 2 4|||rule_6|||cilde|||REQUIRED|||-NONE-|||0
+
+S Eninde sonunda değişik tecrübeler edinmiş, yeni yerler görmüş, yeni insanlar tanımış olarak dönersiniz evinize.
+
+S Enin de sonunda değişik tecrübeler edinmiş, yeni yerler görmüş, yeni insanlar tanımış olarak dönersiniz evinize.
+A 0 2|||rule_6|||Eninde|||REQUIRED|||-NONE-|||0
+
+S Bizde bu şekilde bir katkımız olsun istedik.
+
+S Biz de bu şekil de bir katkımız olsun istedik.
+A 0 2|||rule_6|||Bizde|||REQUIRED|||-NONE-|||0
+A 3 5|||rule_6|||şekilde|||REQUIRED|||-NONE-|||0
+
+S Kadın olmanın dezavantajını hiç hissetmediğini ifade eden Ertunç, aksine maskülen bir dünyaya kadın gözüyle farklı bir bakış açısı getirebilmenin avantajını yaşadığını söylüyor: `` Eskiden otomobil sadece güç ve performans olarak algılanıyor ve sadece erkeklere ait bir ilgi alanı olarak tanımlanıyordu.
+
+S Kadın olmanın dezavantajını hiç hissetmediğini ifa de eden Ertunç, aksine maskülen bir dünyaya kadın gözüyle farklı bir bakış açısı getirebilmenin avantajını yaşadığını söylüyor: `` Eskiden otomobil sadece güç ve performans olarak algılanıyor ve sadece erkeklere ait bir ilgi alanı olarak tanımlanıyordu.
+A 5 7|||rule_6|||ifade|||REQUIRED|||-NONE-|||0
+
+S Bunun sebebi de erken tanı ve tarama yolları ile daha tesirli tedavilerdir.
+
+S Bunun sebebi de erken tanı ve tarama yolları ile daha tesirli tedavilerdir.
+A 1 3|||rule_6|||sebebide|||REQUIRED|||-NONE-|||0
+
+S Kardeşim içeride.
+
+S Kardeşim içeri de.
+A 1 3|||rule_6|||içeride.|||REQUIRED|||-NONE-|||0
+
+S Huzurum yerindeyken nerede olduğumun pek bir önemi yok ama eve dönmek harika bir his.
+
+S Huzurum yerindeyken nere de olduğumun pek bir önemi yok ama eve dönmek harika bir his.
+A 2 4|||rule_6|||nerede|||REQUIRED|||-NONE-|||0
+
+S Yağlı cilde sahip olanların kaynayan suya beş-altı adet nane yaprağı ve soyulmuş limon kabuğu, kuru ciltlilerin birkaç papatya çayı poşeti, karma cilde sahip olanların ise, bir kaşık lavanta eklemelerinin ciltlerine nefes aldıracağını söylemek mümkün.
+
+S Yağlı cil de sahip olanların kaynayan suya beş-altı adet nane yaprağı ve soyulmuş limon kabuğu, kuru ciltlilerin birkaç papatya çayı poşeti, karma cil de sahip olanların ise, bir kaşık lavanta eklemelerinin ciltlerine nefes aldıracağını söylemek mümkün.
+A 1 3|||rule_6|||cilde|||REQUIRED|||-NONE-|||0
+A 22 24|||rule_6|||cilde|||REQUIRED|||-NONE-|||0
+
+S Derbide Franco'nun yedek kalması bekleniyor.
+
+S Derbi de Franco'nun yedek kalması bekleniyor.
+A 0 2|||rule_6|||Derbide|||REQUIRED|||-NONE-|||0
+
+S 1940 yılında Samsun Dürdartepe kazıları esnasında keşfedilen, Bafra ilçesi İkiztepe köyü sınırları içerisinde kalan İkiztepe yükseltileri, ilk olarak 1974 yılında Türk Tarih Kurumu adına İstanbul Üniversitesi Edebiyat Fakültesi öğretim üyelerinden merhum Prof.Dr.
+
+S 1940 yılında Samsun Dürdartepe kazıları esnasında keşfedilen, Bafra ilçesi İkiztepe köyü sınırları içerisin de kalan İkiztepe yükseltileri, ilk olarak 1974 yılında Türk Tarih Kurumu adına İstanbul Üniversitesi Edebiyat Fakültesi öğretim üyelerinden merhum Prof.Dr.
+A 12 14|||rule_6|||içerisinde|||REQUIRED|||-NONE-|||0
+
+S Kobane özgürlüğünü en kısa sürede dünyaya duyuracağız '' dedi.
+
+S Kobane özgürlüğünü en kısa süre de dünyaya duyuracağız '' dedi.
+A 4 6|||rule_6|||sürede|||REQUIRED|||-NONE-|||0
+
+S Bruno'nun ceza alanı dışında attığı sert şutta kaleci Fatih Öztürk'ü de geçen top, sol direkten oyun alanına döndü.
+
+S Bruno'nun ceza alanı dışında attığı sert şutta kaleci Fatih Öztürk'ü de geçen top, sol direkten oyun alanına döndü.
+A 9 11|||rule_6|||Öztürk'üde|||REQUIRED|||-NONE-|||0
+
+S Ocak, 2 ay önce kapanınca bir daha geri dönmeyen 2 madenci de benzer iddialarda bulundu.
+
+S Ocak, 2 ay önce kapanınca bir daha geri dönmeyen 2 madenci de benzer iddialarda bulundu.
+A 10 12|||rule_6|||madencide|||REQUIRED|||-NONE-|||0
+
+S Afyonkarahisar NG Güral Termal Otel'de gerçekleştirilen, AK Parti 23.
+
+S Afyonkarahisar NG Güral Termal Otel' de gerçekleştirilen, AK Parti 23.
+A 4 6|||rule_6|||Otel'de|||REQUIRED|||-NONE-|||0
+
+S Vekillerin yanı sıra bölgelerden de `` yardımlar Paralel Yapı tarafından paylaştırılıyor.
+
+S Vekillerin yanı sıra bölgelerden de `` yardımlar Paralel Yapı tarafından paylaştırılıyor.
+A 3 5|||rule_6|||bölgelerdende|||REQUIRED|||-NONE-|||0
+
+S Şu an her şey tam dengede.
+
+S Şu an her şey tam denge de.
+A 5 7|||rule_6|||dengede.|||REQUIRED|||-NONE-|||0
+
+S İkiztepe'nin Geç Kalkolitik Çağ'da ilk yerleşim yeri olarak kullanıldığı tespit edilirken, İlk Tunç Çağı boyunca da yerleşimin kesintisiz olarak devam ettiği ve Orta Tunç Çağı'nın 3. evresinde, yani Orta Anadolu'da Eski Hitit Devleti'nin kuruluşuna kadar sürdüğü ortaya çıkartıldı.
+
+S İkiztepe'nin Geç Kalkolitik Çağ'da ilk yerleşim yeri olarak kullanıldığı tespit edilirken, İlk Tunç Çağı boyunca da yerleşimin kesintisiz olarak devam ettiği ve Orta Tunç Çağı'nın 3. evresin de, yani Orta Anadolu'da Eski Hitit Devleti'nin kuruluşuna kadar sürdüğü ortaya çıkartıldı.
+A 26 28|||rule_6|||evresinde,|||REQUIRED|||-NONE-|||0
+
+S Raporda, 80'den fazla ülkeden yaklaşık 15 bin yabancı savaşçının son dönemde Irak ve Suriye'ye giderek El Kaide ile ilişkili gruplarda savaştıkları belirtildi.
+
+S Raporda, 80'den fazla ülkeden yaklaşık 15 bin yabancı savaşçının son dönem de Irak ve Suriye'ye giderek El Kai de ile ilişkili gruplarda savaştıkları belirtildi.
+A 10 12|||rule_6|||dönemde|||REQUIRED|||-NONE-|||0
+A 17 19|||rule_6|||Kaide|||REQUIRED|||-NONE-|||0
+
+S Bu işlem sırasında takılan, halen tüm dünyada ve ülkemizde kapak değişim ameliyatlarında kullanılan biyolojik kalp kapakları; TAVI yönteminde bir stent kılıf içerisine yerleştiriliyor ve stent açıldığında kapak takılan bölgeye sıkıca tutunup yerleştiriliyor.
+
+S Bu işlem sırasında takılan, halen tüm dünyada ve ülkemiz de kapak değişim ameliyatlarında kullanılan biyolojik kalp kapakları; TAVI yöntemin de bir stent kılıf içerisine yerleştiriliyor ve stent açıldığında kapak takılan bölgeye sıkıca tutunup yerleştiriliyor.
+A 8 10|||rule_6|||ülkemizde|||REQUIRED|||-NONE-|||0
+A 18 20|||rule_6|||yönteminde|||REQUIRED|||-NONE-|||0
+
+S Üç çocuk annesi Aslan, gözyaşları içinde kaybolan kızının acısıyla yanarken, bebeğe isim koymadıklarını söyledi.
+
+S Üç çocuk annesi Aslan, gözyaşları için de kaybolan kızının acısıyla yanarken, bebeğe isim koymadıklarını söyledi.
+A 5 7|||rule_6|||içinde|||REQUIRED|||-NONE-|||0
+
+S Geçen hafta Denizli'de Avrupa'da cam tasarımı ve el imalatını desteklemek için başlatılan Glass is Tomorrow-Cam Gelecektir projesi kapsamında bir atölye çalışması gerçekleştirdi Şişecam.
+
+S Geçen hafta Denizli' de Avrupa'da cam tasarımı ve el imalatını desteklemek için başlatılan Glass is Tomorrow-Cam Gelecektir projesi kapsamında bir atölye çalışması gerçekleştirdi Şişecam.
+A 2 4|||rule_6|||Denizli'de|||REQUIRED|||-NONE-|||0
+
+S 2015 tahmini ise yüzde 6.1 olarak açıklandı.
+
+S 2015 tahmini ise yüz de 6.1 olarak açıklandı.
+A 3 5|||rule_6|||yüzde|||REQUIRED|||-NONE-|||0
+
+S `` Her türlü sporu denedim beceremedim, müzik olmadı, sahnede çuvalladım.-
+
+S `` Her türlü sporu denedim beceremedim, müzik olmadı, sahne de çuvalladım.-
+A 8 10|||rule_6|||sahnede|||REQUIRED|||-NONE-|||0
+
+S Ankara kulislerinde bir süredir, Tarhan'ın yeni bir parti kuracağı ve CHP Genel Başkanı Kemal Kılıçdaroğlu'nun yönetiminden memnun olmayan ulusalcı milletvekillerini de transfer edeceği konuşuluyordu.
+
+S Ankara kulislerin de bir süredir, Tarhan'ın yeni bir parti kuracağı ve CHP Genel Başkanı Kemal Kılıçdaroğlu'nun yönetiminden memnun olmayan ulusalcı milletvekillerini de transfer edeceği konuşuluyordu.
+A 1 3|||rule_6|||kulislerinde|||REQUIRED|||-NONE-|||0
+A 20 22|||rule_6|||milletvekillerinide|||REQUIRED|||-NONE-|||0
+
+S Kemalettin Kamu'nun `` Ben gurbette değilim/ Gurbet benim içimde '' derken ne kast ettiğini belki o zaman anlarız!
+
+S Kemalettin Kamu'nun `` Ben gurbette değilim/ Gurbet benim içim de '' derken ne kast ettiğini belki o zaman anlarız!
+A 8 10|||rule_6|||içimde|||REQUIRED|||-NONE-|||0
+
+S Belgrad, en azından görünürde, Kosova' yı tanımayı reddetme politikasına sadık kalıyor.
+
+S Belgrad, en azından görünür de, Kosova' yı tanımayı reddetme politikasına sadık kalıyor.
+A 3 5|||rule_6|||görünürde,|||REQUIRED|||-NONE-|||0
+
+S Türkiye' nin AB ile üyelik müzakerelerine Ekim ayında başlaması planlanıyor ve pek çok kişi Kıbrıs sorununda varılacak anlaşmanın Ankara' nın umutlarını artıracağı görüşünde.
+
+S Türkiye' nin AB ile üyelik müzakerelerine Ekim ayında başlaması planlanıyor ve pek çok kişi Kıbrıs sorununda varılacak anlaşmanın Ankara' nın umutlarını artıracağı görüşün de.
+A 22 24|||rule_6|||görüşünde.|||REQUIRED|||-NONE-|||0
+
+S MANS, sözde `` Zavala `` skandalı konusunda dört yıl önce suç duyurusunda bulundu.
+
+S MANS, söz de `` Zavala `` skandalı konusunda dört yıl önce suç duyurusunda bulundu.
+A 1 3|||rule_6|||sözde|||REQUIRED|||-NONE-|||0
+
+S AB dış politika sorumlusu Javier Solana ile Saraybosna' ya yaptığı ortak ziyarette `` NATO BH' den ayrılmamakta, ancak AB ile buradaki misyonunu desteklemek istemektedir, `` şeklinde konuşan de Hoop Scheffer, sözlerinin devamında `` Buradaki asıl mesaj, BH' nin AB ve NATO' ya yaklaşmasını istememizdir, `` dedi.
+
+S AB dış politika sorumlusu Javier Solana ile Saraybosna' ya yaptığı ortak ziyarette `` NATO BH' den ayrılmamakta, ancak AB ile buradaki misyonunu desteklemek istemektedir, `` şeklin de konuşan de Hoop Scheffer, sözlerinin devamında `` Buradaki asıl mesaj, BH' nin AB ve NATO' ya yaklaşmasını istememizdir, `` dedi.
+A 25 27|||rule_6|||şeklinde|||REQUIRED|||-NONE-|||0
+A 27 29|||rule_6|||konuşande|||REQUIRED|||-NONE-|||0
+
+S IMF bildirisi şöyle devam ediyor: “ Fon kaynaklarının daha fazla kullanımına yer verilmeyen bir düzenleme alternatifi de dışlanmamalıdır.
+
+S IMF bildirisi şöyle devam ediyor: “ Fon kaynaklarının daha fazla kullanımına yer verilmeyen bir düzenleme alternatifi de dışlanmamalıdır.
+A 15 17|||rule_6|||alternatifide|||REQUIRED|||-NONE-|||0
+
+S Pirate Town Productions filmde yer alması için Gotovina ile temasa geçmesine rağmen, general Scheveningen cezaevinin güvenlik kuralları nedeniyle teklifi reddetmek zorunda kaldı.
+
+S Pirate Town Productions film de yer alması için Gotovina ile temasa geçmesine rağmen, general Scheveningen cezaevinin güvenlik kuralları nedeniyle teklifi reddetmek zorunda kaldı.
+A 3 5|||rule_6|||filmde|||REQUIRED|||-NONE-|||0
+
+S MHP’nin bu değişimde rolümüzün ne olacağını düşündüğü ve çeşitli alternatiflerden birini destekleyip desteklemediği bilinmiyor.
+
+S MHP’nin bu değişim de rolümüzün ne olacağını düşündüğü ve çeşitli alternatiflerden birini destekleyip desteklemediği bilinmiyor.
+A 2 4|||rule_6|||değişimde|||REQUIRED|||-NONE-|||0
+
+S Ülkemizde bu konu ile ilgili bir kurum-kuruluş olmamakla birlikte, menülerin hazırlanması her okulun kendi insiyatifine bırakılmış durumdadır.
+
+S Ülkemiz de bu konu ile ilgili bir kurum-kuruluş olmamakla birlikte, menülerin hazırlanması her okulun kendi insiyatifine bırakılmış durumdadır.
+A 0 2|||rule_6|||Ülkemizde|||REQUIRED|||-NONE-|||0
+
+S Binlerce insan bu konularda mağduriyet yaşıyor ve kimsenden de çıt çıkmıyor.
+
+S Binlerce insan bu konularda mağduriyet yaşıyor ve kimsenden de çıt çıkmıyor.
+A 7 9|||rule_6|||kimsendende|||REQUIRED|||-NONE-|||0
+
+S Üçüncüsü de hamisi ABD’nin ikircikli davranması.
+
+S Üçüncüsü de hamisi ABD’nin ikircikli davranması.
+A 0 2|||rule_6|||Üçüncüsüde|||REQUIRED|||-NONE-|||0
+
+S Bildiğim kadarıyla artık hepiniz başka ülkelerde hatta başka kıtalarda yaşıyorsunuz.
+
+S Bildiğim kadarıyla artık hepiniz başka ülkeler de hatta başka kıtalarda yaşıyorsunuz.
+A 5 7|||rule_6|||ülkelerde|||REQUIRED|||-NONE-|||0
+
+S “Pa­ra­le­l”­i de bun­la­rın ara­sı­na kat­ma­yı unut­mu­yor!
+
+S “Pa­ra­le­l”­i de bun­la­rın ara­sı­na kat­ma­yı unut­mu­yor!
+A 0 2|||rule_6|||“Pa­ra­le­l”­ide|||REQUIRED|||-NONE-|||0
+
+S Kaynak yabancı olunca, perspektifin de bize uzak olması kaçınılmaz oluyor.
+
+S Kaynak yabancı olunca, perspektifin de bize uzak olması kaçınılmaz oluyor.
+A 3 5|||rule_6|||perspektifinde|||REQUIRED|||-NONE-|||0
+
+S İsteyenler sadakasını buraya bırakır, ihtiyacı olup para isteyemeyenler de buradan alarak sıkıntısını giderirdi.
+
+S İsteyenler sadakasını buraya bırakır, ihtiyacı olup para isteyemeyenler de buradan alarak sıkıntısını giderirdi.
+A 7 9|||rule_6|||isteyemeyenlerde|||REQUIRED|||-NONE-|||0
+
+S ” deseler, ben de bayılırım doğrusu.
+
+S ” deseler, ben de bayılırım doğrusu.
+A 2 4|||rule_6|||bende|||REQUIRED|||-NONE-|||0
+
+S Siz de kendinize bir cümle bulun.
+
+S Siz de kendinize bir cümle bulun.
+A 0 2|||rule_6|||Sizde|||REQUIRED|||-NONE-|||0
+
+S Son alınanlara bakın hepsinde bir sıkıntı var.
+
+S Son alınanlara bakın hepsin de bir sıkıntı var.
+A 3 5|||rule_6|||hepsinde|||REQUIRED|||-NONE-|||0
+
+S Yıllık harcama artışı yüzde 10 dolayında.
+
+S Yıllık harcama artışı yüz de 10 dolayında.
+A 3 5|||rule_6|||yüzde|||REQUIRED|||-NONE-|||0
+
+S Gün içinde bile, iki karikatür bakarım, klasik Türk filmi replikleri söylerim, aklıma güzel şeyler getiririm ve içimden gülerim.
+
+S Gün için de bile, iki karikatür bakarım, klasik Türk filmi replikleri söylerim, aklıma güzel şeyler getiririm ve içimden gülerim.
+A 1 3|||rule_6|||içinde|||REQUIRED|||-NONE-|||0
+
+S Yoğun genç nüfus ve sürekli değişen eğitim müfredatıyla eğitim sistemimizde çarpıklığın olduğunu hepimiz biliyoruz.
+
+S Yoğun genç nüfus ve sürekli değişen eğitim müfredatıyla eğitim sistemimiz de çarpıklığın olduğunu hepimiz biliyoruz.
+A 9 11|||rule_6|||sistemimizde|||REQUIRED|||-NONE-|||0
+
+S Aynı zamanda da Yıldız TÜSİAD’ta küresel iklim değişikliğiyle ilgili Çevre Komitesi’nde ve İklim Değişikliği Liderler Grubu’nda çalışıyor..- Sektörünüz Türkiye’de geçen yıl yüzde 7’lik bir büyüme oranına ulaşmış.
+
+S Aynı zamanda da Yıldız TÜSİAD’ta küresel iklim değişikliğiyle ilgili Çevre Komitesi’n de ve İklim Değişikliği Liderler Grubu’nda çalışıyor..- Sektörünüz Türkiye’ de geçen yıl yüz de 7’lik bir büyüme oranına ulaşmış.
+A 10 12|||rule_6|||Komitesi’nde|||REQUIRED|||-NONE-|||0
+A 19 21|||rule_6|||Türkiye’de|||REQUIRED|||-NONE-|||0
+A 23 25|||rule_6|||yüzde|||REQUIRED|||-NONE-|||0
+
+S Türkiye’nin içinde, çeşitli olaylar nedeniyle yükselen milliyetçi dalgadan faydalanmak, özellikle CHP’nin basit bir taktiği olarak ortaya çıkıyor.CHP sözcüleri, hükümet adına konuşan Dışişleri Bakanı Gül’ün konuşmasında yer alan demokratça ifadelere rağbet etmeden, muhafazakâr oyların peşinde bağırmaya devam etti.CHP’nin Dışişleri Bakanlığı tarafından hazırlanan Fransız Meclisi’ne tepki bildirisinin daha sert ifadeler taşıması için gösterdiği çabalar da aynı güdünün eseridir.
+
+S Türkiye’nin için de, çeşitli olaylar nedeniyle yükselen milliyetçi dalgadan faydalanmak, özellikle CHP’nin basit bir taktiği olarak ortaya çıkıyor.CHP sözcüleri, hükümet adına konuşan Dışişleri Bakanı Gül’ün konuşmasında yer alan demokratça ifadelere rağbet etmeden, muhafazakâr oyların peşin de bağırmaya devam etti.CHP’nin Dışişleri Bakanlığı tarafından hazırlanan Fransız Meclisi’ne tepki bildirisinin daha sert ifadeler taşıması için gösterdiği çabalar da aynı güdünün eseridir.
+A 1 3|||rule_6|||içinde,|||REQUIRED|||-NONE-|||0
+A 34 36|||rule_6|||peşinde|||REQUIRED|||-NONE-|||0
+
+S Büyük kentlerin merkezlerinde dahi karşıt gruplar kendi bölgelerini kurup kendi silahlı ve zırhlı tampon bölgelerini oluştururken, kurulan koalisyon hükümetinin kırsal kesimlerde Şubat ayında yapılacak seçimlerin güvenliğini nasıl sağlayacağı merak konusu olmaya devam ediyor.
+
+S Büyük kentlerin merkezlerin de dahi karşıt gruplar kendi bölgelerini kurup kendi silahlı ve zırhlı tampon bölgelerini oluştururken, kurulan koalisyon hükümetinin kırsal kesimler de Şubat ayında yapılacak seçimlerin güvenliğini nasıl sağlayacağı merak konusu olmaya devam ediyor.
+A 2 4|||rule_6|||merkezlerinde|||REQUIRED|||-NONE-|||0
+A 21 23|||rule_6|||kesimlerde|||REQUIRED|||-NONE-|||0
+
+S Son oturumda İsrail-den gelen bilim adamı Ehud Toledano'nun sunumunun ardından özellikle Arap katılımcılar, İsrail'e yönelik eleştirilerde bulundu.
+
+S Son oturumda İsrail-den gelen bilim adamı Ehud Toledano'nun sunumunun ardından özellikle Arap katılımcılar, İsrail'e yönelik eleştiriler de bulundu.
+A 15 17|||rule_6|||eleştirilerde|||REQUIRED|||-NONE-|||0
+
+S Kolçaklı sandalyede bacak bacak üstüne atıp, iyice yayılarak laubali bir sesle “Hoca bir kenara otur, milletin dikkatini dağıtma.” diye azarladım.
+
+S Kolçaklı sandalye de bacak bacak üstüne atıp, iyice yayılarak laubali bir sesle “Hoca bir kenara otur, milletin dikkatini dağıtma.” diye azarladım.
+A 1 3|||rule_6|||sandalyede|||REQUIRED|||-NONE-|||0
+
+S Komşu Arap ülkelerin de operasyona katılmasının arayışı içinde olacaklarını ifade eden yetkili, ''Daha fazla ülkenin operasyona katılacağını göreceğiz ve bu durum, ABD'ye, öncülüğü üstlenmek zorunda kalması yerine, çok daha büyük bir çabanın parçası olması imkanını sağlayacak.
+
+S Komşu Arap ülkelerin de operasyona katılmasının arayışı için de olacaklarını ifa de eden yetkili, ''Daha fazla ülkenin operasyona katılacağını göreceğiz ve bu durum, ABD'ye, öncülüğü üstlenmek zorunda kalması yerine, çok daha büyük bir çabanın parçası olması imkanını sağlayacak.
+A 2 4|||rule_6|||ülkelerinde|||REQUIRED|||-NONE-|||0
+A 7 9|||rule_6|||içinde|||REQUIRED|||-NONE-|||0
+A 10 12|||rule_6|||ifade|||REQUIRED|||-NONE-|||0
+
+S Polis uyuşturucuyla mücadelede başarılı
+
+S Polis uyuşturucuyla mücadele de başarılı
+A 2 4|||rule_6|||mücadelede|||REQUIRED|||-NONE-|||0
+
+S Aynı heyecan ve aynı tutkuyla bu sene de Kurban sevincini tüm dünyaya ulaştırmayı hedefleyen Kimse Yok Mu, Türkiye’de 81 ilde dünyada 100’ü aşkın ülkede tam 300 bin ihtiyaç sahibi ailenin kurban sevinci olmaya hazırlanıyor.
+
+S Aynı heyecan ve aynı tutkuyla bu sene de Kurban sevincini tüm dünyaya ulaştırmayı hedefleyen Kimse Yok Mu, Türkiye’ de 81 il de dünyada 100’ü aşkın ülke de tam 300 bin ihtiyaç sahibi ailenin kurban sevinci olmaya hazırlanıyor.
+A 6 8|||rule_6|||senede|||REQUIRED|||-NONE-|||0
+A 17 19|||rule_6|||Türkiye’de|||REQUIRED|||-NONE-|||0
+A 20 22|||rule_6|||ilde|||REQUIRED|||-NONE-|||0
+A 25 27|||rule_6|||ülkede|||REQUIRED|||-NONE-|||0
+
+S Modacılar da müzik otoriteleri de neticeyi çok merak ettiklerini söylüyor.
+
+S Modacılar da müzik otoriteleri de neticeyi çok merak ettiklerini söylüyor.
+A 3 5|||rule_6|||otoriteleride|||REQUIRED|||-NONE-|||0
+
+S 'nın 650 lira para, 15 paket sigara ve çeşitli yiyecek maddeleri aldığını belirlediğini ifade eden Yıldız şunları kaydetti: ''Güvenlik kamerası kayıtlarını da inceledim.
+
+S 'nın 650 lira para, 15 paket sigara ve çeşitli yiyecek maddeleri aldığını belirlediğini ifa de eden Yıldız şunları kaydetti: ''Güvenlik kamerası kayıtlarını da inceledim.
+A 13 15|||rule_6|||ifade|||REQUIRED|||-NONE-|||0
+
+S Keşke CHP bu türlü yerlere daha çok gitse de, Türkiye'deki bir kısım aşırı-laikçi söylemlerin siyasetteki karşılığının ne kadar daraldığını görebilse...
+
+S Keşke CHP bu türlü yerlere daha çok gitse de, Türkiye'deki bir kısım aşırı-laikçi söylemlerin siyasetteki karşılığının ne kadar daraldığını görebilse...
+A 7 9|||rule_6|||gitsede,|||REQUIRED|||-NONE-|||0
+
+S Doğrudan doğruya ölüm gelmese de gayri ihtiyari sık sık 'inşallah' demeye başlamışım.
+
+S Doğrudan doğruya ölüm gelmese de gayri ihtiyari sık sık 'inşallah' demeye başlamışım.
+A 3 5|||rule_6|||gelmesede|||REQUIRED|||-NONE-|||0
+
+S Geçtiğimiz günlerde konuştuğum bir yapımcı, dijital müzik platformlarına uygulanan farklı fiyat politikalarından duyduğu şikâyeti dile getirdi.
+
+S Geçtiğimiz günler de konuştuğum bir yapımcı, dijital müzik platformlarına uygulanan farklı fiyat politikalarından duyduğu şikâyeti dile getirdi.
+A 1 3|||rule_6|||günlerde|||REQUIRED|||-NONE-|||0
+
+S 76. dakikada Sezer Badur'un ortasında ceza sahası içinde topa gelişine vuran Kamanan, meşin yuvarlağı kale direğinin üzerinden dışarı attı.
+
+S 76. dakikada Sezer Badur'un ortasında ceza sahası için de topa gelişine vuran Kamanan, meşin yuvarlağı kale direğinin üzerinden dışarı attı.
+A 7 9|||rule_6|||içinde|||REQUIRED|||-NONE-|||0
+
+S Van-Hakkari karayolunun 20. kilometresindeki Gürpınar Polis Kontrol Noktasında görevli polis memuru İsa Çevik( 35 ), gece saatlerinde İlçe Emniyet Amirliğine ait 65 A 0407 plakalı otomobil ile ilçe merkezine gittiği sırada geçirdiği kazada yaşamını yitirmişti.
+
+S Van-Hakkari karayolunun 20. kilometresindeki Gürpınar Polis Kontrol Noktasında görevli polis memuru İsa Çevik( 35 ), gece saatlerin de İlçe Emniyet Amirliğine ait 65 A 0407 plakalı otomobil ile ilçe merkezine gittiği sırada geçirdiği kazada yaşamını yitirmişti.
+A 16 18|||rule_6|||saatlerinde|||REQUIRED|||-NONE-|||0
+
+S Bu arbede sırasında da uzman çavuş arkadaşımız yaralanmış.
+
+S Bu arbe de sırasında da uzman çavuş arkadaşımız yaralanmış.
+A 1 3|||rule_6|||arbede|||REQUIRED|||-NONE-|||0
+
+S Neticede, cennet zamanını özleyen araftaki aydın, hiçbir erkeğin hiçbir kadına yazmadığına inandığı bu mektupları `` Cehennemden Mektuplar '' olarak adlandırır.
+
+S Netice de, cennet zamanını özleyen araftaki aydın, hiçbir erkeğin hiçbir kadına yazmadığına inandığı bu mektupları `` Cehennemden Mektuplar '' olarak adlandırır.
+A 0 2|||rule_6|||Neticede,|||REQUIRED|||-NONE-|||0
+
+S Bakan Yılmaz ayrıca ilk Türk İnsansız Hava Aracı ANKA’nın silahlandırılmasıyla ilgili de çalışmaların başladığını söyledi.
+
+S Bakan Yılmaz ayrıca ilk Türk İnsansız Hava Aracı ANKA’nın silahlandırılmasıyla ilgili de çalışmaların başladığını söyledi.
+A 10 12|||rule_6|||ilgilide|||REQUIRED|||-NONE-|||0
+
+S Meteoroloji Genel Müdürlüğü'nce yapılan son değerlendirmelere göre, Karadeniz kıyıları ile öğle saatlerinde Kırklareli, Kocaeli, Sakarya, Muğla, Denizli, Burdur, Tokat, Artvin, Erzurum, Kars, Ardahan, Ağrı, Iğdır, Antalya'nın Kaş, Elmalı ve Korkuteli ilçelerinin kısa süreli ve yerel olmak üzere sağanak ve gök gürültülü sağanak yağışlı geçeceği tahmin ediliyor.
+
+S Meteoroloji Genel Müdürlüğü'nce yapılan son değerlendirmelere göre, Karadeniz kıyıları ile öğle saatlerin de Kırklareli, Kocaeli, Sakarya, Muğla, Denizli, Burdur, Tokat, Artvin, Erzurum, Kars, Ardahan, Ağrı, Iğdır, Antalya'nın Kaş, Elmalı ve Korkuteli ilçelerinin kısa süreli ve yerel olmak üzere sağanak ve gök gürültülü sağanak yağışlı geçeceği tahmin ediliyor.
+A 11 13|||rule_6|||saatlerinde|||REQUIRED|||-NONE-|||0
+
+S Bu sebzelerin tüketilmesi sizin için sağlıklı olsa da laboratuardaki gibi kanser üzerinde aynı etkiyi brokoliyi yiyerek oluşturmak mümkün değil.
+
+S Bu sebzelerin tüketilmesi sizin için sağlıklı olsa da laboratuardaki gibi kanser üzerin de aynı etkiyi brokoliyi yiyerek oluşturmak mümkün değil.
+A 11 13|||rule_6|||üzerinde|||REQUIRED|||-NONE-|||0
+
+S Rusya Kamuoyu Şirketi'nin yaptığı ankete göre ise halkın yüzde 53'ünü Yakovlev yasasını destekliyor.
+
+S Rusya Kamuoyu Şirketi'nin yaptığı ankete göre ise halkın yüz de 53'ünü Yakovlev yasasını destekliyor.
+A 8 10|||rule_6|||yüzde|||REQUIRED|||-NONE-|||0
+
+S Yaya köprüsünde de çatlaklar oluştu.
+
+S Yaya köprüsün de de çatlaklar oluştu.
+A 1 3|||rule_6|||köprüsünde|||REQUIRED|||-NONE-|||0
+A 2 4|||rule_6|||de|||REQUIRED|||-NONE-|||0
+
+S Bugün yetkililer gelerek burada istişarelerde bulundular.
+
+S Bugün yetkililer gelerek burada istişareler de bulundular.
+A 4 6|||rule_6|||istişarelerde|||REQUIRED|||-NONE-|||0
+
+S Bunu ürünlerin çokluğuna azlığına bağlamak yerinde olacaktır.
+
+S Bunu ürünlerin çokluğuna azlığına bağlamak yerin de olacaktır.
+A 5 7|||rule_6|||yerinde|||REQUIRED|||-NONE-|||0
+
+S Buzlanmaya karşı yazdan milyonlarca dolarlık tuz stoklayan eyalet belediyeleri de şu ana dek bu stoklarını kullanamadı.
+
+S Buzlanmaya karşı yazdan milyonlarca dolarlık tuz stoklayan eyalet belediyeleri de şu ana dek bu stoklarını kullanamadı.
+A 8 10|||rule_6|||belediyeleride|||REQUIRED|||-NONE-|||0
+
+S Türkiye'de kişi başına hacim endeksi 29 olurken, karşılaştırmalarda yer alan 33 ülke içinde, Makedonya'dan sonra en düşük kişi başına GSYH hacim endeksine sahip ülke oldu.
+
+S Türkiye' de kişi başına hacim endeksi 29 olurken, karşılaştırmalarda yer alan 33 ülke için de, Makedonya'dan sonra en düşük kişi başına GSYH hacim endeksine sahip ülke oldu.
+A 0 2|||rule_6|||Türkiye'de|||REQUIRED|||-NONE-|||0
+A 13 15|||rule_6|||içinde,|||REQUIRED|||-NONE-|||0
+
+S Üstelik yeni soruşturma Ulusal Yargı Ağı’na( UYAP) ‘Keynak’ şeklinde girilmiş.
+
+S Üstelik yeni soruşturma Ulusal Yargı Ağı’na( UYAP) ‘Keynak’ şeklin de girilmiş.
+A 8 10|||rule_6|||şeklinde|||REQUIRED|||-NONE-|||0
+
+S Valilik, çocuklar tarafından büyük bir coşkuyla kutlanan Kurban Bayramı süresince; şeker toplama, bayramlaşma, oyun parkları ve eğlence yerlerinde meydana gelebilecek çocuk kaçırma ve çocuk istismarı tehlikelerine karşı gerekli önlemlerin alınması ve ailelerin bayram boyunca bilgilendirilmesi sağlanacağını duyurdu.
+
+S Valilik, çocuklar tarafından büyük bir coşkuyla kutlanan Kurban Bayramı süresince; şeker toplama, bayramlaşma, oyun parkları ve eğlence yerlerin de meydana gelebilecek çocuk kaçırma ve çocuk istismarı tehlikelerine karşı gerekli önlemlerin alınması ve ailelerin bayram boyunca bilgilendirilmesi sağlanacağını duyurdu.
+A 17 19|||rule_6|||yerlerinde|||REQUIRED|||-NONE-|||0
+
+S Hayalini kurduğum pek çok şey vardı ama bu şarkıları yazdığım zamanları düşündüğümde bu kadarını hayal etmiyordum.
+
+S Hayalini kurduğum pek çok şey vardı ama bu şarkıları yazdığım zamanları düşündüğüm de bu kadarını hayal etmiyordum.
+A 11 13|||rule_6|||düşündüğümde|||REQUIRED|||-NONE-|||0
+
+S Arap Baharı sürecinin “liberal demokratik rüzgarlar” estirmesi ve bölgeyi yeniden yapılandırması yönündeki beklenti Suriye'de tıkanmış görünüyor.
+
+S Arap Baharı sürecinin “liberal demokratik rüzgarlar” estirmesi ve bölgeyi yeniden yapılandırması yönündeki beklenti Suriye' de tıkanmış görünüyor.
+A 13 15|||rule_6|||Suriye'de|||REQUIRED|||-NONE-|||0
+
+S 'Zürafanın düşkünü beyaz giyer kış günü' sözü artık eskilerde kaldı.
+
+S 'Zürafanın düşkünü beyaz giyer kış günü' sözü artık eskiler de kaldı.
+A 8 10|||rule_6|||eskilerde|||REQUIRED|||-NONE-|||0
+
+S Suriye'deki şiddet olaylarının kendilerini çok endişelendirdiğini ifade eden Cude, Şam yönetimine bu konuda aylardır çarı yaptıklarını, uluslararası camianın akan kanın durması talebini ilettiklerini dile getirdi.
+
+S Suriye'deki şiddet olaylarının kendilerini çok endişelendirdiğini ifa de eden Cu de, Şam yönetimine bu konuda aylardır çarı yaptıklarını, uluslararası camianın akan kanın durması talebini ilettiklerini dile getirdi.
+A 6 8|||rule_6|||ifade|||REQUIRED|||-NONE-|||0
+A 9 11|||rule_6|||Cude,|||REQUIRED|||-NONE-|||0
+
+S Ürün bazında ihracattaki daralma; Mandalinada eksi yüzde 28, limonda eksi 16, portakal da eksi 39 ortalama tonajda kaybedilen ihracat miktarı eksi yüzde 26 olarak gerçekleşti.
+
+S Ürün bazında ihracattaki daralma; Mandalinada eksi yüz de 28, limonda eksi 16, portakal da eksi 39 ortalama tonajda kaybedilen ihracat miktarı eksi yüz de 26 olarak gerçekleşti.
+A 6 8|||rule_6|||yüzde|||REQUIRED|||-NONE-|||0
+A 22 24|||rule_6|||yüzde|||REQUIRED|||-NONE-|||0
+
+S Öte yandan eski Ulaştırma Bakanı Fatmir Limay, yeni hükümette yer almayacağını, parti içinde genel başkan yardımcısı görevini sürdüreceğini açıkladı.
+
+S Öte yandan eski Ulaştırma Bakanı Fatmir Limay, yeni hükümette yer almayacağını, parti için de genel başkan yardımcısı görevini sürdüreceğini açıkladı.
+A 12 14|||rule_6|||içinde|||REQUIRED|||-NONE-|||0
+
+S Tosun, yaptığı açıklamada, SDÜ'lü 4 kız öğrencinin, Prof. Baydar hakkındaki şikayeti ile ilgili yasal sürecin işleyeceğini ifade etti.
+
+S Tosun, yaptığı açıklamada, SDÜ'lü 4 kız öğrencinin, Prof. Baydar hakkındaki şikayeti ile ilgili yasal sürecin işleyeceğini ifa de etti.
+A 16 18|||rule_6|||ifade|||REQUIRED|||-NONE-|||0
+
+S Cengiz, ifadesinde “Bir anda patladı.
+
+S Cengiz, ifadesin de “Bir anda patladı.
+A 1 3|||rule_6|||ifadesinde|||REQUIRED|||-NONE-|||0
+
+S Türkiye'de 2002 yılında motorlu araç sayısının 5 milyon 44 bin 259'u benzinli olmak üzere toplam 8 milyon 655 bin 170 iken, bu rakam 2012 yılı Mart ayı sonu itibarıyla 5 milyon 704 bin 411'i benzinli olmak üzere toplamda 16 milyon 315 bin 251'e yükseldi.
+
+S Türkiye' de 2002 yılında motorlu araç sayısının 5 milyon 44 bin 259'u benzinli olmak üzere toplam 8 milyon 655 bin 170 iken, bu rakam 2012 yılı Mart ayı sonu itibarıyla 5 milyon 704 bin 411'i benzinli olmak üzere toplamda 16 milyon 315 bin 251'e yükseldi.
+A 0 2|||rule_6|||Türkiye'de|||REQUIRED|||-NONE-|||0
+
+S Rumeli Feneri'nde doğallığın bazı yerlerde kaybolduğunu söylemek mümkün.
+
+S Rumeli Feneri'n de doğallığın bazı yerler de kaybolduğunu söylemek mümkün.
+A 1 3|||rule_6|||Feneri'nde|||REQUIRED|||-NONE-|||0
+A 5 7|||rule_6|||yerlerde|||REQUIRED|||-NONE-|||0
+
+S Bakan Davutoğlu, konuk bakan ile Conrad Otel’de bir araya geldi.
+
+S Bakan Davutoğlu, konuk bakan ile Conrad Otel’ de bir araya geldi.
+A 6 8|||rule_6|||Otel’de|||REQUIRED|||-NONE-|||0
+
+S Seyfettin Ersoy, Arafat'ta marifete, Müzdelife'de şuura erebilmeyi, Mina'da tüm nefsani ve şehvani arzulardan kurtulmayı, Mina'da taşlanacak şeytanla birlikte bencilliği, kini, kibiri, gururu, ihtirası, fitne ve fesadı da söküp atabilmeyi, Mescid-i Haram'da refiki a'laya ulaşabilmeyi istedi yaradandan.
+
+S Seyfettin Ersoy, Arafat'ta marifete, Müzdelife' de şuura erebilmeyi, Mina'da tüm nefsani ve şehvani arzulardan kurtulmayı, Mina'da taşlanacak şeytanla birlikte bencilliği, kini, kibiri, gururu, ihtirası, fitne ve fesadı da söküp atabilmeyi, Mescid-i Haram'da refiki a'laya ulaşabilmeyi istedi yaradandan.
+A 4 6|||rule_6|||Müzdelife'de|||REQUIRED|||-NONE-|||0
+
+S Gündemde olan ''Bozkurt '' tartışmasına da eğinen Ateş, ''Biz buradan, bu ülkenin savcılarına, namuslu hukukçularına sesleniyoruz.
+
+S Gündem de olan ''Bozkurt '' tartışmasına da eğinen Ateş, ''Biz buradan, bu ülkenin savcılarına, namuslu hukukçularına sesleniyoruz.
+A 0 2|||rule_6|||Gündemde|||REQUIRED|||-NONE-|||0
+
+S Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0,74 oranında, hizmetler grubu hisseler ortalama yüzde 0,09 oranında, sanayi grubu hisseler de ortalama yüzde 0,31 oranında değer kazandı.
+
+S Böylece ilk seansa göre mali grup hisseler ortalama yüz de 0,74 oranında, hizmetler grubu hisseler ortalama yüz de 0,09 oranında, sanayi grubu hisseler de ortalama yüz de 0,31 oranında değer kazandı.
+A 8 10|||rule_6|||yüzde|||REQUIRED|||-NONE-|||0
+A 16 18|||rule_6|||yüzde|||REQUIRED|||-NONE-|||0
+A 22 24|||rule_6|||hisselerde|||REQUIRED|||-NONE-|||0
+A 25 27|||rule_6|||yüzde|||REQUIRED|||-NONE-|||0
+
+S Birliğin referandumdaki görüşünü açıkça söylememesine karşılık kendisine bağlı 365 oda ve borsa başkanının yüzde 70'i anayasa değişikliğine 'evet' diyecek.
+
+S Birliğin referandumdaki görüşünü açıkça söylememesine karşılık kendisine bağlı 365 oda ve borsa başkanının yüz de 70'i anayasa değişikliğine 'evet' diyecek.
+A 13 15|||rule_6|||yüzde|||REQUIRED|||-NONE-|||0
+
+S Galatasaray Sportif Direktörü Adnan Sezgin de Fatma Nine'nin yanına giderek, ''Hoşgeldin '' dedi.
+
+S Galatasaray Sportif Direktörü Adnan Sezgin de Fatma Nine'nin yanına giderek, ''Hoşgeldin '' dedi.
+A 4 6|||rule_6|||Sezginde|||REQUIRED|||-NONE-|||0
+
+S Partigöç, `` Gücünü yüce Türk milletinin tarihi sevgi ve güveninden alan kahraman Türk Silahlı Kuvvetlerinin bir unsuru olan sizlerin dün olduğu gibi bugünde içtiğiniz anda sadık kalarak, aynı inanç ve görev heyecanıyla vazifelerinizi yerne getireceğinize inancım tamdır '' dedi.
+
+S Partigöç, `` Gücünü yüce Türk milletinin tarihi sevgi ve güveninden alan kahraman Türk Silahlı Kuvvetlerinin bir unsuru olan sizlerin dün olduğu gibi bugün de içtiğiniz anda sadık kalarak, aynı inanç ve görev heyecanıyla vazifelerinizi yerne getireceğinize inancım tamdır '' dedi.
+A 22 24|||rule_6|||bugünde|||REQUIRED|||-NONE-|||0
+
+S AK Parti acı deneyimlerle başarıların birbirine geçtiği uzun yürüyüş sırasında biriken kurallar ve planlar doğrultusunda Türk halkının çoğunluğunun yetkilendirmesiyle siyasi, ekonomik, sosyal ve kültürel dönüşüm operasyonuna önderlik etmeseydi, Türkiye'de sadece 10 yıl önce bin bir gece hayalleri diye bakılan bütün bu kazanımlar gerçekleşmezdi.
+
+S AK Parti acı deneyimlerle başarıların birbirine geçtiği uzun yürüyüş sırasında biriken kurallar ve planlar doğrultusunda Türk halkının çoğunluğunun yetkilendirmesiyle siyasi, ekonomik, sosyal ve kültürel dönüşüm operasyonuna önderlik etmeseydi, Türkiye' de sadece 10 yıl önce bin bir gece hayalleri diye bakılan bütün bu kazanımlar gerçekleşmezdi.
+A 28 30|||rule_6|||Türkiye'de|||REQUIRED|||-NONE-|||0
+
+S `` Takım halinde defansif anlamda bir sıkıntımız var, bunu kabul ediyorum.
+
+S `` Takım halin de defansif anlamda bir sıkıntımız var, bunu kabul ediyorum.
+A 2 4|||rule_6|||halinde|||REQUIRED|||-NONE-|||0
+
+S Şu anda Manavgat'ta ve Gazipaşa'da 2 tane barajımız bitmek üzere.
+
+S Şu anda Manavgat' ta ve Gazipaşa'da 2 tane barajımız bitmek üzere.
+A 2 4|||rule_6|||Manavgat'ta|||REQUIRED|||-NONE-|||0
+
+S Modern sulama sistemini orada hayata geçireceğiz.
+
+S Modern sulama sistemini orada haya ta geçireceğiz.
+A 4 6|||rule_6|||hayata|||REQUIRED|||-NONE-|||0
+
+S Fabrika yapan fabrika konumundaki KARDEMİR, Türkiye'nin kalkınmasında çok önemli bir rol oynamış, adeta lokomotif görevini üstlenmiştir.
+
+S Fabrika yapan fabrika konumundaki KARDEMİR, Türkiye'nin kalkınmasında çok önemli bir rol oynamış, ade ta lokomotif görevini üstlenmiştir.
+A 12 14|||rule_6|||adeta|||REQUIRED|||-NONE-|||0
+
+S Öte yandan istihraçta bulunduğu tasavvufî kavramlar ve işârî yorumların gerek akait gerekse de fıkıh prensipleri açısından, Ehl-i Sünnet çizgisine uygun olmasına özen göstermektedir.
+
+S Öte yandan istihraç ta bulunduğu tasavvufî kavramlar ve işârî yorumların gerek akait gerekse de fıkıh prensipleri açısından, Ehl-i Sünnet çizgisine uygun olmasına özen göstermektedir.
+A 2 4|||rule_6|||istihraçta|||REQUIRED|||-NONE-|||0
+
+S 76. dakikada Selçuk'un kullandığı serbest vuruşta, ceza sahasında kimsenin dokunamadığı topu kaleci Ömer kale direğin dibinde kontrol etti.
+
+S 76. dakikada Selçuk'un kullandığı serbest vuruş ta, ceza sahasında kimsenin dokunamadığı topu kaleci Ömer kale direğin dibinde kontrol etti.
+A 5 7|||rule_6|||vuruşta,|||REQUIRED|||-NONE-|||0
+
+S Hayatta kalabilseydim eğer, insanların bu yaptıklarından sonra cadı olurdum.
+
+S Hayat ta kalabilseydim eğer, insanların bu yaptıklarından sonra cadı olurdum.
+A 0 2|||rule_6|||Hayatta|||REQUIRED|||-NONE-|||0
+
+S Böyle `` bir çift- dip'in kapasitesi, geminin taşıma kapasitesinin% – 20'sini bulmakta ve derin yan tankların eklenmesiyle% 4,0'a erişmektedir ki, bu durumda çekilen su, çiftdiyin uygulanması ile, denizciliğin artması yanında, geminin boy ve en mukavemeti de önemli derecede artar, iki dibin bulunması fazla olarak özellikle yolcu gemilerinde büyük önemi olan, denizde can güvenliği probleminin daha kolaylıkla gerçekleşmesini sağlar Denizde can güvenliği konferansları kurallarına göre her yolcu gemisinde, çift- dip bulunması istenir.
+
+S Posta kodu:
+
+S Pos ta kodu:
+A 0 2|||rule_6|||Posta|||REQUIRED|||-NONE-|||0
+
+S Hafta:
+
+S Haf ta:
+A 0 2|||rule_6|||Hafta:|||REQUIRED|||-NONE-|||0
+
+S Eğer kurtarma zamanlayıcısı çalışırken ikinci bir hata meydan gelirse röle ikinci tekrar kapama zamanlayıcısını başlatır, Eğer Kurtarma zamanlayıcısı çalışırken üçüncü bir hata meydan gelirse röle üçüncü tekrar kapama zamanlayıcısını başlatır, eğer Kurtarma zamanlayıcısı çalışırken dördüncü bir hata meydana gelirse röle dördüncü tekrar kapama zamanlayıcısını başlatır ve bu zaman sonunda röle tekrar bir kapama komutu gönderir ve kurtarma zamanlayıcını tekrar tetikler.
+
+S Eğer kurtarma zamanlayıcısı çalışırken ikinci bir ha ta meydan gelirse röle ikinci tekrar kapama zamanlayıcısını başlatır, Eğer Kurtarma zamanlayıcısı çalışırken üçüncü bir ha ta meydan gelirse röle üçüncü tekrar kapama zamanlayıcısını başlatır, eğer Kurtarma zamanlayıcısı çalışırken dördüncü bir ha ta meydana gelirse röle dördüncü tekrar kapama zamanlayıcısını başlatır ve bu zaman sonunda röle tekrar bir kapama komutu gönderir ve kurtarma zamanlayıcını tekrar tetikler.
+A 6 8|||rule_6|||hata|||REQUIRED|||-NONE-|||0
+A 22 24|||rule_6|||hata|||REQUIRED|||-NONE-|||0
+A 38 40|||rule_6|||hata|||REQUIRED|||-NONE-|||0
+
+S Ne kitapçılarda, ne tanıdıklarda, ne de sahaflarda.Bir yanlış anlamaya meydan vermemek için hemen belirteyim: İtalo Calvino hayatta en sevdiğim yazarlardan biridir.
+
+S Ne kitapçılarda, ne tanıdıklarda, ne de sahaflarda.Bir yanlış anlamaya meydan vermemek için hemen belirteyim: İtalo Calvino hayat ta en sevdiğim yazarlardan biridir.
+A 16 18|||rule_6|||hayatta|||REQUIRED|||-NONE-|||0
+
+S 2700 yıllık bu olağanüstü kaya kabartması anıtta doğal tahribat nedeniyle derin çatlaklar oluşmaya başladığı haberin en önemli ayrıntılarından birisiydi.
+
+S 2700 yıllık bu olağanüstü kaya kabartması anıt ta doğal tahribat nedeniyle derin çatlaklar oluşmaya başladığı haberin en önemli ayrıntılarından birisiydi.
+A 6 8|||rule_6|||anıtta|||REQUIRED|||-NONE-|||0
+
+S Türkiye, Suriye, Irak'ta bazı parçalar bölünecek.
+
+S Türkiye, Suriye, Irak' ta bazı parçalar bölünecek.
+A 2 4|||rule_6|||Irak'ta|||REQUIRED|||-NONE-|||0
+
+S Sonuçta haklı bir galibiyet elde ettik '' diye konuştu.Rumen teknik adam, sahaya sürdüğü kadroyla ilgili olarak da, `` İlk onbirde başlayanlar ile sonradan oyuna giren futbolcularımdan memnunum.
+
+S Sonuç ta haklı bir galibiyet elde ettik '' diye konuştu.Rumen teknik adam, sahaya sürdüğü kadroyla ilgili olarak da, `` İlk onbirde başlayanlar ile sonradan oyuna giren futbolcularımdan memnunum.
+A 0 2|||rule_6|||Sonuçta|||REQUIRED|||-NONE-|||0
+
+S 60 yaşında sigara içen kadınların o yaşta ölme ihtimali, 10 binde 85.
+
+S 60 yaşında sigara içen kadınların o yaş ta ölme ihtimali, 10 binde 85.
+A 6 8|||rule_6|||yaşta|||REQUIRED|||-NONE-|||0
+
+S Yeni valileri AB'ye uyum süreci konusunda uyaran Aksu, 40 yıldır AB'ye üye olmak için çalışan Türkiye'nin, 23 Aralık'ta önemli bir viraja gireceğini anımsattı.
+
+S Yeni valileri AB'ye uyum süreci konusunda uyaran Aksu, 40 yıldır AB'ye üye olmak için çalışan Türkiye'nin, 23 Aralık' ta önemli bir viraja gireceğini anımsattı.
+A 17 19|||rule_6|||Aralık'ta|||REQUIRED|||-NONE-|||0
+
+S Karşılaşmada, Rumen taraftarların havai fişek atması, Macar taraftarların da stat koltuklarını kırarak buna karşılık vermesi ve ırkçı tezahüratta bulunması gerekçesiyle iki ülkenin evlerinde yapacağı ilk UEFA organizasyonu maçında, stadın belirli bir bölümü kapatılacak.
+
+S Karşılaşmada, Rumen taraftarların havai fişek atması, Macar taraftarların da stat koltuklarını kırarak buna karşılık vermesi ve ırkçı tezahürat ta bulunması gerekçesiyle iki ülkenin evlerinde yapacağı ilk UEFA organizasyonu maçında, stadın belirli bir bölümü kapatılacak.
+A 17 19|||rule_6|||tezahüratta|||REQUIRED|||-NONE-|||0
+
+S Etek giymeyi çok seven biri olarak bu sezon en kalın renkli opak çoraplardan başta krem ve siyah olmak üzere aldım hemen.
+
+S Etek giymeyi çok seven biri olarak bu sezon en kalın renkli opak çoraplardan baş ta krem ve siyah olmak üzere aldım hemen.
+A 13 15|||rule_6|||başta|||REQUIRED|||-NONE-|||0
+
+S 12 Eylül 1980 askeri darbesini gerçekleştiren cuntanın geri kalan son iki üyesi olan Kenan Evren ve Tahsin Şahinkaya, geçen yılın 12 Eylül tarihinde anayasa değişikliklerini onaylayan referandum sonucu dokunulmazlıklarını kaybetmelerinin ardından, geçtiğimiz hafta savcılar tarafından sorguya çekildiler.
+
+S 12 Eylül 1980 askeri darbesini gerçekleştiren cuntanın geri kalan son iki üyesi olan Kenan Evren ve Tahsin Şahinkaya, geçen yılın 12 Eylül tarihinde anayasa değişikliklerini onaylayan referandum sonucu dokunulmazlıklarını kaybetmelerinin ardından, geçtiğimiz haf ta savcılar tarafından sorguya çekildiler.
+A 32 34|||rule_6|||hafta|||REQUIRED|||-NONE-|||0
+
+S Ayrıca iş dünyasından haberlerde: Arnavutluk' ta bir biyoyakıt üretim tesisi açıldı ve Kosova vatandaşları tasarruf yapıyor.
+
+S Ayrıca iş dünyasından haberlerde: Arnavutluk' ta bir biyoyakıt üretim tesisi açıldı ve Kosova vatandaşları tasarruf yapıyor.
+A 4 6|||rule_6|||Arnavutluk'ta|||REQUIRED|||-NONE-|||0
+
+S `` Arnavutluk' ta bir Avrupa ideali inşa edilmesi Arnavut halkının hayati çıkarlarına hizmet ediyor.
+
+S `` Arnavutluk' ta bir Avrupa ideali inşa edilmesi Arnavut halkının hayati çıkarlarına hizmet ediyor.
+A 1 3|||rule_6|||Arnavutluk'ta|||REQUIRED|||-NONE-|||0
+
+S Ama o sesi kulakta üretmek için 500 lira verseniz dünyanın en mutlu insanı olursunuz.
+
+S Ama o sesi kulak ta üretmek için 500 lira verseniz dünyanın en mutlu insanı olursunuz.
+A 3 5|||rule_6|||kulakta|||REQUIRED|||-NONE-|||0
+
+S Mustafa Kemal’in yaveri Salih Bozok anlatıyor, “Denize nazır terasta Mustafa Kemal ile Latife bir ara yalnız kalmışlardı….Yangın bütün dehşetiyle sürüyordu.
+
+S Mustafa Kemal’in yaveri Salih Bozok anlatıyor, “Denize nazır teras ta Mustafa Kemal ile Latife bir ara yalnız kalmışlardı….Yangın bütün dehşetiyle sürüyordu.
+A 8 10|||rule_6|||terasta|||REQUIRED|||-NONE-|||0
+
+S DEHAP'ta geçen seçim öncesi yaşanan anlaşmazlıklardan sonra bir yenilenme bekleniyordu.
+
+S DEHAP' ta geçen seçim öncesi yaşanan anlaşmazlıklardan sonra bir yenilenme bekleniyordu.
+A 0 2|||rule_6|||DEHAP'ta|||REQUIRED|||-NONE-|||0
+
+S Başlangıçta yediği baskıyla tedirginlik yaşayan Fenerbahçe, şimdi moral ve güven kazanmıştı.
+
+S Başlangıç ta yediği baskıyla tedirginlik yaşayan Fenerbahçe, şimdi moral ve güven kazanmıştı.
+A 0 2|||rule_6|||Başlangıçta|||REQUIRED|||-NONE-|||0
+
+S Evet, Ankara her iki tarafla da mevcut yakın ilişkileri nedeniyle Rusya ile Gürcistan arasında çıkan savaşta güç bir durumda kaldı ve çıkarları tehlikeye girdi.
+
+S Evet, Ankara her iki tarafla da mevcut yakın ilişkileri nedeniyle Rusya ile Gürcistan arasında çıkan savaş ta güç bir durumda kaldı ve çıkarları tehlikeye girdi.
+A 15 17|||rule_6|||savaşta|||REQUIRED|||-NONE-|||0
+
+S Bu arada, Karaciç'in avukatı Sveta Vuyaciç, müvekkilinin hakim önüne ilk çıktığında savunma vermeyeceğini söyledi.
+
+S Bu arada, Karaciç'in avukatı Sve ta Vuyaciç, müvekkilinin hakim önüne ilk çıktığında savunma vermeyeceğini söyledi.
+A 4 6|||rule_6|||Sveta|||REQUIRED|||-NONE-|||0
+
+S Demet Akbağ’ın, Aydın Bey’in kardeşini canlandırdığı karakter ise daha çok Tanpınar’ın Huzur romanındaki, Suad gibi, Mümtaz’ın öteki, karşıt kişiliğini çağrıştırmakta, iyiliksever ve anlayışlı kız kardeşten, bir öteki çıkmakta ve kendisini kötülük fikri üzerinden açık etmektedir.
+
+S Demet Akbağ’ın, Aydın Bey’in kardeşini canlandırdığı karakter ise daha çok Tanpınar’ın Huzur romanındaki, Suad gibi, Mümtaz’ın öteki, karşıt kişiliğini çağrıştırmak ta, iyiliksever ve anlayışlı kız kardeşten, bir öteki çıkmak ta ve kendisini kötülük fikri üzerinden açık etmektedir.
+A 19 21|||rule_6|||çağrıştırmakta,|||REQUIRED|||-NONE-|||0
+A 28 30|||rule_6|||çıkmakta|||REQUIRED|||-NONE-|||0
+
+S Dolayısıyla hasta yakınlarıyla görüşülerek kişinin karakterine uygun bir şekilde, hastalığın neler getireceği yüzdelik oranlarla anlatılmalı.
+
+S Dolayısıyla has ta yakınlarıyla görüşülerek kişinin karakterine uygun bir şekilde, hastalığın neler getireceği yüzdelik oranlarla anlatılmalı.
+A 1 3|||rule_6|||hasta|||REQUIRED|||-NONE-|||0
+
+S 86. dakikada sol taraftan serbest atış kullanan Özgür Çek'in yaptığı ortada, ceza sahasında iyi yükselen Musa Çağıran topa kafa ile vurdu, meşin yuvarlak yandan auta çıktı.
+
+S 86. dakikada sol taraftan serbest atış kullanan Özgür Çek'in yaptığı ortada, ceza sahasında iyi yükselen Musa Çağıran topa kafa ile vurdu, meşin yuvarlak yandan au ta çıktı.
+A 24 26|||rule_6|||auta|||REQUIRED|||-NONE-|||0
+
+S Öte yandan, açıklamada, Acil Sağlık Hizmetleri Genel Müdürlüğü tarafından yol güzergahlarında, kurban kesim merkezlerinde ve sınır illerde bulunan kamp bölgeleri ile son dönemde Şanlıurfa sınır bölgesinde artan sığınmacı sayısı nedeniyle, hizmet sunumunda aksaklıklara meydan vermemek için ek sağlık tedbirleri alındığı bildirildi.
+
+S Ö te yandan, açıklamada, Acil Sağlık Hizmetleri Genel Müdürlüğü tarafından yol güzergahlarında, kurban kesim merkezlerinde ve sınır illerde bulunan kamp bölgeleri ile son dönemde Şanlıurfa sınır bölgesinde artan sığınmacı sayısı nedeniyle, hizmet sunumunda aksaklıklara meydan vermemek için ek sağlık tedbirleri alındığı bildirildi.
+A 0 2|||rule_6|||Öte|||REQUIRED|||-NONE-|||0
+
+S Minibüste sıkışan bir kadının itfaiye ekipleri tarafından kurtarılma çalışmaları sırasında yaşlı kadının kocası eşinin yanından bir an olsun ayrılmadı.
+
+S Minibüs te sıkışan bir kadının itfaiye ekipleri tarafından kurtarılma çalışmaları sırasında yaşlı kadının kocası eşinin yanından bir an olsun ayrılmadı.
+A 0 2|||rule_6|||Minibüste|||REQUIRED|||-NONE-|||0
+
+S Öte tarafta darbe yapmış, binlerce insanın hayatını karartmış, cezaevlerinde 300 küsur insanın ölümünden birinci derecede sorumlu olan adamları yatakta yargılıyorsun.
+
+S Ö te tarafta darbe yapmış, binlerce insanın hayatını karartmış, cezaevlerinde 300 küsur insanın ölümünden birinci derecede sorumlu olan adamları yatakta yargılıyorsun.
+A 0 2|||rule_6|||Öte|||REQUIRED|||-NONE-|||0
+
+S Başbakan Yardımcısı Bülent Arınç, eşi Münevver Arınç ile birlikte Medical Park İzmir Hastanesi'nde by-pass ameliyatı olan ağabeyi, 74 yaşındaki Yıldıray Arınç'ı ziyaret etti.
+
+S Başbakan Yardımcısı Bülent Arınç, eşi Münevver Arınç ile birlik te Medical Park İzmir Hastanesi'nde by-pass ameliyatı olan ağabeyi, 74 yaşındaki Yıldıray Arınç'ı ziyaret etti.
+A 8 10|||rule_6|||birlikte|||REQUIRED|||-NONE-|||0
+
+S Tesiste Afyonkarahisar kent merkezi ile merkeze bağlı belde belediyesi ve köylerin atık suları arıtılıyor.
+
+S Tesis te Afyonkarahisar kent merkezi ile merkeze bağlı belde belediyesi ve köylerin atık suları arıtılıyor.
+A 0 2|||rule_6|||Tesiste|||REQUIRED|||-NONE-|||0
+
+S Aslında şu anda yapılan; bu açıdan baktığınız zaman, CHP'nin de başka partilerin de geçmişte dile getirdiklerinin kısmen hayata geçirilmesinden başka bir şey değil.
+
+S Aslında şu anda yapılan; bu açıdan baktığınız zaman, CHP'nin de başka partilerin de geçmiş te dile getirdiklerinin kısmen hayata geçirilmesinden başka bir şey değil.
+A 13 15|||rule_6|||geçmişte|||REQUIRED|||-NONE-|||0
+
+S mahkemede, poliste verdiği ifadeleri ve suçlamaları kabul ettiğini söyledi.İmamın ilişkisini tahmin ettiğine ifadesinde yer veren 3 yaş küçük erkek kardeşi M.B.,
+
+S mahkemede, polis te verdiği ifadeleri ve suçlamaları kabul ettiğini söyledi.İmamın ilişkisini tahmin ettiğine ifadesinde yer veren 3 yaş küçük erkek kardeşi M.B.,
+A 1 3|||rule_6|||poliste|||REQUIRED|||-NONE-|||0
+
+S TCP/IP yazilimi, cogu UNIX tabanli bilgisayarlarda isletim sistemi ile birlikte gelmektedir.
+
+S TCP/IP yazilimi, cogu UNIX tabanli bilgisayarlarda isletim sistemi ile birlik te gelmektedir.
+A 9 11|||rule_6|||birlikte|||REQUIRED|||-NONE-|||0
+
+S Müşterin farklı olan tüp tiplerini bularak farklı tipte siparişler alabilir.
+
+S Müşterin farklı olan tüp tiplerini bularak farklı tip te siparişler alabilir.
+A 7 9|||rule_6|||tipte|||REQUIRED|||-NONE-|||0
+
+S Deniz seviyesi ölçmesinde kullanılan düzenek 15 cm çapında koruyucu niteliği olan bir PVC boru içine monte edilmektedir.
+
+S Deniz seviyesi ölçmesinde kullanılan düzenek 15 cm çapında koruyucu niteliği olan bir PVC boru içine mon te edilmektedir.
+A 15 17|||rule_6|||monte|||REQUIRED|||-NONE-|||0
+
+S Ve küresel süpermarkette daha fazla meta olarak kabul edilen tarımın, tarımsal ihracata dönük olması, yani besin zincirinin farklı aşamalarının giderek daha az elde yoğunlaşması ve bu kısmi oligopol durumunun tüm koşulları belirleyen `` ellere '' güç veriyor oluşu temel sorundur Uluslararası Kırsal Gelişme Vakfı, 2007 yılında küresel tohum ticaretinin yüzde 67'sinin, 10 büyük çokulus vb .)
+
+S Ve küresel süpermarket te daha fazla meta olarak kabul edilen tarımın, tarımsal ihracata dönük olması, yani besin zincirinin farklı aşamalarının giderek daha az elde yoğunlaşması ve bu kısmi oligopol durumunun tüm koşulları belirleyen `` ellere '' güç veriyor oluşu temel sorundur Uluslararası Kırsal Gelişme Vakfı, 2007 yılında küresel tohum ticaretinin yüzde 67'sinin, 10 büyük çokulus vb .)
+A 2 4|||rule_6|||süpermarkette|||REQUIRED|||-NONE-|||0
+
+S Beyaz renkte mermerden üretilmiş olan idolün kırık olan boynu ile gövdesinin alt kısmı yapıştırılmış durumdadır; omuz kısmının kenarı da kırık ve eksiktir.
+
+S Beyaz renk te mermerden üretilmiş olan idolün kırık olan boynu ile gövdesinin alt kısmı yapıştırılmış durumdadır; omuz kısmının kenarı da kırık ve eksiktir.
+A 1 3|||rule_6|||renkte|||REQUIRED|||-NONE-|||0
+
+S Fakat dikkat edilirse Maraşlıoğlu, „İslâ'mşa roman olamaz, biz B'ışa doğmuş bu türe karşıyız '' gibi bir görüşte bulunmamıştır.
+
+S Fakat dikkat edilirse Maraşlıoğlu, „İslâ'mşa roman olamaz, biz B'ışa doğmuş bu türe karşıyız '' gibi bir görüş te bulunmamıştır.
+A 16 18|||rule_6|||görüşte|||REQUIRED|||-NONE-|||0
+
+S Aynı doğrultudaki noktalardan arkada olanı önde olandan daha yüksekte olmalıdır.
+
+S Aynı doğrultudaki noktalardan arkada olanı önde olandan daha yüksek te olmalıdır.
+A 8 10|||rule_6|||yüksekte|||REQUIRED|||-NONE-|||0
+
+S Dolayısıyla Kemalist laiklik anlayışına karşı Batılı 11 Evrensellik üzerine İslamcı basında aşırılaşan bu vurgular ya da evrenselin karşısında büyülenme hali denilebilecek bu durum, evrenselin Hegelci anlamıyla farklılaşmamışlık ve hareketsizlikte karşılığını bulduğundan yola çıkılırsa farklılığın bir tür yadsınması isteği gibi belirmektedir.
+
+S Dolayısıyla Kemalist laiklik anlayışına karşı Batılı 11 Evrensellik üzerine İslamcı basında aşırılaşan bu vurgular ya da evrenselin karşısında büyülenme hali denilebilecek bu durum, evrenselin Hegelci anlamıyla farklılaşmamışlık ve hareketsizlik te karşılığını bulduğundan yola çıkılırsa farklılığın bir tür yadsınması isteği gibi belirmektedir.
+A 28 30|||rule_6|||hareketsizlikte|||REQUIRED|||-NONE-|||0
+
+S Lacivert-Beyazlılar, konuk ekipte Green'in sayılarına engel olamayınca, fark kapanmaya başladı.
+
+S Lacivert-Beyazlılar, konuk ekip te Green'in sayılarına engel olamayınca, fark kapanmaya başladı.
+A 2 4|||rule_6|||ekipte|||REQUIRED|||-NONE-|||0
+
+S `` Bu çağrıyla beraber herkes almış olduğu mevcut pozisyondan bir adım geri atmalıdır, eğer uzlaşma istiyorsak, diyaloğu ortaya çıkarmak istiyorsak bunu yapmaya mecburuz '' diyen Hisarcıklıoğlu, Türkiye'nin meslek kuruluşları olarak oluşturdukları kitlenin, aileleriyle birlikte Türkiye nüfusunun yarısından fazlasını temsil ettiğine dikkati çekti.
+
+S `` Bu çağrıyla beraber herkes almış olduğu mevcut pozisyondan bir adım geri atmalıdır, eğer uzlaşma istiyorsak, diyaloğu ortaya çıkarmak istiyorsak bunu yapmaya mecburuz '' diyen Hisarcıklıoğlu, Türkiye'nin meslek kuruluşları olarak oluşturdukları kitlenin, aileleriyle birlik te Türkiye nüfusunun yarısından fazlasını temsil ettiğine dikkati çekti.
+A 33 35|||rule_6|||birlikte|||REQUIRED|||-NONE-|||0
+
+S Diğer sonuçlar ise şöyle: Washington-Charlotte: 88-95, Dallas-Seattle: 97-105, Portland-Houston: 87-94, Toronto-Detroit: 84-88, Golden State-New York: 70-94, Clippers-Lakers: 93-98.
+
+S Diğer sonuçlar ise şöyle: Washington-Charlot te: 88-95, Dallas-Seattle: 97-105, Portland-Houston: 87-94, Toronto-Detroit: 84-88, Golden State-New York: 70-94, Clippers-Lakers: 93-98.
+A 4 6|||rule_6|||Washington-Charlotte:|||REQUIRED|||-NONE-|||0
+
+S FOTOĞRAF: MUSTAFA SARIİPEK/ DHA Hipoglisemi şoku nedeniyle acil servislik olan Başbakan, bayram tatilini doğa harikası Bördübet'te geçirecek.
+
+S FOTOĞRAF: MUSTAFA SARIİPEK/ DHA Hipoglisemi şoku nedeniyle acil servislik olan Başbakan, bayram tatilini doğa harikası Bördübet' te geçirecek.
+A 15 17|||rule_6|||Bördübet'te|||REQUIRED|||-NONE-|||0
+
+S Çay toplayarak geçimini sağlayan köyde yaşayan 227 kişinin de heyelan sırasında işte ya da okulda olduğu için hayatta kaldığını belirten Sri Lanka Afet Koordinasyon Merkezi'nden yetkililer, hafta sonundan itibaren iş makinelerinin kazı çalışmalarına başlayacağını duyurdu.
+
+S Çay toplayarak geçimini sağlayan köyde yaşayan 227 kişinin de heyelan sırasında iş te ya da okulda olduğu için hayatta kaldığını belirten Sri Lanka Afet Koordinasyon Merkezi'nden yetkililer, hafta sonundan itibaren iş makinelerinin kazı çalışmalarına başlayacağını duyurdu.
+A 11 13|||rule_6|||işte|||REQUIRED|||-NONE-|||0
+
+S Yapılan açıklamalarda denmiş ki camii cemaatleri gerçek imamla sahte imamı ayıracak kadar bilgilidir.
+
+S Yapılan açıklamalarda denmiş ki camii cemaatleri gerçek imamla sah te imamı ayıracak kadar bilgilidir.
+A 8 10|||rule_6|||sahte|||REQUIRED|||-NONE-|||0
+
+S diyen Sare ile birlikte poz vermek istedik ancak kameraları pek sevmeyen küçük hanım Fransız şarkılarının kliplerini izlemeyi tercih etti.
+
+S diyen Sare ile birlik te poz vermek istedik ancak kameraları pek sevmeyen küçük hanım Fransız şarkılarının kliplerini izlemeyi tercih etti.
+A 3 5|||rule_6|||birlikte|||REQUIRED|||-NONE-|||0
+
+S Galatasaray Daikin rakibi bloklarla durdurunca 24-24'te skoru eşitledi.
+
+S Galatasaray Daikin rakibi bloklarla durdurunca 24-24' te skoru eşitledi.
+A 5 7|||rule_6|||24-24'te|||REQUIRED|||-NONE-|||0
+
+S Evlilikte duygusal bağ önemlidir.
+
+S Evlilik te duygusal bağ önemlidir.
+A 0 2|||rule_6|||Evlilikte|||REQUIRED|||-NONE-|||0
+
+S Ancak eğitim seviyesinin yükselmesi ve çekirdek aileye geçişle birlikte erkeğin aldatması artık kadın tarafından eskisi gibi kabullenmemektedir.
+
+S Ancak eğitim seviyesinin yükselmesi ve çekirdek aileye geçişle birlik te erkeğin aldatması artık kadın tarafından eskisi gibi kabullenmemektedir.
+A 8 10|||rule_6|||birlikte|||REQUIRED|||-NONE-|||0
+
+S İddiaya destek niteliğinde, on sayfalık röportajın yer aldığı sayfalarda, Pukaniç ile generalin birlikte çekilmiş fotoğraflarına da yer veriliyor.
+
+S İddiaya destek niteliğinde, on sayfalık röportajın yer aldığı sayfalarda, Pukaniç ile generalin birlik te çekilmiş fotoğraflarına da yer veriliyor.
+A 12 14|||rule_6|||birlikte|||REQUIRED|||-NONE-|||0
+
+S Karadağ Sendikalar Federasyonu( SSCG) çalışanı Vukadin Cupiç SETimes' a verdiği demeçte, `` Açlık grevi, haklarımızı elde etmenin tek yolu gibi görünüyor.
+
+S Karadağ Sendikalar Federasyonu( SSCG) çalışanı Vukadin Cupiç SETimes' a verdiği demeç te, `` Açlık grevi, haklarımızı elde etmenin tek yolu gibi görünüyor.
+A 10 12|||rule_6|||demeçte,|||REQUIRED|||-NONE-|||0
+
+S Bu arada, üç yerel televizyon kanalı ile yerel TV yayıncıları arasındaki zaman paylaşımı sorunlarını çözmek için, üçü Üsküp' te ikisi Gostivar' da olmak üzere beş özel izin açıklanacak.
+
+S Bu arada, üç yerel televizyon kanalı ile yerel TV yayıncıları arasındaki zaman paylaşımı sorunlarını çözmek için, üçü Üsküp' te ikisi Gostivar' da olmak üzere beş özel izin açıklanacak.
+A 17 19|||rule_6|||Üsküp'te|||REQUIRED|||-NONE-|||0
+
+S Başkan Obama'nın da bir ara söylemiş olduğu gibi İran'ın nükleer silah üretme kapasitesine sahip olması ama o eşikte durması kabul edilebilir bir seçenek diye görülüyor.
+
+S Başkan Obama'nın da bir ara söylemiş olduğu gibi İran'ın nükleer silah üretme kapasitesine sahip olması ama o eşik te durması kabul edilebilir bir seçenek diye görülüyor.
+A 17 19|||rule_6|||eşikte|||REQUIRED|||-NONE-|||0
+
+S Geçmişte İran'la ilişkileri yüzünden operasyonların hedefi olan Halkbank, yine etkili rol oynayabilir.
+
+S Geçmiş te İran'la ilişkileri yüzünden operasyonların hedefi olan Halkbank, yine etkili rol oynayabilir.
+A 0 2|||rule_6|||Geçmişte|||REQUIRED|||-NONE-|||0
+
+S Bilebildiğim kadarıyla söz konusu yazılarımda hiçbir yerde ne ‘cahil’ sözcüğü, ne de ‘cahil Alevi’ tarzı bir ifade geçmekte.
+
+S Bilebildiğim kadarıyla söz konusu yazılarımda hiçbir yerde ne ‘cahil’ sözcüğü, ne de ‘cahil Alevi’ tarzı bir ifade geçmek te.
+A 17 19|||rule_6|||geçmekte.|||REQUIRED|||-NONE-|||0
+
+S Davutoğlu'nun anlattıkları karşısında dehşete düşmüştüm ve `` Ahmet Bey, sizi ilk kaz tanıyorum ancak bu anlattıklarınız politika olarak uygulanacaksa Kuzey Irak'ta Türk askeri ile ABD askeri karşı karşıya gelir.
+
+S Davutoğlu'nun anlattıkları karşısında dehşe te düşmüştüm ve `` Ahmet Bey, sizi ilk kaz tanıyorum ancak bu anlattıklarınız politika olarak uygulanacaksa Kuzey Irak'ta Türk askeri ile ABD askeri karşı karşıya gelir.
+A 3 5|||rule_6|||dehşete|||REQUIRED|||-NONE-|||0
+
+S Sol kanat zaten ite kaka gidiyor bu sezon.
+
+S Sol kanat zaten i te kaka gidiyor bu sezon.
+A 3 5|||rule_6|||ite|||REQUIRED|||-NONE-|||0
+
+S Yeni cami inşaatının 2 yıl içinde bitirilmesi ve hizmete açılması bekleniyor.
+
+S Yeni cami inşaatının 2 yıl içinde bitirilmesi ve hizme te açılması bekleniyor.
+A 8 10|||rule_6|||hizmete|||REQUIRED|||-NONE-|||0
+
+S Gazete ayrıca `` Kürt sorunu '' nu vurgularken yeni meclisin Kürt isyancılarla nasıl savaşacağına karar vereceğini yazdı.
+
+S Gaze te ayrıca `` Kürt sorunu '' nu vurgularken yeni meclisin Kürt isyancılarla nasıl savaşacağına karar vereceğini yazdı.
+A 0 2|||rule_6|||Gazete|||REQUIRED|||-NONE-|||0
+
+S Bu konuda hazırlıklarını yaptıklarını ifade eden Topbaş, belli bir noktaya geldiklerini ve gelecekte İstanbullular'ın artık ulaşım konusunda 2016 hedefli sıkıntıların geride kaldığını yaşayıp ve göreceklerini ifade etti.
+
+S Bu konuda hazırlıklarını yaptıklarını ifade eden Topbaş, belli bir noktaya geldiklerini ve gelecek te İstanbullular'ın artık ulaşım konusunda 2016 hedefli sıkıntıların geride kaldığını yaşayıp ve göreceklerini ifade etti.
+A 12 14|||rule_6|||gelecekte|||REQUIRED|||-NONE-|||0
+
+S Sürücüler, trafikte ilerlemede güçlük çekti.
+
+S Sürücüler, trafik te ilerlemede güçlük çekti.
+A 1 3|||rule_6|||trafikte|||REQUIRED|||-NONE-|||0
+
+S Araştırmaları sırasında sigara firmalarının 1995 yılında Türkiye'de kapalı alanlarda sigara içilmesinin yasaklanması yönünde kanun çıkması halinde yapmayı planladıkları eylem planına ulaştıklarını anlatan Dağlı, ''Bu eylem planında otelcileri, turizmcileri harekete geçirme, işbirliği yapma, kanuna nasıl karşı çıkacaklarını anlatma gibi konular işleniyor.
+
+S Araştırmaları sırasında sigara firmalarının 1995 yılında Türkiye'de kapalı alanlarda sigara içilmesinin yasaklanması yönünde kanun çıkması halinde yapmayı planladıkları eylem planına ulaştıklarını anlatan Dağlı, ''Bu eylem planında otelcileri, turizmcileri hareke te geçirme, işbirliği yapma, kanuna nasıl karşı çıkacaklarını anlatma gibi konular işleniyor.
+A 28 30|||rule_6|||harekete|||REQUIRED|||-NONE-|||0
+
+S Bütün bu süreçte diyetisyen endrokrinolog, kardiyolog gibiuzmanbir hekim, fizyoterapist, hemşire ve gerekirse psikologtan oluşan ekiple de işbirliğini sürdürür.
+
+S Bütün bu süreç te diyetisyen endrokrinolog, kardiyolog gibiuzmanbir hekim, fizyoterapist, hemşire ve gerekirse psikologtan oluşan ekiple de işbirliğini sürdürür.
+A 2 4|||rule_6|||süreçte|||REQUIRED|||-NONE-|||0
+
+S Mirmahmutoğulları, `` Kampanyaya katılan projeler konularında uzman, seçkin üniversite öğretim üyeleri ve grubumuzun uzman teknik kadrosu tarafından değerlendirilecek.
+
+S Mirmahmutoğulları, `` Kampanyaya katılan projeler konularında uzman, seçkin üniversi te öğretim üyeleri ve grubumuzun uzman teknik kadrosu tarafından değerlendirilecek.
+A 8 10|||rule_6|||üniversite|||REQUIRED|||-NONE-|||0
+
+S Buna karşılık halen kullanamadığımız üçte ikilik su ile üretebileceğimiz enerji potansiyelimiz bulunmaktadır.
+
+S Buna karşılık halen kullanamadığımız üç te ikilik su ile üretebileceğimiz enerji potansiyelimiz bulunmaktadır.
+A 4 6|||rule_6|||üçte|||REQUIRED|||-NONE-|||0
